@@ -55,32 +55,104 @@ A continuacion se mostrara la version temprana del diseño de los botones, cards
 
 
 ## 4.2. Information Architecture
+
+
+
+### 4.2.1. Organization Systems
+
 Para la Arquitectura de informacion, se ordenará el contenido de forma jerárquica (visual hierarchy). Además, se empleará categorización por tópicos. 
 <center>
 
 __Landing Page__
 ![](/Assets/Img/Chapter%20IV/Aquitectura.jpg)
 
-__Aplication Web__
+__Aplication Web: Estudiantes Universitarios__
 ![](/Assets/Img/Chapter%20IV/Aquitectura%202.jpg)
+
+__Aplication Web: Profesores o Expertos__
+![](/Assets/Img/Chapter%20IV/Aquitectura%203.jpg)
 
 </center>
 
-
-### 4.2.1. Organization Systems
-
-A Continuación, se indican los tipos de estructura visual que tendrá cada grupo de información con respecto al segmento objetivo y al tipo de categorización que se usará.
-
-
-
-
-
 ### 4.2.2. Labeling Systems
+En este apartado se mostrará el etiquetado que tendrá nuestra Landing Page y Aplicacion Web.
+
+* __LandingPage__
+
+__Inicio/Home:__ Sección  que mostrará un banner con una frase representativa, de igual manera brindará una idea principal y a su vez un botón con el cual el usuario podrá entrar a la aplicación.
+
+__Servicios/Service:__ Sección dividida por cada segmento en donde se le mostrarán los beneficios que tendrá cada uno a la hora de usar la aplicación.
+
+__Membresía/Membership:__ Se mostraran los precios que tendrá las membresías a los estudiantes universitarios.
+
+__Contactanos/Contact Us:__ Se mostrarán nuestros canales de comunicación, a la vez que un formulario en donde pueda enviar sus comentarios.
+
+__Nosotros/ About Us:__ Esta sección el visitante podrá ver la información del equipo que trabajo en el desarrollo de la aplicacion web. 
+
+* __Aplicacion Web__
+
+#### Segmento : Estudiantes Universitarios
+
+__Inicio/Home:__ En esta sección se mostrara los proyectos creados por el usuario y en los que participa.
+
+__Perfil/ Profile:__ En la seccion se podra editar o borrar informacion de la cuenta.
+
+__Profesionales/ Professionals:__ Esta sección el usuario tiene la posibilidad de ver los profesionales que disponemos en la plataforma con busqueda.
+
+__Biblioteca/Librery:__ Esta sección el usuario podra acceder a la biblioteca donde hay montones de informacion de trabajos anteriores revisados por los expertos. 
+
+__Notificaciones/Notifications__ En esta sección administrar las notificaciones del usuario
+
+#### Segmento : Profesores
+
+
+__Inicio/Home:__ En esta sección se mostrara los proyectos creados por el usuario y en los que participa.
+
+__Perfil/ Profile:__ En la seccion se podra editar o borrar informacion de la cuenta.
+
+__Solicitudes/ Professionals:__ Esta sección el usuario tiene la posibilidad rechazar o ceptar solicitudes para apoyar en un trabajo
+
+
+__Notificaciones/Notifications__ En esta sección administrar las notificaciones del usuario
 
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+En este punto se mostrará los SEO Tags and Meta Tags que tendrá nuestra Landing Page y Aplicacion Web.
 
+<center>
+
+
+ __Landig Page__
+
+  </center>
+  
+
+
+![1](/Assets//Img/Chapter%20IV/meta%201.png)
+
+__Título de la página:__ El título de la página será  LandingPageTeamSync. Dado que ayudara al usuario a diferenciar el landing Page de la aplicacion web
+
+__Descripción de la página:__ La descripción será precisa y corta.
+
+__Palabras clave:__ Las palabras clave son términos y frases con los que nuestra startup y proyecto esta ligado. Esto permitira que nuestro sitio erb sea mas facil de encontrar en los motores de busqueda
+
+__author:__ En el author se pondra el nombre del autor que desarrollo nuestro landing page 
+
+<center>
+
+__Aplication Web__
+</center>
+
+![0](/Assets/Img/Chapter%20IV/meta%202.png)
+
+__Título de la página:__ El título de la página será de TeamSync el nombre del producto. Dado que ayudara al usuario a diferenciar nuestra aplicaion de las diferentes de nuestro Landing Page.
+
+__Descripción de la página:__ La descripción será precisa y corta.
+
+__Palabras clave:__ Las palabras clave son términos y frases con los que nuestros servicios brindados por el aplicativo web
+
+__Copyright:__ En el copyright se pondra el nombre del startup para dar a conocer nuestra participacion el desarrollo de la aplicacion
 ### 4.3.1. Landing Page Wireframe
 
 ### 4.4.2. Web Application Wireflow Diagrams
@@ -91,7 +163,7 @@ A Continuación, se indican los tipos de estructura visual que tendrá cada grup
 
 ## 4.5. Web Applications Prototyping
 En esta sección se mostrará el prototipo de la aplicación web desarrollado en figma siguiendo los estilos establecidos en los anteriores puntos.
-[Link: Visualizar Prototipo en Figma](https://www.figma.com/proto/9U0r61ZoDHjQf7Ck7zotUL/Prototype-TecHelp-APP?type=design&node-id=1-3234&t=HruT40GoBdMnazGq-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3234&show-proto-sidebar=1&mode=design )
+[Link: Visualizar Prototipo en Figma]( )
 
 ![captura]()
 
@@ -131,3 +203,16 @@ En este punto se presentará nuestro Physical data modelo desarrollado en vertab
 ![Diagrama Base de datos](../assets/img/chapter-IV/DataBaseTecHelp.png)
 
 [Link para visualizar el diagrama de base de datos](https://my.vertabelo.com/doc/fO4P0j8AMrEflYiQRGERtsJAMCOcbVjB)
+
+
+
+    <meta name="title" content="LandingPageTeamSync">
+    <meta name="description" content="Landing Page del proyecto TeamSync, Aqui encontraras informacion sobre nuestra aplicacion TeamSync ,beneficios,Membresias, Informacion sobre el team y formas de contactarnos.">
+    <meta name="keywords" content="Universidad,Proyectos,Profesores,Organizacion,Tareas">
+    <meta name="author" content="DevOps">
+
+
+        <meta name="title" content="TeamSync">
+    <meta name="description" content="TeamSync es una aplicacion que brinda servicios en la organizacion de proyectos y permite conectar expertos o profesores con esto alumnos para tener un apoyo mas en sus elaboraciones.">
+    <meta name="keywords" content="Universidad,Proyectos,Profesores,Organizacion,Tareas">
+    <meta name="copyright" content="DevOps">
