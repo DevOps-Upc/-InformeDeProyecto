@@ -155,6 +155,8 @@ __Palabras clave:__ Las palabras clave son términos y frases con los que nuestr
 __Copyright:__ En el copyright se pondra el nombre del startup para dar a conocer nuestra participacion el desarrollo de la aplicacion
 ### 4.3.1. Landing Page Wireframe
 
+### 4.3.2. Landing Page Mock-ups
+
 ### 4.4.2. Web Application Wireflow Diagrams
 
 ### 4.4.3. Web Application Mock-ups
