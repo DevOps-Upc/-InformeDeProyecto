@@ -17,13 +17,39 @@ En este apartado, se mostrará de manera organizada los Branding, Typography, Co
 
 * __Fonts.-__ El tipo de tipografia de letra elegido fue Monserrat debido a su simpleza, elegancia y elegibilidad que transmite al momento de leerlo.
 
-* __Colors.-__ Se selecciono el color morado debido a que transmite calma, sabiduria, creatividad caracteristicas que queremos transmitir en la aplicacion enfocada en grupos que necesitan organizarse.
+* __Colors.-__ Se selecciono como color priamrio el morado debido a que transmite calma, sabiduria, creatividad caracteristicas que queremos transmitir en la aplicacion enfocada en grupos que necesitan organizarse.
 
 <center>
 
-__Color Morado__
+__Color Primario__
 
 ![Color](/Assets/Img/Chapter%20IV/Color.png)
+
+</center>
+
+<center>
+
+__Color de Estado__:Error
+Se usara el color rojo para informar al usuario de algun error fatal al usuario. Esto permitira evitar la frustracion del usuario al no saber sobre el posible error que tiene.
+![Color](/Assets/Img/Chapter%20IV/ROJO.png)
+
+</center>
+
+<center>
+
+__Color de Estado__:Advertencia
+Se usara el color amarillo para advertir al usuario de alguna accion erronea del usuario.
+
+![Color](/Assets/Img/Chapter%20IV/AMARILLO.png)
+
+</center>
+
+<center>
+
+__Color de Estado__:Exitoso
+Se usara el color verde para informar al usuario de la realizacion correcta de una tarea.
+
+![Color](/Assets/Img/Chapter%20IV/VERDE.png)
 
 </center>
 
@@ -155,7 +181,21 @@ __Palabras clave:__ Las palabras clave son términos y frases con los que nuestr
 __Copyright:__ En el copyright se pondra el nombre del startup para dar a conocer nuestra participacion el desarrollo de la aplicacion
 ### 4.3.1. Landing Page Wireframe
 
+![0](/Assets/Img/Chapter%20IV/Incio.png)
+![0](/Assets/Img/Chapter%20IV/Servicios.png)
+![0](/Assets/Img/Chapter%20IV/Membresia.png)
+![0](/Assets/Img/Chapter%20IV/Nosotros.png)
+![0](/Assets/Img/Chapter%20IV/Contactanos.png)
+![0](/Assets/Img/Chapter%20IV/Pie.png)
+
 ### 4.3.2. Landing Page Mock-ups
+
+![0](/Assets/Img/Chapter%20IV/Incio-1.png)
+![0](/Assets/Img/Chapter%20IV/Servicios-1.png)
+![0](/Assets/Img/Chapter%20IV/Membresia-1.png)
+![0](/Assets/Img/Chapter%20IV/Nosotros-1.png)
+![0](/Assets/Img/Chapter%20IV/Contactanos-1.png)
+![0](/Assets/Img/Chapter%20IV/Pie-1.png)
 
 ### 4.4.2. Web Application Wireflow Diagrams
 
