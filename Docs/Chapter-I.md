@@ -63,9 +63,13 @@
 
 <h3>1.2.1 Antecedentes y problemática</h3>
 <h4>Antecedentes</h4>
-
+<p>Antes del desarrollo de soluciones especializadas para la gestión de proyectos en entornos educativos, los estudiantes y profesores enfrentaban diversos desafíos en la organización y seguimiento de proyectos académicos. Tradicionalmente, se confiaba en métodos manuales y herramientas generalizadas de gestión de proyectos, que carecían de funcionalidades específicas para el ámbito educativo. Esto resultaba en una falta de claridad en las responsabilidades, dificultades para hacer un seguimiento efectivo del progreso del proyecto y limitaciones en la comunicación entre estudiantes y profesores. Además, la evaluación y retroalimentación sobre el trabajo realizado eran procesos que requerían un esfuerzo adicional y carecían de herramientas automatizadas para facilitar estas tareas. Estas limitaciones afectaban negativamente la eficiencia, la colaboración y la calidad general de los proyectos académicos. Ante esta problemática, surge la necesidad de desarrollar una solución específica que aborde las necesidades únicas de estudiantes y profesores en entornos educativos, promoviendo una gestión más eficiente, colaborativa y efectiva de proyectos académicos.</p>
 <h4>Problemáticas</h4>
+<p>La dificultad en la organización y seguimiento de proyectos en entornos educativos se ve agravada por la falta de herramientas especializadas que aborden las necesidades específicas de estudiantes y profesores. Si bien existen plataformas de gestión de proyectos como Trello, estas herramientas no están diseñadas específicamente para el ámbito educativo y pueden no ofrecer las funcionalidades necesarias para facilitar la colaboración entre estudiantes y profesores.
 
+La falta de una plataforma dedicada a la gestión de proyectos académicos puede resultar en problemas como la pérdida de claridad en las responsabilidades, la dificultad para hacer un seguimiento efectivo del progreso del proyecto y la limitada comunicación entre estudiantes y profesores. Además, la falta de herramientas integradas para la evaluación y retroalimentación puede dificultar la capacidad de los docentes para supervisar y guiar adecuadamente a los estudiantes a lo largo del proceso de desarrollo del proyecto.
+
+Por lo tanto, la problemática se agrava por la falta de soluciones específicas que aborden las necesidades únicas de estudiantes y profesores en entornos educativos, lo que puede afectar negativamente la eficiencia, la colaboración y el éxito general en la gestión de proyectos académicos.</p>
 <h3>Técnica de las 5 ‘W’s y 2 ‘H’s</h3>
 <p><strong>What - ¿Cuál es el problema?</strong></br>
 aca escribp</p>
