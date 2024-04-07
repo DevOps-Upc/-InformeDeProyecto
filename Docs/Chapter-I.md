@@ -3,13 +3,10 @@
 <h3>1.1.1. Descripción de la Startup</h3>
 <div align="justify">
 <p>Somos un grupo de estudiantes universitarios de la carrera de ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas, los cuales hemos observado una creciente insatisfaccion por parte de los actuales softwares de gestion de equipos de trabajo.</p>
-<br>
-Misión:
-<br>
-<br>
-Visión:
-<br>
-<br>
+<h4>Misión:</h4>
+<p>asdasd</p>
+<h4>Visión:</h4>
+<p>asdasd</p>
 <h3>1.1.2. Perfiles de integrantes del equipo</h3>
 
 <table style="border-collapse: collapse; width: 100%;">
@@ -39,7 +36,7 @@ Visión:
 </table>
 <br>
 <h2>1.2. Solution Profile</h2>
-<h4>Product Name:</h4>
+<h4>Product Name: <p>TeamSync</p></4>
 
 <h4>Product Description:</h4>
 
