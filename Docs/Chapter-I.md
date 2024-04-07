@@ -4,9 +4,10 @@
 <div align="justify">
 <p>Somos un grupo de estudiantes universitarios de la carrera de ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas, los cuales hemos observado una creciente insatisfaccion por parte de los actuales softwares de gestion de equipos de trabajo.</p>
 <h4>Misión:</h4>
-<p>asdasd</p>
+<p>Facilitar la gestión eficiente de proyectos en equipos de trabajo, proporcionando una plataforma intuitiva y colaborativa que permita la formación de grupos, asignación de tareas, seguimiento de proyectos y comunicación fluida entre estudiantes y docentes. Nuestro objetivo es promover el éxito académico y profesional de nuestros usuarios al brindar herramientas que fomenten la organización, la colaboración y el aprendizaje continuo.</p>
 <h4>Visión:</h4>
-<p>asdasd</p>
+<p>Convertirnos en la plataforma líder en la gestión de proyectos para entornos educativos, reconocida por nuestra capacidad para mejorar la productividad y el rendimiento de estudiantes y docentes. Aspiramos a ser un recurso indispensable en la formación y desarrollo profesional al proporcionar un ambiente de trabajo colaborativo y transparente, donde la innovación y la excelencia sean impulsadas constantemente. Nos esforzamos por ser un catalizador del éxito tanto dentro como fuera del aula, promoviendo una cultura de aprendizaje activo y de calidad.</p>
+<br>
 <h3>1.1.2. Perfiles de integrantes del equipo</h3>
 
 <table style="border-collapse: collapse; width: 100%;">
@@ -39,8 +40,26 @@
 <h4>Product Name: <p>TeamSync</p></4>
 
 <h4>Product Description:</h4>
+<p>Nuestra aplicación de gestión de proyectos en equipos de trabajo es una herramienta integral diseñada para simplificar y potenciar la colaboración entre estudiantes y profesores en entornos educativos. Con características robustas y una interfaz intuitiva, nuestra plataforma ofrece todo lo necesario para gestionar proyectos académicos de manera eficiente y efectiva.<ul>
+   <li>Formación de Grupos y Asignación de Tareas:</li>
+      <p>Permite a los usuarios formar grupos de trabajo y asignar tareas específicas a cada miembro del equipo, facilitando la organización y distribución equitativa de responsabilidades.</p>
+   <li>Calendario de Trabajo y Lista de Tareas:</li>
+      <p>Ofrece un calendario integrado donde los usuarios pueden programar fechas límite, reuniones y hitos importantes del proyecto. Además, cuenta con una lista de tareas detallada que ayuda a mantener un seguimiento claro de las actividades pendientes.</p>
+    <li>Seguimiento del Proyecto con Comentarios:</li>
+      <p>Permite a los docentes realizar un seguimiento detallado del progreso del proyecto, proporcionando comentarios específicos en áreas clave para guiar y apoyar a los estudiantes durante todo el proceso de desarrollo.</p>
+    <li>Conexión entre Docentes y Estudiantes:</li>
+      <p>Facilita la comunicación directa entre docentes y estudiantes a través de la solicitud de conexión, donde los profesores pueden ofrecer su experiencia y asesoramiento sobre proyectos específicos, estableciendo un canal de comunicación bidireccional y enriquecedor.</p>
+</ul></p>
 
 <h4>Monetizacion:</h4>
+<p>Ofrecemos tres planes de membresía para adaptarnos a las necesidades de cada usuario:<ul>
+   <li>Plan Estudiante (Gratuito): </li>
+      <p>Permite la gestión de hasta 5 proyectos con un máximo de 5 integrantes por proyecto.</p>
+   <li>Plan Estudiante Premium ($10/mes):</li>
+      <p>Amplía la capacidad a 15 proyectos y 10 integrantes por proyecto, además de permitir la compartición de archivos y videos con un límite de 5MB y la posibilidad de solicitar expertos sobre temas específicos del proyecto.</p>
+    <li>Plan VIP ($20/mes):</li>
+      <p>Ofrece capacidades ilimitadas, junto con acceso exclusivo a una biblioteca de trabajos ya corregidos por profesores, brindando una ventaja adicional en la preparación y ejecución de proyectos académicos.</p>
+</ul></p>
 
 <h3>1.2.1 Antecedentes y problemática</h3>
 <h4>Antecedentes</h4>
