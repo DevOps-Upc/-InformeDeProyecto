@@ -37,9 +37,9 @@
 </table>
 <br>
 <h2>1.2. Solution Profile</h2>
-<h4>Product Name: <p>TeamSync</p></4>
+<h4><strong>Product Name: </strong></h4><p>TeamSync</p>
 
-<h4>Product Description:</h4>
+<h4><strong>Product Description:</strong></h4>
 <p>Nuestra aplicación de gestión de proyectos en equipos de trabajo es una herramienta integral diseñada para simplificar y potenciar la colaboración entre estudiantes y profesores en entornos educativos. Con características robustas y una interfaz intuitiva, nuestra plataforma ofrece todo lo necesario para gestionar proyectos académicos de manera eficiente y efectiva.<ul>
    <li>Formación de Grupos y Asignación de Tareas:</li>
       <p>Permite a los usuarios formar grupos de trabajo y asignar tareas específicas a cada miembro del equipo, facilitando la organización y distribución equitativa de responsabilidades.</p>
@@ -62,9 +62,9 @@
 </ul></p>
 
 <h3>1.2.1 Antecedentes y problemática</h3>
-<h4>Antecedentes</h4>
+<h4><strong>Antecedentes</strong></h4>
 <p>Antes del desarrollo de soluciones especializadas para la gestión de proyectos en entornos educativos, los estudiantes y profesores enfrentaban diversos desafíos en la organización y seguimiento de proyectos académicos. Tradicionalmente, se confiaba en métodos manuales y herramientas generalizadas de gestión de proyectos, que carecían de funcionalidades específicas para el ámbito educativo. Esto resultaba en una falta de claridad en las responsabilidades, dificultades para hacer un seguimiento efectivo del progreso del proyecto y limitaciones en la comunicación entre estudiantes y profesores. Además, la evaluación y retroalimentación sobre el trabajo realizado eran procesos que requerían un esfuerzo adicional y carecían de herramientas automatizadas para facilitar estas tareas. Estas limitaciones afectaban negativamente la eficiencia, la colaboración y la calidad general de los proyectos académicos. Ante esta problemática, surge la necesidad de desarrollar una solución específica que aborde las necesidades únicas de estudiantes y profesores en entornos educativos, promoviendo una gestión más eficiente, colaborativa y efectiva de proyectos académicos.</p>
-<h4>Problemáticas</h4>
+<h4><strong>Problemáticas</strong></h4>
 <p>La dificultad en la organización y seguimiento de proyectos en entornos educativos se ve agravada por la falta de herramientas especializadas que aborden las necesidades específicas de estudiantes y profesores. Si bien existen plataformas de gestión de proyectos como Trello, estas herramientas no están diseñadas específicamente para el ámbito educativo y pueden no ofrecer las funcionalidades necesarias para facilitar la colaboración entre estudiantes y profesores.
 
 La falta de una plataforma dedicada a la gestión de proyectos académicos puede resultar en problemas como la pérdida de claridad en las responsabilidades, la dificultad para hacer un seguimiento efectivo del progreso del proyecto y la limitada comunicación entre estudiantes y profesores. Además, la falta de herramientas integradas para la evaluación y retroalimentación puede dificultar la capacidad de los docentes para supervisar y guiar adecuadamente a los estudiantes a lo largo del proceso de desarrollo del proyecto.
@@ -72,31 +72,49 @@ La falta de una plataforma dedicada a la gestión de proyectos académicos puede
 Por lo tanto, la problemática se agrava por la falta de soluciones específicas que aborden las necesidades únicas de estudiantes y profesores en entornos educativos, lo que puede afectar negativamente la eficiencia, la colaboración y el éxito general en la gestión de proyectos académicos.</p>
 <h3>Técnica de las 5 ‘W’s y 2 ‘H’s</h3>
 <p><strong>What - ¿Cuál es el problema?</strong></br>
-aca escribp</p>
+La problematica se refiere a las dificultades que enfrentan estudiantes y profesores en la organización y seguimiento de proyectos académicos en entornos educativos.</p>
 <p><strong>When - ¿Cuándo sucede el problema?</strong></br>
-sfsdf</p>
+Esta problematica puede ocurrir en cualquier momento en que se asignen y ejecuten proyectos académicos, durante todo el año académico.</p>
 <p><strong>Where - ¿Dónde surge el problema?</strong></br>
-adasd</p>
+Esta problematica ocurre en entornos educativos, como escuelas, universidades y otros centros de educación.</p>
 <p><strong>Who - ¿Quiénes son afectados por el problema?</strong></br>
 Los principales afectados son:
 <ul>
-   <li>asdasda</li>
-   <li>asdad</li>
+   <li>Estudiantes.</li>
+   <li>Profesores.</li>
 </ul></p>
-<p><strong>Why - ¿Cuál es la causa del problema?</strong></br>
-asdasdad</p>
-<p><strong>How - ¿Cómo se llevan a cabo los hechos?</strong></br>
-asdasda</p>
-<p><strong>How much- ¿Cuál es la magnitud del problema?</strong></br>
-asdasdad</p>
-<br>
+<p><strong>Why - ¿Por qué es importante abordar este problema?</strong></br>
+Es importante abordar este problema porque la falta de una solución especializada puede llevar a una falta de claridad en las responsabilidades, dificultades para dar seguimiento eficaz al progreso del proyecto, limitaciones en la comunicación entre estudiantes y profesores y una evaluación subóptima del trabajo realizado, lo que puede afectar negativamente la eficiencia, la colaboración y la calidad general de los proyectos académicos.</p>
+<p><strong>How - ¿Cómo afecta este problema?</strong></br>
+Este problema afecta a los involucrados al generar confusión en las responsabilidades, obstaculizar la comunicación efectiva, dificultar el seguimiento del progreso del proyecto y limitar la capacidad de los profesores para proporcionar una evaluación y retroalimentación adecuadas sobre el trabajo realizado.</p>
+<p><strong>How much- ¿Cuánto afecta este problema?</strong></br>
+El problema puede afectar significativamente a las partes interesadas, lo que lleva a posibles retrasos, malentendidos y resultados subóptimos del proyecto, afectando en última instancia el rendimiento académico y la experiencia general de estudiantes y profesores.</p>
 <h3>1.2.2. Lean UX Process</h3>
 <h4>1.2.2.1. Lean UX Problem Statements.</h4>
-qwqwd
+<p><strong><u>Problem Statement 1</u></strong></br>
+Este </p>
+<p><strong><u>Problem Statement 2</u></strong></br>
+Este </p>
 <h4>1.2.2.2. Lean UX Assumptions.</h4>
-asdasd
+<p><strong><u>Business Outcome</u></strong></br>
+  <ol>
+      <li></li>
+      <li></li>
+  </ol>
+</p>
+<p><strong><u>User Outcome</u></strong></br>
+  <ul>
+    <li>Estudiantes.</li>
+    <li>Profesores.</li>
+  </ul>
+ </p>
 <h4>1.2.2.3. Lean UX Hypothesis Statements.</h4>
-asdasda
+<p>
+  <ol>
+      <li></li>
+      <li></li>
+  </ol>
+</p>
 <h4>1.2.2.4. Lean UX Canvas</h4>
 asdasd
 <h2>1.3. Segmentos Objetivos</h2>
