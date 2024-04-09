@@ -179,7 +179,31 @@ __Descripción de la página:__ La descripción será precisa y corta.
 __Palabras clave:__ Las palabras clave son términos y frases con los que nuestros servicios brindados por el aplicativo web
 
 __Copyright:__ En el copyright se pondra el nombre del startup para dar a conocer nuestra participacion el desarrollo de la aplicacion
+
+### 4.2.4. Searching Systems.
+### 4.2.5. Navigation Systems.
+En esta seccion se estrablecera el sistema de navegacion del landing page y aplicacion web para nuestro usuarios.
+
+
+__Landing Page__
+
+El sistema de navegacion del landing page sera HomeLink esto permite navegar al usuario entre secciones de la pagina web.
+
+ ![HomeLink](https://ui-patterns.com/uploads/image/file/60/best_old_6.jpg)
+
+
+
+
+__Aplicacion web__
+
+El sitema de navegacion seleccionado para la aplicacion web es Navigation Tabs puesto que permite al usuario tener una vista rapida de las opciones de la aplicaion, como ejemplo el icono del perfil aparecera en la parte izquierda superior para mas facil acceso y actualizacion.
+
+![Navigation Tabs](https://ui-patterns.com/uploads/image/file/3725/preview_Screen_Shot_2015-11-24_at_21.22.09.png)
+
+
 ### 4.3.1. Landing Page Wireframe
+
+En esta seccion se desarrollo los wireframes de landing Page que nos daran una vision acerca del diseño final de la pagina web
 
 ![0](/Assets/Img/Chapter%20IV/Incio.png)
 ![0](/Assets/Img/Chapter%20IV/Servicios.png)
@@ -189,6 +213,7 @@ __Copyright:__ En el copyright se pondra el nombre del startup para dar a conoce
 ![0](/Assets/Img/Chapter%20IV/Pie.png)
 
 ### 4.3.2. Landing Page Mock-ups
+En esta seccion se desarrollo los Mock-ups de landing Page que nos daran una vision acerca del diseño final de la pagina web
 
 ![0](/Assets/Img/Chapter%20IV/Incio-1.png)
 ![0](/Assets/Img/Chapter%20IV/Servicios-1.png)
@@ -199,15 +224,65 @@ __Copyright:__ En el copyright se pondra el nombre del startup para dar a conoce
 
 ### 4.4.2. Web Application Wireflow Diagrams
 
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Login.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Sign%20Up.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%203.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%204.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%205.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%206.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%207.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%208.png)
+
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%209.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2010.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2011.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2012.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2013.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2014.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2015.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2016.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2017.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2018.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2019.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2020.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2021.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2022.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2047.png)
+
 ### 4.4.3. Web Application Mock-ups
+
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2023.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2024.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2025.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2028.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2029.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2030.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2031.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2032.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2033.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2034.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2035.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2036.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2037.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2038.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2041.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2042.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2043.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2044.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2045.png)
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2046.png)
+
+![0](/Assets/Img/Chapter%20IV/Wireframe%20y%20Mock%20ups/Wireframe%20-%2048.png)
+
+
 
 ### 4.4.4. Web Application User Flow Diagram
 
 ## 4.5. Web Applications Prototyping
 En esta sección se mostrará el prototipo de la aplicación web desarrollado en figma siguiendo los estilos establecidos en los anteriores puntos.
-[Link: Visualizar Prototipo en Figma]( )
+[Link: Visualizar Prototipo en Figma]( https://www.figma.com/proto/WeNFvAG3Fkayjowc6aCXgJ/TeamSync?type=design&node-id=32-3196&t=NzoKDzLoJdpb9x7Q-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=32%3A3196&show-proto-sidebar=1)
 
-![captura]()
+![captura](/Assets/Img/Chapter%20IV/prototipo.png)
 
 ## 4.6 Domain-Driven Software Architecture
 
