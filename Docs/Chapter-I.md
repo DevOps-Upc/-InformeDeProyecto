@@ -22,7 +22,7 @@
       <img src="" alt="Foto de Gabriel Martel" width="60" height="50" style="border-radius: 25%;">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Martel Zevallos, Gabriel</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de 5º ciclo de la carrera de ingenieria de software. Soy una persona empatica y responsable con habilidades para aprender. Aporto a mi equipo con conocientos de programacion en distintos lenguajes y entornos. Puedo trabajar en equipo y soy un poco perfeccionista.	</td>
+    <td style="border: 1px solid #dddddd; padding: 8px;">Soy estudiante de 5º ciclo de la carrera de ingenieria de software. Soy una persona empatica y responsable con habilidades para aprender. Aporto a mi equipo con conocientos de programacion en distintos lenguajes y entornos. Puedo trabajar en equipo y soy un poco perfeccionista.	</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202121584</td>
   </tr>
   <tr>
@@ -92,20 +92,44 @@ El problema puede afectar significativamente a las partes interesadas, lo que ll
 <h3>1.2.2. Lean UX Process</h3>
 <h4>1.2.2.1. Lean UX Problem Statements.</h4>
 <p><strong><u>Problem Statement 1</u></strong></br>
-Este </p>
+La falta de una plataforma especializada para la gestión de proyectos en entornos educativos ha generado dificultades significativas tanto para estudiantes como para profesores. La ausencia de herramientas específicas para asignar tareas, realizar un seguimiento del progreso y facilitar la comunicación ha llevado a una organización deficiente, retrasos en la entrega y una evaluación subjetiva del desempeño del proyecto.</p>
 <p><strong><u>Problem Statement 2</u></strong></br>
-Este </p>
+En el contexto educativo, la carencia de una solución integral para la gestión de proyectos ha impactado negativamente en la eficiencia y calidad de los proyectos académicos. La falta de herramientas adecuadas para establecer hitos, asignar responsabilidades y proporcionar retroalimentación ha generado confusiones en los roles, dificultades en la colaboración y una evaluación poco objetiva del progreso, afectando así el éxito general de los proyectos.</p>
 <h4>1.2.2.2. Lean UX Assumptions.</h4>
 <p><strong><u>Business Outcome</u></strong></br>
   <ol>
+      <li>Los usuraios requieren una aplicación que facilite el proceso de gestion de trabajos colaborativos y su seguimiento.</li>
+      <li>Estas necesidades pueden ser atendidas mediante una apmlicacion web que sea sencilla de utilizar y muestre los elementos compartidos de forma ordenada.</li>
+      <li>El valor principal de mi producto que se desea transmitir al usuario es </li>
+      <li>La aplicación debera contar con</li>
+      <li>Se conseguira clientes mediante el marketing en redes sociales de tendencia (TikTok; Instagram; etc)</li>
+      <li>Nuestra principal competencia son las aplicaciones web que se usan para un fin parecido.</li>
+      <li>Lo que nos diferenciara de esatas aplicaciones web es que nuestra aplicación permite incluir a un usuario como supervisor, quien dara feedback al equipo en cuestión. Ademas, de contar con un amplio repositorio de proyectos desarrollados y evaluados.</li>
+      <li>Vamos a generar dinero implementando 3 servicios de suscripción</li>
       <li></li>
       <li></li>
   </ol>
 </p>
 <p><strong><u>User Outcome</u></strong></br>
   <ul>
-    <li>Estudiantes.</li>
-    <li>Profesores.</li>
+    <li>¿Quién es el usuario?
+        <p></p>
+    </li>
+    <li>¿Dónde encaja nuestro producto?¿En su trabajo o vida?
+        <p></p>
+    </li>
+    <li>¿Qué problemas tiene nuestro producto y cómo se puede resolver?
+        <p></p>
+    </li>
+    <li>¿Cuándo y cómo es usado nuestro producto?
+        <p></p>
+    </li>
+    <li>¿Qué características son importantes?
+        <p></p>
+    </li>
+    <li>¿Cómo debe verse nuestro producto y cómo debe comportarse?
+        <p></p>
+    </li>
   </ul>
  </p>
 <h4>1.2.2.3. Lean UX Hypothesis Statements.</h4>
