@@ -1,9 +1,4 @@
 # Capítulo IV: Product Design
-Sabio, creativo, imaginativo, realeza,
-La lavanda evoca nostalgia, sentimentalismo.
-Se utiliza a menudo en belleza o antienvejecimiento.
-Productos, utilizados para calmar o calmar.
-
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines.
 
@@ -17,7 +12,7 @@ En este apartado, se mostrará de manera organizada los Branding, Typography, Co
 
 * __Fonts.-__ El tipo de tipografia de letra elegido fue Monserrat debido a su simpleza, elegancia y elegibilidad que transmite al momento de leerlo.
 
-* __Colors.-__ Se selecciono como color priamrio el morado debido a que transmite calma, sabiduria, creatividad caracteristicas que queremos transmitir en la aplicacion enfocada en grupos que necesitan organizarse.
+* __Colors.-__ Se selecciono como color primario el morado debido a que transmite calma, sabiduria, creatividad caracteristicas que queremos transmitir en la aplicacion enfocada en grupos que necesitan organizarse.
 
 <center>
 
@@ -37,7 +32,7 @@ Se usara el color rojo para informar al usuario de algun error fatal al usuario.
 
 <center>
 
-__Color de Estado__:Advertencia
+__Color de Estado__:Advertencia.
 Se usara el color amarillo para advertir al usuario de alguna accion erronea del usuario.
 
 ![Color](/Assets/Img/Chapter%20IV/AMARILLO.png)
@@ -181,6 +176,15 @@ __Palabras clave:__ Las palabras clave son términos y frases con los que nuestr
 __Copyright:__ En el copyright se pondra el nombre del startup para dar a conocer nuestra participacion el desarrollo de la aplicacion
 
 ### 4.2.4. Searching Systems.
+ Para nuestra aplicacion web usara un sistema de filtro para una busqueda (Patron Search Filters) sobre un componente. Por el motivo de la gran facilidad que permite de hacer una busqueda mas detallada.
+
+<center>
+
+__Patron Search Filters__
+</center>
+ 
+ ![search filter](https://ui-patterns.com/uploads/image/file/276/best_1023.jpg)
+
 ### 4.2.5. Navigation Systems.
 En esta seccion se estrablecera el sistema de navegacion del landing page y aplicacion web para nuestro usuarios.
 
@@ -277,6 +281,59 @@ En esta seccion se desarrollo los Mock-ups de landing Page que nos daran una vis
 
 
 ### 4.4.4. Web Application User Flow Diagram
+# Login, Registro y Editar Perfil
+* __USER GOAL__
+    Como usuario deseo registrarme dentro de la aplicacion.
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/1.png)
+* __USER GOAL__
+    Como usuario deseo iniciar sesion con mi correo y contrseña en la app web
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/2.png)
+* __USER GOAL__
+    Como usuario deseo editar mi perfil en cualquier momento
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/3.png)
+# Estudiante
+* __USER GOAL__
+    Como usuario deseo poder acceder a mis proyectos de manera facil.
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/4.png)
+* __USER GOAL__
+    Como usuario deseo poder acceder a los archivos de la biblioteca.
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/5.png)
+    * __USER GOAL__
+    Como usuario deseo poder ver mis notificaciones en cualquier momento.
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/6.png)
+* __USER GOAL__
+    Como usuario deseo poder ver las fechas de las tareas en el calendario
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/7.png)
+
+* __USER GOAL__
+    Como usuario deseo poder ver los proyectos en los que colaboro.
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/8.png)
+* __USER GOAL__
+    Como usuario deseo poder agreagra tareas a mi proyecto
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/9.png)
+* __USER GOAL__
+    Como usuario deseo poder agreagra integrantes a mi proyecto
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/10.png)
+* __USER GOAL__
+    Como usuario deseo poder hacer solicitudes a los docentes disponibles a mi proyecto
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/11.png)
+# Profesor
+* __USER GOAL__
+    Como usuario deseo poder acceder a los proyectos que colaboro
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/12.png)
+* __USER GOAL__
+    Como usuario deseo poder crear tareas a los alumnos.
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/13.png)
+* __USER GOAL__
+    Como usuario deseo poder agregar alumnos.
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/14.png)
+* __USER GOAL__
+    Como usuario deseo poder ver las notificaciones de las solicitudes.
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/15.png)
+* __USER GOAL__
+    Como usuario deseo poder gestionar las solicitudes de participacion.
+![](/Assets/Img/Chapter%20IV/Diagram%20Flow/16.png)
+
 
 ## 4.5. Web Applications Prototyping
 En esta sección se mostrará el prototipo de la aplicación web desarrollado en figma siguiendo los estilos establecidos en los anteriores puntos.
@@ -317,9 +374,9 @@ En esta sección se mostrará el diccionario de las clases usado para el desarro
 
 En este punto se presentará nuestro Physical data modelo desarrollado en vertabelo, con sus respectivas relaciones y entidades.
 
-![Diagrama Base de datos](../assets/img/chapter-IV/DataBaseTecHelp.png)
+![Diagrama Base de datos](/Assets/Img/Chapter%20IV/TeamSync-2024-04-10_21-14.png)
 
-[Link para visualizar el diagrama de base de datos](https://my.vertabelo.com/doc/fO4P0j8AMrEflYiQRGERtsJAMCOcbVjB)
+__Link:__ [https://my.vertabelo.com/doc/37QkUHFIagdyabu4dJbQNrXxknTOrb4D](https://my.vertabelo.com/doc/37QkUHFIagdyabu4dJbQNrXxknTOrb4D)
 
 
 
