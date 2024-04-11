@@ -114,6 +114,20 @@ Gherking : Lenguaje de dominio especializado utilizado en el Behavior Driven Dev
 
 ### 5.1.4 Software Deployment Configuration
 
+#### Landing Page Deployment
+
+Para desplegar la landing page de TeamSync resultó necesario cumplir una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos (se utilizará la plataforma Github Pages y Github Actions, para la implementación y despegue). Cumplido lo anterior, será posible comenzar el despliegue de la landing page. Estos son los pasos a seguir:
+
+<ol>
+  <li>Crear una carpeta Docs para alojar el landing page y especificar en Github Pages como fuente de la página.
+  </li>
+  <li>Asegurarse de que los archivos sigan los terminales correctos "index.html", para la landing page; "style.css" para los estilos y una carpeta "img" que contendrá las imágenes.
+  </li>
+  <li>Cargar los archivos mediante un push a la rama main del repositorio.</li>
+  <li>Verificar que se haya desplegado correctamente.</li>
+
+
+</ol>
 
 ## 5.2 Landing Page, Services & Applications Implementation
 
