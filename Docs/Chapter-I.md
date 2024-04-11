@@ -103,7 +103,7 @@ En el contexto educativo, la carencia de una solución integral para la gestión
       <li>El valor principal de mi producto que se desea transmitir al usuario es la capacidad de simplificar y mejorar la gestión de proyectos académicos tanto para estudiantes como para profesores.</li>
       <li>La aplicación debera contar con caracteristicas y funcinalidades para cumplir su proposito de simplificar y mejorar la gestion de preoyectps academicos</li>
       <li>Se conseguira clientes mediante el marketing en redes sociales de tendencia (TikTok; Instagram; etc)</li>
-      <li>Nuestra principal competencia son las aplicaciones web que se usan para un fin parecido.</li>
+      <li>Nuestra principal competencia son las aplicaciones web que se usan para un fin parecido como Trello, Planner, etc.</li>
       <li>Lo que nos diferenciara de esatas aplicaciones web es que nuestra aplicación permite incluir a un usuario como supervisor, quien dara feedback al equipo en cuestión. Ademas, de contar con un amplio repositorio de proyectos desarrollados y evaluados.</li>
       <li>Vamos a generar dinero implementando 3 servicios de suscripción:</li>
         <ul>
@@ -133,7 +133,7 @@ En el contexto educativo, la carencia de una solución integral para la gestión
         <p>Facilidad de crear nuevos proyectos, asignacion de tareas, seguimiento del progreso, herramientas de comunicacion y colaboracion</p>
     </li>
     <li>¿Cómo debe verse nuestro producto y cómo debe comportarse?
-        <p>El producto debe tener una interfaz limpia, intuitiva y orientada al usuario, con flujos de trabajo claros y acciones fácilmente accesibles</p>
+        <p>El producto debe tener una interfaz limpia, intuitiva y orientada al usuario, con flujos claros y acciones fácilmente accesibles.</p>
     </li>
   </ul>
  </p>
@@ -160,17 +160,17 @@ En el contexto educativo, la carencia de una solución integral para la gestión
     </th>
   </tr>
   <tr> 
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
       <p>Se ha encontrado como principal problematica, la gestión eficiente de proyectos académicos. Esto lleva a dificultades en la organización, colaboración y seguimiento de proyectos, afectando la eficiencia y calidad de la experiencia universitaria.</p>
-    </th>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
       <p>1. Sistema de gamificacion para medir los avances de cada integrante.</p>
       <p>2. Acceso a documentos de información rápida y valiosa dentro del aplicativo acerca de los proyectos.</p>
-    </th>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-      <p>- asdasd</p>
-      <p>- asdaasda</p>
-    </th>
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+      <p>- Los usuraios requieren una aplicación que facilite el proceso de gestion de trabajos colaborativos y su seguimiento.</p>
+      <p>- Vamos a generar dinero implementando 3 servicios de suscripción:</p>
+    </td>
   </tr>
   <tr>
     <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
@@ -184,15 +184,15 @@ En el contexto educativo, la carencia de una solución integral para la gestión
     </th>
   </tr>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-      <p>Esta aplicación está enfocada a estudiantes universitarios y docentes.</p>
+      <p>Esta aplicación está enfocada a personas que están matriculadas en instituciones educativas, como universidades o institutos de educación superior, que ademnas participen en proyectos. Tambien para los docentes que de los mismos centros de estudios que neceesiten una herramienta para visualizar el estado de los proyectos que supervisa.</p>
     </td>
     <th >
       <p><b>    </b></p>
     </th>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-      <p>- asdasd</p>
-      <p>- asdas</p>
-      <p>- asdasd</p>
+      <p>- Diseño de interfaz intuitivo para facilitar la navegacion por la aplicación.</p>
+      <p>- Facil accesibilidad del usuario para hacer uso de nuestro servicio.</p>
+      <p>- Mayor calidad y precisión en los proyectos entregados gracias a una planificación y seguimiento más rigurosos.</p>
     </td>
   </tr>
   <tr>
@@ -208,15 +208,16 @@ En el contexto educativo, la carencia de una solución integral para la gestión
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-      <p>asdasd</p>
+      <p>Creemos que al proporcionar a los estudiantes y profesores una plataforma digital especializada para la gestión de proyectos académicos, aumentará la eficiencia en la organización y colaboración en proyectos grupales. Sabremos si esto es cierto al observar una mejora en la entrega oportuna de proyectos, una mayor comunicación entre los miembros del equipo y una evaluación más objetiva del desempeño del proyecto por parte de los docentes.</p>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-      <p>asdas</p>
+      <p>Investigar y entender quiénes son nuestros usuarios, cuáles son sus metas, qué problemas enfrentan en su día a día y cómo nuestra solución puede ayudarles a resolver estos de manera efectiva.</p>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-      <p>asdasad</p>
+      <p>Debemos realizar una investigación inicial enfocada en entender a nuestros usuarios y sus necesidades. </p>
     </td>
   </tr>
 </table>
 
 <h2>1.3. Segmentos Objetivos</h2>
+Nuestro segmento objetivo son estudiantes universitarios y profesores de educación superior que están involucrados en proyectos académicos. Para los estudiantes, nuestro segmento objetivo incluye aquellos que necesitan organizar, colaborar y realizar un seguimiento efectivo de proyectos grupales como parte de su plan de estudios. Para los profesores, estamos enfocados en aquellos que supervisan y evalúan proyectos académicos realizados por estudiantes y que buscan herramientas efectivas para la gestión y evaluación de proyectos. Ambos grupos de usuarios desean una solución que simplifique la gestión de proyectos académicos, mejore la colaboración entre los miembros del equipo y facilite la comunicación con los estudiantes 
