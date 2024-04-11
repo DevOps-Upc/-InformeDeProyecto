@@ -54,11 +54,11 @@
 
 Nuestro proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones. Links del repositorio de GitHub:
 
-- Link de la organización:
-- Link de la landing page:
-- Link del informe:
-- Link del front end: 
-- Link del back end:
+- Link de la organización: https://github.com/DevOps-Upc
+- Link de la landing page: https://github.com/DevOps-Upc/TeamSync-LandingPage
+- Link del informe: https://github.com/DevOps-Upc/TeamSync-InformeDeProyecto
+- Link del Front-end: https://github.com/DevOps-Upc/TeamSync-Frontend
+- Link del Back-end: https://github.com/DevOps-Upc/TeamSync-Backend
 
 Estructura de las ramas:
 
@@ -69,7 +69,7 @@ Estructura de las ramas:
 - CapituloI Branch: En esta rama se actualizará toda la información y documentación del capítulo I del producto presentado.
 
 
-- CapituloII Branch: En esta rama se actualizará toda la información y documentación del capítulo Ii del producto presentado.
+- CapituloII Branch: En esta rama se actualizará toda la información y documentación del capítulo II del producto presentado.
 
 
 - CapituloIII Branch: En esta rama se actualizará toda la información y documentación del capítulo III del producto presentado.
@@ -79,6 +79,38 @@ Estructura de las ramas:
 - CapituloV Branch: En esta rama se actualizará toda la información y documentación del capítulo V del producto presentado.
 
 ### 5.1.3 Source Code Style Guide & Conventions
+
+HTML: Varias de las mejores prácticas que hemos seguido para alcanzar un código limpio, ordenado, legible y escalable son mostradas a continuación:
+
+- Se usan elementos HTML que tengan un significado claro y  preciso para el contenido que se está marcando. Por ejemplo, utiliza header, nav, main, article, section, aside, footer, entre otros, al estructurar la landing page, sin redundancia, por algún uso incorrecto o querer reinventar la rueda.
+- HTML5 permite algunas etiquetas sin cierre (como "img" y "input"), sin embargo utilizamos la buena práctica de cerrar todas las etiquetas correctamente para evitar problemas de renderizado. Por ejemplo:``` <p> Hola! Somos DevOps-Upc!.</p>```
+- Para mejorar la accesibilidad a nuestras clases, siempre incluimos el atributo alt en las etiquetas, "img" por ejemplo, para describir brevemente el contenido de la imagen. Por ejemplo: ```<img src="image.img" alt="nombre corto de imagen">```
+- En HTML, es posible utilizar tanto mayúsculas como minúsculas en los nombres de elementos y atributos, pero nosotros utilizamos solo minúsculas para mantener el orden y facilitar la legibilidad del código.
+- No omitir etiquetas principales e importantes como ```<html>```, ```<body>```,  ```<header>``` y más.
+- Escribir en una línea los comentarios cortos.
+
+CSS: Entre nuestras prácticas están:
+
+- Los nombres de clases son claros, precisos y autodescriptivos.
+- Separar los nombres de las clases y ID con guión, por ejemplo: ```#userWorker-id``` o ```button-shape{}```.
+- Usar comentarios claros para explicar el código.
+- Aplicar sangría al contenido de un bloque entero.
+- Separar las declaraciones y selectores en nuevas líneas para tener una buena legibilidad y orden.
+
+JavaScript: Principales buenas prácticas:
+
+- Uso de prácticas de nomenclatura, en este caso camelCase para nombrar únicas variables y funciones. Por ejemplo, ```miVariable``` o ```miFuncion```.
+- Uso de PascalCase para nombrar clases y constructores.Por ejemplo, ```MiClase```.
+- Evitamos el uso de nombres de variables genéricos o ambiguos.
+- Uso general de comentarios para explicar el propósito y funcionalidad de la porción del código.
+- Uso de punto y coma al final de cada declaración.
+- Uso de comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
+- Uso de operadores ternarios, por ejemplo, ```(condición ? resultadoTrue : resultadoFalse)``` de manera cuidadosa según la legibilidad y dificultad del bloque de código.
+- Evitación y eliminación del uso de funciones obsoletas o en desuso.
+- Uso de ```try-catch``` para manejar y gestionar errores.
+- Organización del código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
+
+Gherking : Lenguaje de dominio especializado utilizado en el Behavior Driven Development (BDD), sdiseñado para mejorar la comunicación entre equipos de negocios y técnicos al abordar problemas específicos. Emplea saltos de línea y palabras clave como "Given", "When", "Then" y "And" para mejorar la legibilidad y la organización de los escenarios en BDD, facilitando la estructuración clara y efectiva de diferentes tipos de casos. Estas prácticas nos ayudan a estructurar de manera clara y efectiva los diferentes tipos de escenarios en BDD.
 
 ### 5.1.4 Software Deployment Configuration
 
