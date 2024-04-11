@@ -345,14 +345,15 @@ En esta sección se mostrará el prototipo de la aplicación web desarrollado en
 
 Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nuestro software, basándonos en el enfoque de desarrollo de Domain Driven Design.
 ### 4.6.1. Software Architecture Context Diagram.
+![](/Assets/Img/Chapter%20IV/structurizr-SystemContext-001%20(1).png)
 
 
 ### 4.6.2. Software Architecture Container Diagrams.
-
+![](/Assets/Img/Chapter%20IV/structurizr-Container-001%20(1).png)
 
 
 ### 4.6.3. Software Architecture Components Diagrams.
-
+![](/Assets/Img/Chapter%20IV/structurizr-Componente%20(1).png)
 
 
 ## 4.7 Software Object-Oriented Design
