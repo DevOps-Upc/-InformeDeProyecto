@@ -359,15 +359,14 @@ Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nu
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1. Class Diagrams.
 
-![imagen]()
+![imagen](/Assets//Img/Chapter%20IV/diagrama%20de%20clases.png)
 <center>
 
-[Link de lucid del diagrama de clases]()
+[Link de lucid del diagrama de clases](https://lucid.app/lucidchart/4ef87a5e-db0e-4cf2-b181-134d58fce7f4/edit?page=0_0&invitationId=inv_fa3364c0-52d8-4abe-bd56-bd5a87f86986#)
 
 </center>
 
-### 4.7.2. Class Dictionary
-En esta sección se mostrará el diccionario de las clases usado para el desarrollo de nuestra solución.
+
 
 
 ## 4.8. Database Design.
