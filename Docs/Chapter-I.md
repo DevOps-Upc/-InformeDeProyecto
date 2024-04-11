@@ -1,8 +1,9 @@
 <h1>Capítulo I: Introducción</h1>
 <h2>1.1. Startup Profile</h2>
+<img src="..\Assets\Img\Chapter I\Logo.png" alt="Logo stratup DevOps" width="300" height="200" style="border-radius: 15%;display: block; margin: 0 auto;">
 <h3>1.1.1. Descripción de la Startup</h3>
 <div align="justify">
-<p>Somos un grupo de estudiantes universitarios de la carrera de ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas, los cuales hemos observado una creciente insatisfaccion por parte de los actuales softwares de gestion de equipos de trabajo.</p>
+<p>DevOps es un grupo de estudiantes universitarios de la carrera de ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas, los cuales hemos observado una creciente insatisfaccion por parte de los actuales softwares de gestion de equipos de trabajo.</p>
 <h4>Misión:</h4>
 <p>Facilitar la gestión eficiente de proyectos en equipos de trabajo, proporcionando una plataforma intuitiva y colaborativa que permita la formación de grupos, asignación de tareas, seguimiento de proyectos y comunicación fluida entre estudiantes y docentes. Nuestro objetivo es promover el éxito académico y profesional de nuestros usuarios al brindar herramientas que fomenten la organización, la colaboración y el aprendizaje continuo.</p>
 <h4>Visión:</h4>
