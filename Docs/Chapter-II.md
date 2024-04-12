@@ -154,64 +154,229 @@ Por ende, dichas necesidades concretas que presentan dichos usuarios nos permite
 
 ### 2.3.2. User Task Matrix
 
+Se realiza un análisis de las principales funciones detectadas en la problemática. Esto basado por los comentarios obtenidos de los 2 segmentos de usuario: Cliente, Dueño de gimnasio y Nutricionista.
 
-| ALTA | BAJA | MEDIA |
-|------|------|-------|      
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=665
+ style='border-collapse:collapse;mso-table-layout-alt:fixed;mso-padding-alt:
+ 0cm .5pt 0cm .5pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=95 rowspan=2 valign=top style='width:71.25pt;border:solid black 1.0pt;
+  border-right:none;mso-border-top-alt:solid black .5pt;mso-border-left-alt:
+  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents align=center style='text-align:center'><span
+  lang=EN-US>Task Matrix</span></p>
+  </td>
+  <td width=190 colspan=2 valign=top style='width:142.5pt;border:solid black 1.0pt;
+  border-right:none;mso-border-top-alt:solid black .5pt;mso-border-left-alt:
+  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents align=center style='text-align:center'><span
+  class=SpellE><span lang=EN-US>Estudiantes</span></span></p>
+  </td>
+  
+  <td width=190 colspan=2 valign=top style='width:142.5pt;border:solid black 1.0pt;
+  mso-border-alt:solid black .5pt;padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents align=center style='text-align:center'><span
+  class=SpellE><span lang=EN-US>Profesores</span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents align=center style='text-align:center'><span
+  class=SpellE><span lang=EN-US>Frecuencia</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents align=center style='text-align:center'><span
+  class=SpellE><span lang=EN-US>Importancia</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents align=center style='text-align:center'><span
+  class=SpellE><span lang=EN-US>Frecuencia</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents align=center style='text-align:center'><span
+  class=SpellE><span lang=EN-US>Importancia</span></span></p>
+  </td>
 
-Indicadores de frecuencia:
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span style='mso-ansi-language:ES-PE'>Crear un nuevo proyecto<o:p></o:p></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span class=SpellE><span lang=EN-US>Siempre</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span lang=EN-US>Alta</span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span class=SpellE><span lang=EN-US>Siempre</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span lang=EN-US>Alta</span></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:2'>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span style='mso-ansi-language:ES-PE'>Asignar tareas a miembros del equipo	<o:p></o:p></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span class=SpellE><span lang=EN-US>Siempre</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span lang=EN-US>Alta</span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span class=SpellE><span lang=EN-US>A veces</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span lang=EN-US>Media</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span style='mso-ansi-language:ES-PE'>Realizar seguimiento del progreso	<o:p></o:p></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span class=SpellE><span lang=EN-US>Siempre</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span lang=EN-US>Media</span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span class=SpellE><span lang=EN-US>Siempre</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span lang=EN-US>Alta</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span style='mso-ansi-language:ES-PE'>Comunicación entre estudiantes y profesores<o:p></o:p></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span class=SpellE><span lang=EN-US>Siempre</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span lang=EN-US>Alta</span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span class=SpellE><span lang=EN-US>Siempre</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span lang=EN-US>Alta</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span style='mso-ansi-language:ES-PE'>Evaluar y dar retroalimentación<o:p></o:p></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span class=SpellE><span lang=EN-US>Nunca</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span lang=EN-US>Baja</span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span class=SpellE><span lang=EN-US>Siempre</span></span></p>
+  </td>
+  <td width=95 valign=top style='width:71.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents><span lang=EN-US>Alta</span></p>
+  </td>
+ </tr>
+</table>
 
-| SIEMPRE | RARA VEZ | NUNCA |
-|------|------|-------|     
-
-<table>
-    <thead>
-        <tr>
-            <th>Segmento objetivo</th>
-            <th colspan="2">Alfredo Benavides Wong</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <th>Tareas</th>
-            <th>Frecuencia</th>
-            <th>Importancia</th>
-        </tr>
-        <tr>
-            <td>Revisar la documentacion que contiene la informacion de un producto</td>
-            <td>Siempre</td>
-            <td>Alta</td>
-        </tr>
-        <tr>
-            <td>Revisar la fecha de vencimiento de cada producto</td>
-            <td>Siempre</td>
-            <td>Alta</td>
-        </tr>   
-        <tr>
-            <td>Revisar la cantidad de cada producto</td>
-            <td>Siempre</td>
-            <td>Media</td>
-        </tr>  
-        <tr>
-            <td>Realizar un conteo para solicitar productos faltantes</td>
-            <td>Rara vez</td>
-            <td>Media</td>
-        </tr>  
-        <tr>
-            <td>Realizar un informe detallado del almacen</td>
-            <td>Rara vez</td>
-            <td>Alta</td>
-        </tr>  
-        <tr>
-            <td>Realiazar actualizacion cada dia del estado de los productos </td>
-            <td>Siemrpe</td>
-            <td>Alta</td>
-        </tr>  
-    </tbody>
-</table>  
 
 
 
 ### 2.3.3. User Journey Mapping
+
 
 
 
