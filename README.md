@@ -12,11 +12,12 @@
 <div align="center">
 
 # Informe TB1
-#### SW56
 ### **Profesor: Efraín Ricardo Bautista Ubillús**
 #### **Startup: DevOps**
 #### **Producto: TeamSync**
 #### **Grupo:**
+#### Sección: SW56
+
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
 | Morales Quispe, Brayan Smith   | U20211F984 |
@@ -28,7 +29,7 @@
 #### Abril 2024
 </div>
 
-## Registro de Versiones Del Informe 
+# **Registro de Versiones Del Informe**
 <table>
   <thead>
     <tr>
@@ -64,32 +65,36 @@
 </table>
 
 
-## Project Report Collaboration Insights 
+# **Student Outcomes**
 
-**Link del repositorio-Informe:** []()
+<table>
+  <thead>
+    <tr>
+        <th>Criterio especifico</th>
+        <th>Acciones realizadas</th>
+        <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto eningeniería</strong></td>
+      <td></td>
+      <td></td>
+  </tr>
+   <tr>
+      <td><strong>Comunicaoralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería </strong></td>
+      <td></td>
+      <td></td>
+  </tr>
+	  
+  </tbody>
+</table>
 
-**Link de los repositorios de la oraganización:** []()
+# Project Report Collaboration Insights 
 
+URL Project Report (Github):https://github.com/DevOps-Upc/TeamSync-InformeDeProyecto
 
-### **Reporte de colaboración de la entrega del TB1:**
-
- Ahora veremos los diagramas de flujo que representan los commits realizados por cada miembro del equipo FoodOs:
-
-![commits-colaboration.png]()
-
-En la imagen se muestra el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo en el presentable entregable. 
-
-![commits.png]()
-
-En esta imagen, hay una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio del informe para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
-
-![git-clones.png]()
-
-Estos gráficos muestra una representación visual de las clonaciones registradas en nuestro repositorio, con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
-
-![network.png](assets/img/chapter-v/network.png)
-
-# Contenido 
+# **Tabla de Contenido**
 ## Capitulo I: Introducción
 ### [1.1. Startup Profile](/Docs//chapter-I.md/#11-startup-profile)
 * #### [1.1.1. Descripcion de la Startup](/Docs/chapter-I.md/#111-descripción-de-la-startup)
