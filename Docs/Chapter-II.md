@@ -399,3 +399,14 @@ En esta sección se presenta el Empathy Mapping de nuestros 3 segmentos objetivo
 
 ### 2.3.5. As-is Scenario Mapping
 
+Segmento 1: Estudiantes<br><br>
+<p align="center">
+   <img src="../Assets/Img/Chapter II/AsIsEstudiante.PNG" >
+</p><br>
+
+Segmento 2: Profesores<br>
+
+<p align="center">
+   <img src="../Assets/Img/Chapter II/AsIsProfesor.PNG" >
+</p><br>
+
