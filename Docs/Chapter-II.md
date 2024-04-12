@@ -121,28 +121,30 @@ Para los que no saben que es <em>Needfinding</em>, es una fragmento crucial y a 
 
 Por ende, dichas necesidades concretas que presentan dichos usuarios nos permite indagar la forma de innovar ideas cada vez mejores.
 
-### 2.3.1. User Person
-
-
+### 2.3.1. User Personas
 
 <div align="justify">
 <p>Estos vienen a representar personajes semi-ficticios basados en los posibles clientes ideales y/o actuales respectivamente, donde cuyos objetivos y características representan las <b>necesidades de un grupo más grande usuarios</b>, de los cuales utilizaran un determinado servicio, producto, sitio web o alguna de marca en particular (Galiana,2021).</p>
 </div>
 
 <div align='center'>
-<img src="../Assets/Img/Chapter II/Miluska-Luzmila-Barrientos.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
+
+#### Estudiantes:
+
+<img src="../Assets/Img/Chapter II/UserPersona1.png" alt="User-Persona-Miluska" style="width:500px;height:750px;">
 
 <br><br>
 
-<img src="../Assets/Img/Chapter II/Luz-Camila-Heredia-Pel-ez.png" alt="User-Persona-Luz" style="width:500px;height:650px;">
+<img src="../Assets/Img/Chapter II/UserPersona2.png" alt="User-Persona-Luz" style="width:500px;height:800px;">
 
 <br><br>
 
-<img src="../Assets/Img/Chapter II/Luis-Alejandro-Mora.png" alt="User-Persona-Luis" style="width:500px;height:650px;">
+#### Profesores:
+<img src="../Assets/Img/Chapter II/UserPersona3.png" alt="User-Persona-Luis" style="width:500px;height:850px;">
 
 <br><br>
 
-<img src="../Assets/Img/Chapter II/Laura-Lopez.jfif" alt="User-Persona-Laura" style="width:500px;height:650px;">
+<img src="../Assets/Img/Chapter II/UserPersona4.png" alt="User-Persona-Laura" style="width:500px;height:850px;">
 
 <br><br>
 
