@@ -1,5 +1,6 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping 
+--**Segmento 1**
 
 ||Creación de proyecto|Ayuda activa|Uso de funciones|
 | :- | :- | :- | :- |
@@ -7,6 +8,7 @@
 |FEELING|Se siente motivado y comprometido al trabajar en equipo y ver el progreso del proyecto.|Se siente seguro al utilizar la plataforma para organizar y colaborar en el proyecto académico.|Se siente emocionado al ver el progreso del proyecto y al acercarse a la fecha de entrega.|
 |THINKING|Está pensando en la eficiencia del trabajo en equipo y en la importancia de seguir el progreso del proyecto.|Está reflexionando sobre cómo la plataforma simplifica la gestión de proyectos y mejora la colaboración entre los miembros del equipo.|Está considerando cómo puede aplicar lo aprendido en futuros proyectos académicos y cómo puede mejorar su habilidad para gestionar proyectos.|
 
+--**Segmento 2**
 
 ||Revisión de proyectos|Uso de funciones|Comunicación con estudiantes|
 | :- | :- | :- | :- |
