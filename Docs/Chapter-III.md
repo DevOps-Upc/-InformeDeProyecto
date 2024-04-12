@@ -20,19 +20,6 @@
 
 
 ## 3.2. User Stories
-
-|**Epic / User Story ID**|<p></p><p>**Título**</p>|<p></p><p>**Descripción**</p>|<p></p><p>**Criterio de aceptación**</p>|
-| :-: | :- | :- | :- |
-|US01|Crear Proyectos Académicos|Como estudiante, quiero crear proyectos, invitar a compañeros y asignar tareas para colaborar eficientemente en trabajos grupales académicos.|<p>Escenario 1: Creación de proyectos.</p><p>Dado que el estudiante se encuentra en la página principal de TeamSync.</p><p>Cuando el estudiante de clic en “Crear Proyecto”</p><p>E invite a sus compañeros</p><p>Y asigne diferentes tareas</p><p>Entonces, sus trabajos grupales serán eficientes.</p>|
-|US02|Notificaciones de Progreso|Como estudiante, necesito notificaciones de progreso y actualizaciones de equipo para estar informado y ajustar el proyecto según sea necesario.|<p>Escenario 1: Edición de información de perfil</p><p>Cuando el estudiante se encuentra en su perfil</p><p>Y de clic en “notificaciones”</p><p>Entonces el estudiante podrá recibir notificaciones sobre su progreso y actualizaciones.</p>|
-|US03|Revisión y Evaluación de Proyectos|<p>Como profesor, deseo revisar, calificar y dar retroalimentación a proyectos estudiantiles para guiar y evaluar eficientemente.</p><p></p>|<p>Escenario 1: Revisar y evaluar proyectos.</p><p>Dado que el profesor se encuentra en la pagina de un proyecto</p><p>Entonces tendrá funciones de calificación, comentar y revisar de forma correcta el proyecto.</p>|
-|US04|Gestión de Notificaciones para Profesores|<p>Como profesor, necesito notificaciones sobre nuevos proyectos y tareas pendientes para gestionar mi tiempo efectivamente.</p><p></p>|<p>Escenario 1: Notificaciones para profesores.</p><p>Cuando el profesor se encuentre en su perfil</p><p>Y de clic en notificaciones</p><p>Entonces podrá recibir notificaciones sobre nuevos proyectos y diferentes tareas.</p>|
-|US05|Acceso a Recursos Académicos|Como estudiante, busco acceso a una biblioteca de recursos para enriquecer mis proyectos académicos.|<p>Escenario 1: Acceso a recursos</p><p>Cuando el estudiante se encuentre en la pagina de recursos</p><p>Y de clic en “Recursos digitales”</p><p>Entonces tendrá acceso a diferentes repositorios con mucha información.</p>|
-|US06|Comunicación en la Plataforma|Como estudiante, quiero comunicarme con mi equipo y profesor para discutir ideas y resolver dudas sobre proyectos.|Escenario 1:|
-|US07|Métricas de Progreso Estudiantil|Como profesor, requiero métricas de progreso estudiantil para identificar áreas de mejora y proporcionar orientación personalizada.|Escenario 1:|
-|US08|Recordatorios de Plazos y Reuniones|Como estudiante, necesito recordatorios de plazos y reuniones para planificar mi tiempo y cumplir con las expectativas del curso.|Escenario 1:|
-
-
 <table>
   <thead>
     <tr>
