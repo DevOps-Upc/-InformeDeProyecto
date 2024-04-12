@@ -19,7 +19,7 @@ Este proceso de comparación es especialmente valioso para obtener información 
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                                       | ¿Qué es lo que brindan y, lo mas importante, en que se basan dichas empresas en el mercado al cual nuestro startup se está encaminando?             |
 
-| Competidores                                                              | <div align='center'> <img src="../Assets/Img/Chapter II/logo.PNG" alt="logo" width="150"></div>                                                                                                                                                                                                                                                                                | <div align='center'> <img src="../Assets/Img/Chapter II/logo_competidor1.png" alt="logo1" width="100"></div>                                                                                               | <div align='center'> <img src="../Assets/Img/Chapter II/logo_competidor2.png" alt="" width="100"></div>                                                                                                                                                                                                                                                                                                       | <div align='center'> <img src="../Assets/Img/Chapter II/logo_competidor3.png" alt="" width="100"></div>                                                                                                                                                                                                                                                                                      |
+| Competidores                                                              | <div align='center'> <img src="../Assets/Img/Chapter II/logo.PNG" alt="logo" width="150"></div>                                                                                                                                                                                                                                                                                | <div align='center'> <img src="../Assets/Img/Chapter II/logo_competidor1.png" alt="logo1" width="100"></div>                                                                                               | <div align='center'> <img src="../Assets/Img/Chapter II/logo_competidor2.png" alt="logo2" width="100"></div>                                                                                                                                                                                                                                                                                                       | <div align='center'> <img src="../Assets/Img/Chapter II/logo_competidor3.png" alt="logo3" width="100"></div>                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <strong> > Overview</strong>                                              | <center>TeamSync es una plataforma en línea diseñada para facilitar la gestión eficiente de proyectos en equipos de trabajo en entornos educativos. Ofrece una experiencia colaborativa centrada en la formación de grupos, asignación de tareas, seguimiento de proyectos y comunicación fluida entre estudiantes y docentes. </center>                                                       | <center>Odoo es una suite de aplicaciones empresariales de código abierto que incluye módulos para CRM, gestión de proyectos, contabilidad, inventario, recursos humanos y más. Ofrece una solución integral para gestionar diversos aspectos de un negocio.</center> | <center>	Asana es una plataforma de gestión de proyectos que ayuda a los equipos a organizar, dar seguimiento y completar su trabajo de manera efectiva.</center>| <center>	Basecamp es una plataforma de gestión de proyectos que se enfoca en la colaboración efectiva entre equipos de trabajo. Ofrece herramientas para la organización de tareas, seguimiento del progreso del proyecto, comunicación y compartición de archivos, todo en un solo lugar.</center>                                                                                                                                                                                                          |
 | <strong> > Ventaja competitiva ¿Qué valor ofrece a los clientes?</strong> | <center>Ofrece una plataforma interactiva y de fácil uso centrada en el ámbito educativo, con características específicas para la gestión eficiente de proyectos en equipos de trabajo.</center>                                                                                                    | <center>Ofrece una amplia gama de funcionalidades empresariales integradas en una sola plataforma, lo que facilita la gestión y el crecimiento de las empresas.</center>                                                                                 | <center>Asana ofrece una plataforma intuitiva y centrada en el equipo que permite a los usuarios colaborar en proyectos, asignar tareas, establecer plazos y dar seguimiento al progreso.</center>                                                                                 | <center>Basecamp ofrece una solución integral para la gestión de proyectos, proporcionando herramientas para la comunicación, colaboración y organización que ayudan a los equipos a trabajar de manera más eficiente. Su enfoque en la simplicidad y la centralización de la información la hace atractiva para aquellos que buscan una solución fácil de usar.</center>                                                                                                                                                                   |
@@ -113,12 +113,42 @@ Duración de la entrevista: [00:00:00 - 00:10:57]
 
 
 ## 2.3. Needfinding
+Para los que no saben que es <em>Needfinding</em>, es una fragmento crucial y a su vez fundamental, el cual consiste en la búsqueda de ciertas necesidades; de las cuales, por medio del proceso de investigación, podamos identificar las necesidades del mercado para llegar a una determina solución.
 
+<blockquote cite="http://lec-estudios.cl/estudios-de-needfinding"> A partir de entrevistas en profundidad, se busca determinar las expectativas y necesidades de futuros usuarios, con el propósito de definir lineamientos que puedan guiar el desarrollo de nuevos proyectos de toda índole (Laboratorios de Estudios Cotidiano, 2018).</blockquote>
+
+<br>
+
+Por ende, dichas necesidades concretas que presentan dichos usuarios nos permite indagar la forma de innovar ideas cada vez mejores.
 
 ### 2.3.1. User Person
 
 
-![User Person](/Assets/Img/Chapter%20II/user%20person_almacenero.jpg)
+
+<div align="justify">
+<p>Estos vienen a representar personajes semi-ficticios basados en los posibles clientes ideales y/o actuales respectivamente, donde cuyos objetivos y características representan las <b>necesidades de un grupo más grande usuarios</b>, de los cuales utilizaran un determinado servicio, producto, sitio web o alguna de marca en particular (Galiana,2021).</p>
+</div>
+
+<div align='center'>
+<img src="../Assets/Img/Chapter II/Miluska-Luzmila-Barrientos.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
+
+<br><br>
+
+<img src="../Assets/Img/Chapter II/Luz-Camila-Heredia-Pel-ez.png" alt="User-Persona-Luz" style="width:500px;height:650px;">
+
+<br><br>
+
+<img src="../Assets/Img/Chapter II/Luis-Alejandro-Mora.png" alt="User-Persona-Luis" style="width:500px;height:650px;">
+
+<br><br>
+
+<img src="../Assets/Img/Chapter II/Laura-Lopez.jfif" alt="User-Persona-Laura" style="width:500px;height:650px;">
+
+<br><br>
+
+</div>
+
+<br>
 
 ### 2.3.2. User Task Matrix
 
@@ -184,8 +214,20 @@ Indicadores de frecuencia:
 
 
 ### 2.3.4. Empathy Mapping
+En esta sección se presenta el Empathy Mapping de nuestros 3 segmentos objetivos. Esta herramienta se utilizó porque permite identificar nuestro público objetivo, conocer su entorno y sus necesidades, lo cual nos permite ver el mundo a través de su perspectiva.
 
+</br>
+<p align="left"><strong>Segmento 1: Estudiante que desea mejorar su desarrollo de trabajo en equipo </strong> </p>
 
+<p align="center">
+   <img src="../Assets/Img/Chapter II/EmpathyMap1.png" >
+</p><br>
+
+<p align="left"><strong>Segmento 2: Profesor que desea supervisar el trabajo de sus alumnos de una forma más sencilla </strong> </p>
+
+<p align="center">
+   <img src="../Assets/Img/Chapter II/EmpathyMap2.png" >
+</p><br>
 
 
 ### 2.3.5. As-is Scenario Mapping
