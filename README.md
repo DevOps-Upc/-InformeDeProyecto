@@ -1,34 +1,32 @@
-<center>
+<div align="center">
 
-# Universidad Peruana De Ciencas Aplicadas
-## Desarrollo de Aplicaciones Open Source SW58
+# Universidad Peruana De Ciencias Aplicadas
+## Carrera de Ingeniería de Software
+## Desarrollo de Aplicaciones Web 
 
-</center>
+
+</div>
 
 <p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
 
-<center>
+<div align="center">
 
-# **Informe TB1**
-## **Nombre de la app**
-## Profesor: Efraín Ricardo Bautista Ubillús
+# Informe TB1
+#### SW56
+### **Profesor: Efraín Ricardo Bautista Ubillús**
+#### **Startup: DevOps**
+#### **Producto: TeamSync**
+#### **Grupo:**
+|          Integrantes           |   Código   |
+| :----------------------------: | :--------: |
+| Morales Quispe, Brayan Smith   | U20211F984 |
+| Ventura Allasi, Randel Russell | U201910669 |
+|                                | U |
+|                                | U |
+|                                | U |
 
-</center>
-
-## **Integrantes:**
-
-*  **Morales Quispe Brayan Smith       U20211F984** 
-*  **hj**    
-*  **jh** 
-*  **i**
-*  **i**
-
-
-<center>
-
-### Abril 2024
-
-</center>
+#### Abril 2024
+</div>
 
 ## Registro de Versiones Del Informe 
 | **Version** | **Fecha** |**Autor**| **Descripcion de modificacion**|
