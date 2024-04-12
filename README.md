@@ -29,9 +29,40 @@
 </div>
 
 ## Registro de Versiones Del Informe 
-| **Version** | **Fecha** |**Autor**| **Descripcion de modificacion**|
-|-------------|-----------|---------|------------|
-| 0.1 | fecha  | Nombre de una persona| Poner una descripcion de la accion|
+<table>
+  <thead>
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>TB1</strong></td>
+      <td>Viernes 12 de Abril</td>
+      <td>
+        <ul>
+          <li>Morales Quispe, Brayan Smith</li>
+          <li>Ventura Allasi, Randel Russell</li>
+        </ul>
+      </td>
+      <td>
+        Se incluyeron los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
+  </tbody>
+</table>
+
 
 ## Project Report Collaboration Insights 
 
