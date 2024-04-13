@@ -91,20 +91,37 @@ Este proceso de comparación es especialmente valioso para obtener información 
 
 <div style="text-align: center;">
 
-<p >Entrevista 1</p>
+### **Usuario nutricionista**
 
-[![Ver entrevista]()]()
+**Tiempo de duración de la entrevista:**  2:34 minutos
+
+**Plataforma utilizada:** Zoom
+
+<h4>Entrevista 1</h4>
+
+<div align ="center">
+
+
+| Nombre  | Apellido |  Edad   |
+| :------ | :------- | :-----: |
+| Luis | Alejo    | Edad 17 |
+
+</br>
+<img src="../Assets/Img/Chapter II/EntrevistaAlejo.PNG" >
+
+</br>
+
+<p align="justify">Resumen entrevista: Luis Angel Alejo Cardenas tiene 17 años, esta cursando el 5to de secundaria en Juan Pablo Peregrino de la Paz, en Lima.</br>
+Quiere realizar proyectos para todas sus materias de secundaria, utiliza un smartphone Android y una laptop con Sistema Operativo Windows.</br>
+Utilizó antes herramientas para gestionar los proyectos pero no le gustó, desea que una aplicación de este tipo seas fácil de usar y sea amigable. Desea que se pueda asignar tareas, reuniones por llamada y videollamada y que pueda estar en constante contacto con los profesores.</br>
+Cree que nuestra apliación le ayudará a que realice un proyecto de forma eficaz, en un tiempo aceptable y que permita una buena gestión y organización de tareas, que nos ayude a optimizar nuestra forma de desarrollar un proyecto.
+Le animaría que tenga un diseño que llame la atencion, que sea simple e intuitivo de usar y que las suscripciones no estén a un elevado precio.</br>
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EeL2EztsmJxKk2lXeNx5YvMB5Utf34bdhCORjcI4JZGj9w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eNaZru">Entrevista Estudiante 1</a>
+
+</p>
 
 </div>
-
-Datos Demográficos:  
- 
-- Nombre: 
-- Edad: 
-- Ocupación:  
-- Distrito de Residencia:  
-
-Duración de la entrevista: [00:00:00 - 00:10:57]
+</br>
 
 #### Preguntas principales:
 
