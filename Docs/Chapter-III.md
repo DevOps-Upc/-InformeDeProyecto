@@ -452,7 +452,8 @@
         </td>
         <td>
           Escenario 1: Sitio traducido
-        
+          Dado que el visitante quiere traducir nuestra web a un idioma diferente 
+          Entonces, implementaremos una función para cambiar el idioma de nuestra web
         </td>
         <td>
           EP01
@@ -493,19 +494,6 @@
       </tr>
       <tr>
         <td><strong>EP01/US25</strong></td>
-        <td>Sección sobre el segmento objetivo de TeamSync  </td>
-        <td>
-            Como visitante, quiero que el landing page me muestre una sección a quien esta dirigido la aplicación
-        </td>
-        <td>
-          Escenario 1: 
-        </td>
-        <td>
-          EP01
-        </td>
-      </tr>
-      <tr>
-        <td><strong>EP01/US26</strong></td>
         <td>Sección sobre nosotros de TeamSync </td>
         <td>
             Como visitante, quiero que el landing page me muestre una sección sobre los desarrolladores del producto.
@@ -523,7 +511,7 @@
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US27</strong></td>
+        <td><strong>EP01/US26</strong></td>
         <td>Sección de contacto de TeamSync  </td>
         <td>
             Como visitante, quiero que el landing page me muestre una sección que me ponga en contacto con el startup.
@@ -541,7 +529,7 @@
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US28</strong></td>
+        <td><strong>EP01/US27</strong></td>
         <td>Subir fotos de perfil </td>
         <td>
             Como usuario, quiero subir una imagen a mi perfil para poder personalizarlo a mi comodidad
@@ -565,7 +553,7 @@
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US31</strong></td>
+        <td><strong>EP01/US28</strong></td>
         <td>Notificaciones de Progreso </td>
         <td>
             Como estudiante, necesito notificaciones de progreso y actualizaciones de equipo para estar informado y ajustar el proyecto según sea necesario.
@@ -578,7 +566,7 @@
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US32</strong></td>
+        <td><strong>EP01/US29</strong></td>
         <td>Revisión y Evaluación de Proyectos</td>
         <td>
             <p>Como profesor, deseo revisar, calificar y dar retroalimentación a proyectos estudiantiles para guiar y evaluar eficientemente.</p>
@@ -604,7 +592,7 @@
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US34</strong></td>
+        <td><strong>EP01/US30</strong></td>
         <td>Acceso a Recursos Académicos</td>
         <td>
             Como estudiante, busco acceso a una biblioteca de recursos para enriquecer mis proyectos académicos.
@@ -617,39 +605,34 @@
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US35</strong></td>
+        <td><strong>EP01/US31</strong></td>
         <td>Comunicación en la Plataforma</td>
         <td>
             Como estudiante, quiero comunicarme con mi equipo y profesor para discutir ideas y resolver dudas sobre proyectos.
         </td>
         <td>
-          Escenario 1:
+          Escenario 1: Comunicación en la plataforma
+          Dado que el usuario quiere comunicarse entre miembros y profesores dentro de la aplicación 
+          Cuando el usuario se encuentre dentro de su proyecto
+          Y cliquee en "Chat del proyecto"
+          Entonces, creará un chat para comunicarse con el equipo y profesor a cargo
         </td>
         <td>
           EP01
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US36</strong></td>
-        <td>Métricas de Progreso Estudiantil </td>
-        <td>
-            Como profesor, requiero métricas de progreso estudiantil para identificar áreas de mejora y proporcionar orientación personalizada.
-        </td>
-        <td>
-          Escenario 1: 
-        </td>
-        <td>
-          EP01
-        </td>
-      </tr>
-      <tr>
-        <td><strong>EP01/US37</strong></td>
+        <td><strong>EP01/US32</strong></td>
         <td>Recordatorios de Plazos y Reuniones</td>
         <td>
             Como estudiante, necesito recordatorios de plazos y reuniones para planificar mi tiempo y cumplir con las expectativas del curso.
         </td>
         <td>
-          Escenario 1: 
+          Escenario 1: Recordatorios
+          Dado que el estudiante quiere recibir recordatorios sobre futuras tareas y/o proyectos
+          Cuando el estudiante se encuentre en la pestaña de proyectos 
+          Y cliquee en "Activar notificaciones"
+          Entonces, el la plataforma le notificará a su correo las diferentes actividades que se realicen en el proyecto seleccionado
         </td>
         <td>
           EP01
