@@ -13,10 +13,12 @@
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Foto</th>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Miembro</th>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Habilidades</th>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Codigo</th>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="../Assets/Img/Chapter I/foto fab.jpg" alt="Foto de Fabian Reyes" width="auto" height="auto" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Reyes Trujillano Fabian</td>
+    <td style="border: 1px solid #dddddd; padding: 8px;">Tengo 19 años. Soy estudiante de 5º ciclo de la carrera de ingenieria de software. una persona segura de sí misma, capaz de tomar decisiones importantes y brindar ideas rápidas para solucionar un problema. Tengo conocimientos intermedios en C++, Python, HTML y me encuentro aprendiendo Javascript y Typescripta.	</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202218233</td>
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
