@@ -135,8 +135,7 @@ Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_
 | Elvira | Peña    | Edad 36 |
 
 </br>
-<img src="../Assets/Img/Chapter II/CapturaDePantallaEntrevistaUserProfesor.PNG" >
-
+<img src="../Assets/Img/Chapter II/CapturaDePantallaEntrevistaUserProfesor.png">
 </br>
 
 <p align="justify">Resumen entrevista: Elvira Peña tiene 36 años, es profesora universitaria.</br>
