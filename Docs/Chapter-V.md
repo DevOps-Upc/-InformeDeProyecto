@@ -133,23 +133,57 @@ Para desplegar la landing page de TeamSync resultó necesario cumplir una serie 
 
 ### 5.2.1 Sprint 1
 
-#### 5.2.1.1 Sprint Planning 1
+#### 5.2.1.1. Sprint Planning 1
+En el Sprint Planning, el equipo se reúne para planificar y definir la meta del Sprint, así como para discutir el backlog del producto y seleccionar los elementos de trabajo que se abordarán en el próximo Sprint. 
+| Sprint #| Sprint 1|
+|---------|---------|
+|Sprint Planing Background||
+|Date| 2024-04-01|
+|Time | 23:19|
+|Location| Reunion Virtual(Plataforme Discord)|
+|Prepared By|  Brayan Morales|
+|Attendees (to planning meeting)|Sebastian Alonso Bustinza Muñoz,Ventura Allasi Randel Russell, Gonzalo Andre Zavala Quedena, Martel Zevallo Gabriel,Fabian Alonso Reyes Trujillano |
+|Sprint 0 Review Summary| Dado que es nuestro primer Sprint, se cuenta con los avances y finalización de los puntos de la documentación de este entregable.|
+|Sprint 0 Retrospective Summary|Como retroalimentacion al equipo de trabajo se noto los siguientes puntos a mejorar: velocidad de trabajo, mejora en la comunicacion en el equipo y mejoramiento en la responsabilidad en el cumplimiento de tareas. |
+|Sprint Goals & User Stories||
+|Sprint 1 Goal| Como Startup el Goal de este pirmer Sprint es completar con la implementación y diseño de la landing page.
+|Sprint 1 Velocity| Creación del Landing Page|
+|Sprints of Story Points| x Story points|
 
-Sprint #1 <br>
+#### 5.2.1.2. Sprint Backlog 1
+En el contexto de las aplicaciones web, el Sprint Backlog puede contener tareas como desarrollar nuevas funcionalidades, corregir errores o mejorar el rendimiento del sitio web. El equipo de desarrollo trabaja en el Sprint Backlog durante el Sprint para completar las tareas y lograr los objetivos del Sprint. Es importante que el equipo tenga en cuenta la prioridad y el valor de las tareas para asegurar que se estén abordando las más importantes para el éxito del proyecto.
+|Sprint #| Sprint 1 | | | |      | | |
+|--------|----------|-----|---|----|----|----|----|
+|User Story| Work-Item/Task|
+|Id| Title|Id|Title|Description|Estimation|Asigned To|Status (To-do/In-Process/To-Review/Done)|
+|US22|Implementar un landing Page Responsive|6|Información de la aplicación web en el landing page|Como visitante, quiero interactuar en una landing page responsive, para que se adapte a la resolución de mi dispositivo.|2 horas||Done|
+|US23|Implementar un cambio de idioma en el Landing Page|6|Información de la aplicación web en el landing page|Como visitante, quiero poder cambiar de idioma para poder comprender el mensaje del landing page.|2 horas||Done|
+|US24|Sección sobre el producto TeamSync en el lan|6|Información de la aplicación web en el landing page|Como visitante, quiero que el landing page me muestre una sección que da a conocer el producto.|2 horas||Done|
+|US25|Sección sobre las membresías de TeamSync |6|Información de la aplicación web en el landing page|Como visitante, quiero que el landing page me muestre una sección|2 horas||Done|
+|US26|Sección sobre el segmento objetivo de TeamSync |Información de la aplicación web en el landing page|Como visitante, quiero que el landing page me muestre una sección a quien esta dirigido la aplicación|6|2 horas||Done|
+|US27|Sección sobre nosotros de TeamSync |6|Información de la aplicación web en el landing page|Como visitante, quiero que el landing page me muestre una sección sobre los desarrolladores del producto.|2 horas||Done|
+|US28|Sección de contacto de TeamSync|6|Información de la aplicación web en el landing page|Como visitante, quiero que el landing page me muestre una sección que me ponga en contacto con el startup.|2 horas||Done|
 
-#### 5.2.1.2 Sprint Backlog 1
 
-#### 5.2.1.3 Development Evidence for Sprint Review
-
-A continuación se presentan informacion de los commits de la Landing page de TeamSync, con el uso de HTML, CSS y JavaScript.
-
-#### 5.2.1.4 Testing Suite Evidence for Sprint Review
-
+#### 5.2.1.3. Development Evidence for Sprint Review
+| Repository                         | Branch | Commit Id | Commit Message         | Commit Message Body | Commited on (Date) |
+|------------------------------------|--------|-----------|------------------------|---------------------|--------------------|
+| ArtSoftt/EasyInventory-LandingPage | main   | 325b178   | refactor(Landing Page) | Fix Landing Page    | 18/09/2023         |
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+No tenemos pruebas de testing debido a que el desarrollo del landing page no lo amerita.
 #### 5.2.1.5. Execution Evidence for Sprint Review
+A continuacion mostrare pruebas ejecucion del landing page.
+![](/Assets/Img/Chapter%20V/ecidencia%20landigpage2.png)
+Como se puede evidenciar el despliege fue correcto y con un funcionamiento al 100%
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
+No contamos pruebas de documentacion debido a la razon mencionada anteriormente.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
+El deploymento del landing page se realizó mediante GithubPages.
+![](/Assets/Img/Chapter%20V/evidencia%20landingpage.png)
+Como se puede evidenciar nuestro despliege fue realizado en GitHubPages por su facilidad.
+**Link:** [https://devops-upc.github.io/TeamSync-LandingPage/](https://devops-upc.github.io/TeamSync-LandingPage/)
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-
+Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
+![Collaboration-1](/Assets/Img/Chapter%20V/ramas%20landingpage.png)
+![Collaboration-1](/Assets/Img/Chapter%20V/contibucion%20landingpage.png)
