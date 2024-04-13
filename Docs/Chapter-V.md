@@ -135,7 +135,72 @@ Para desplegar la landing page de TeamSync resultó necesario cumplir una serie 
 
 #### 5.2.1.1 Sprint Planning 1
 
-Sprint #1 <br>
+<table>
+  <caption>Sprint #1</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>12/04/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>17:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Ventura Allasi, Randel</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de DevOps-Upc</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creará la organización de DevOps-Upc en Github y el repositorio de la organización. Además, se implementará el single page landing page.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación para el landing se ha realizado mediante html y css.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 1 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
 
 #### 5.2.1.2 Sprint Backlog 1
 
@@ -143,13 +208,36 @@ Sprint #1 <br>
 
 A continuación se presentan informacion de los commits de la Landing page de TeamSync, con el uso de HTML, CSS y JavaScript.
 
+<p align="center">
+  <img src="../Assets/Img/Chapter V/gitflowLandingPage.png">
+</p>
+
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review
+
+<p align="justify">En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Hasta ahora, no hemos utilizado servicios web en el proceso de desarrollo de la página de inicio. Esto significa que no hemos realizado actividades como la creación de cuentas, la configuración de recursos en proveedores de servicios en la nube, la creación de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras acciones relacionadas.
+
+En cuanto al despliegue de la página de inicio, lo hemos realizado en la plataforma de Github Pages.
+
+Se puede acceder a la página de inicio a través del siguiente enlace: https://DevOps-Upc.github.io/LandingPage/
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+A continuación se presentan capturas de los insights del repositorio del landing page en Github
+
+<p align="center">
+  <img src="../Assets/Img/Chapter V/CapturaSprintReview1.png">
+
+  <img src="../Assets/Img/Chapter V/gitflowLandingPage.png">
+  
+</p>
 
