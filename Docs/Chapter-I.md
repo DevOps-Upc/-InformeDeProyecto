@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="../Assets/Img/Chapter I/yoyoyo.PNG" alt="" width="50" height="50" style="border-radius: 25%;">
+      <img src="../Assets/Img/Chapter I/yoyoyo.PNG" alt="" width="200" height="200" style="border-radius: 25%;">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> Bustinza Muñoz, Sebastian </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> Mi nombre es Sebastian Alonso Bustinza Muñoz, tengo 22 años, estoy estudiando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas, elegí la carrera porque cuando era niño me encantaba la idea de viajar a otro mundo, siempre </td>
