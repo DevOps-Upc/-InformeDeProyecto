@@ -34,6 +34,14 @@
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> Tengo 21 años. Soy estudiante de 5 ciclo de la carrera de Ingeniería de Software. Aspirante profesional a ser del desarrollo web Frontend & Backend, inteligencia artificial, ML y Data Management. Tengo habilidades avanzadas de programación en Python con librerías de ML & AI. </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u201910669</td>
   </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="/Assets/Img/Chapter I/Captura de pantalla 2023-08-03 215559.png" alt="" width="800px" height="auto" style="border-radius: 15%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> Morales Quispe, Brayan Smith Morales Quispe </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> Tengo 20 años. Soy estudiante de 6 ciclo de la carrera de Ingeniería de Software.Tengo habilidades en .Net 7 y Vue  </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u201910669</td>
+  </tr>
 </table>
 <br>
 <h2>1.2. Solution Profile</h2>
