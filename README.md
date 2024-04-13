@@ -78,12 +78,12 @@
   <tbody>
   <tr>
       <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto en ingeniería</strong></td>
-      <td><h6>Brayan Smith Morales Quispe</h6><br>TB1:<p>Lo avanzado por mi parte fue todo el capitulo 4, lo que considero a mejorar es la velocidad y comunicacion del equipo</p></td>
+      <td><h6>Brayan Smith Morales Quispe</h6><br>TB1:<p>Comunique al equipo por discord con la creacion de un grupo para poder coordinar nuestras actividades</p></td>
       <td>TB1: En conclucion el avanze de la tb1 nos da una vision temprana de nuestra aplicacion. Ademas de darnos a conocer entre los mienbros del equipo. <p></p></td>
   </tr>
    <tr>
       <td><strong>Comunicaoralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería </strong></td>
-      <td></td>
+      <td><h6>Brayan Smith Morales Quispe</h6><br>TB1:<p>Lo avanzado por mi parte fue todo el capitulo 4, lo que considero a mejorar es la velocidad y comunicacion del equipo</p></td>
       <td></td>
   </tr>
 	  
