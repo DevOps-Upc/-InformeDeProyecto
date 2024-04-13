@@ -42,6 +42,14 @@
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> Tengo 20 años. Soy estudiante de 6 ciclo de la carrera de Ingeniería de Software.Tengo habilidades en .Net 7 y Vue  </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u201910669</td>
   </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="../Assets/Img/Chapter I/yoyoyo.PNG" alt="" width="200" height="200" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> Bustinza Muñoz, Sebastian </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> Mi nombre es Sebastian Alonso Bustinza Muñoz, tengo 22 años, estoy estudiando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas, elegí la carrera porque cuando era niño me encantaba la idea de viajar a otro mundo, siempre </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202123362</td>
+  </tr>
 </table>
 <br>
 <h2>1.2. Solution Profile</h2>
