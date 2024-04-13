@@ -118,6 +118,32 @@ Cree que nuestra apliación le ayudará a que realice un proyecto de forma efica
 Le animaría que tenga un diseño que llame la atencion, que sea simple e intuitivo de usar y que las suscripciones no estén a un elevado precio.</br>
 Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EeL2EztsmJxKk2lXeNx5YvMB5Utf34bdhCORjcI4JZGj9w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eNaZru">Entrevista Estudiante 1</a>
 
+
+### **Usuario Profesor**
+
+**Tiempo de duración de la entrevista:**  6:47 minutos
+
+**Plataforma utilizada:** Meet
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+
+| Nombre  | Apellido |  Edad   |
+| :------ | :------- | :-----: |
+| Elvira | Peña    | Edad 36 |
+
+</br>
+<img src="../Assets/Img/Chapter II/CapturaDePantallaEntrevistaUserProfesor.PNG" >
+
+</br>
+
+<p align="justify">Resumen entrevista: Elvira Peña tiene 36 años, es profesora universitaria.</br>
+Actualmente presenta problemas al no poder verificar bien los avances de sus alumnos al momento de la realización de sus proyectos.</br>
+A la vez se muestra muy interesada por el producto porque le gustaría dar mentorías personalizadas por organización de su misma profesión dedicada a la investigación en la psicología.</br>
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/Ed2juBrBqwBEl-K8OrS28moBpt5VmZ5felHXZegeqnR95Q?e=cI7cgw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista Profesor 1</a>
+
 </p>
 
 </div>
