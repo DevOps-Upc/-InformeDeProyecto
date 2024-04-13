@@ -379,14 +379,3 @@ En este punto se presentará nuestro Physical data modelo desarrollado en vertab
 __Link:__ [https://my.vertabelo.com/doc/37QkUHFIagdyabu4dJbQNrXxknTOrb4D](https://my.vertabelo.com/doc/37QkUHFIagdyabu4dJbQNrXxknTOrb4D)
 
 
-
-    <meta name="title" content="LandingPageTeamSync">
-    <meta name="description" content="Landing Page del proyecto TeamSync, Aqui encontraras informacion sobre nuestra aplicacion TeamSync ,beneficios,Membresias, Informacion sobre el team y formas de contactarnos.">
-    <meta name="keywords" content="Universidad,Proyectos,Profesores,Organizacion,Tareas">
-    <meta name="author" content="DevOps">
-
-
-        <meta name="title" content="TeamSync">
-    <meta name="description" content="TeamSync es una aplicacion que brinda servicios en la organizacion de proyectos y permite conectar expertos o profesores con esto alumnos para tener un apoyo mas en sus elaboraciones.">
-    <meta name="keywords" content="Universidad,Proyectos,Profesores,Organizacion,Tareas">
-    <meta name="copyright" content="DevOps">
