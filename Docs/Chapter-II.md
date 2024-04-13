@@ -91,7 +91,7 @@ Este proceso de comparación es especialmente valioso para obtener información 
 
 <div style="text-align: center;">
 
-### **Usuario nutricionista**
+### **Usuario Estudiante**
 
 **Tiempo de duración de la entrevista:**  2:34 minutos
 
