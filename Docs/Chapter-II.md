@@ -377,7 +377,17 @@ Se realiza un análisis de las principales funciones detectadas en la problemát
 
 ### 2.3.3. User Journey Mapping
 
+### Estudiante
 
+<p align ="center">
+   <img src="../Assets/Img/Chapter II/CustomerJourneyMapE.png" >
+</p>
+
+### Profesor
+
+<p align ="center">
+   <img src="../Assets/Img/Chapter II/CustomerJourneyMapP.png" >
+</p>
 
 
 ### 2.3.4. Empathy Mapping
