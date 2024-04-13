@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="" alt="" width="50" height="50" style="border-radius: 25%;">
+      <img src="../Assets/Img/Chapter I/RandelVenturaAllasi.jpg" alt="Foto de Randel Ventura" width="auto" height="auto" style="border-radius: 25%;">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> Ventura Allasi, Randel </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> Tengo 21 años. Soy estudiante de 5 ciclo de la carrera de Ingeniería de Software. Aspirante profesional a ser del desarrollo web Frontend & Backend, inteligencia artificial, ML y Data Management. Tengo habilidades avanzadas de programación en Python con librerías de ML & AI. </td>
