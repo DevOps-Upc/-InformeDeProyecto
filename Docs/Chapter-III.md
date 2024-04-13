@@ -618,6 +618,17 @@
 
 ## 3.3. Impact Mapping
 
+### Impact Map User Estudiante
+
+<p align="center">
+  <img src="../Assets/Img/Chapter III/impactMappingUserEstudiante.png" alt="ImpactMapUserEstudiante" width="100%"> 
+</p>
+
+### Impact Map User Profesor
+
+<p align ="center">
+  <img src="../Assets/Img/Chapter III/impactMappingUserProfesor.png" alt="ImpactMapUserProfesor" width=100%>
+</p>
 
 ## 3.4. Product Backlog
 
