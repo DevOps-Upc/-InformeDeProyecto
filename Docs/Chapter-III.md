@@ -325,7 +325,11 @@
             Como profesor, quiero poder comentar sobre el avance del proyecto
         </td>
         <td>
-          Escenario 1:
+          Escenario 1: Comentarios en proyectos
+          Dado que un profesor quiere realizar comentarios sobre la entrega de algun proyecto
+          Cuando este en la pestaña de "Revision de proytectos"
+          Y cliquee en "Comentar"
+          Entonces, el profesor podrá comentar o criticar el trabajo subido.
         </td>
         <td>
           EP01
@@ -338,7 +342,11 @@
             Como profesor, quiero actualizar el estado de la ayuda y avance del proyecto.
         </td>
         <td>
-          Escenario 1: 
+          Escenario 1: Estado del proyecto
+          Dado que el profesor quiere actualizar el estado de la ayuda en un proyecto
+          Cuando este en el apartado de "Proyectos"
+          Y cliquee en "Cambiar estado"
+          Entonces, podrá establecer el nuevo estado del proyecto.
         </td>
         <td>
           EP01
@@ -351,7 +359,12 @@
             Como alumno,quiero crear una solicitud de ayuda para mi proyecto.
         </td>
         <td>
-          Escenario 1: 
+          Escenario 1: Solcitud de ayuda
+          Dado que el alumno quiee crear una solicitud de apoyo hacia un profesor
+          Cuando se encuentre en la pestaña de su proyecto
+          Y cliquee en "Solicitar ayuda"
+          Entonces, el alumno podrá crear una solicitud de ayuda,, incluyendo una pequeña
+          descripción del problema que tenga.
         </td>
         <td>
           EP01
@@ -359,19 +372,6 @@
       </tr>
       <tr>
         <td><strong>EP01/US18</strong></td>
-        <td>Realizar comentarios a los avances de los alumnos</td>
-        <td>
-            Como profesor, quiero realizar comentarios sobre el avance de las tareas de los alumnos.
-        </td>
-        <td>
-          Escenario 1: 
-        </td>
-        <td>
-          EP01
-        </td>
-      </tr>
-      <tr>
-        <td><strong>EP01/US19</strong></td>
         <td>Aceptar o rechazar solicitud de grupo</td>
         <td>
             Como alumno, quiero aceptar o rechazar solicitudes de unirse a un grupo
@@ -384,7 +384,7 @@
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US20</strong></td>
+        <td><strong>EP01/US19</strong></td>
         <td>Buscar trabajos por etiqueta o tema relacionado</td>
         <td>
             Como alumno,quiero buscar trabajos en la biblioteca con una cierta etiqueta.
@@ -397,7 +397,7 @@
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US21</strong></td>
+        <td><strong>EP01/US20</strong></td>
         <td>Descargar Trabajo de la biblioteca/td>
         <td>
             Como alumno, quiero descargar el documento de la biblioteca para verlo sin conexión.
@@ -410,7 +410,7 @@
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US22</strong></td>
+        <td><strong>EP01/US21</strong></td>
         <td>Implementar un landing Page Responsive</td>
         <td>
             Como visitante, quiero interactuar en una landing page responsive, para que se adapte a la resolución de mi dispositivo.
@@ -423,7 +423,7 @@
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US23</strong></td>
+        <td><strong>EP01/US22</strong></td>
         <td>Implementar un cambio de idioma en el Landing Page</td>
         <td>
             Como visitante, quiero poder cambiar de idioma para poder comprender el mensaje del landing page.
@@ -436,13 +436,33 @@
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US24</strong></td>
+        <td><strong>EP01/US23</strong></td>
         <td>Sección sobre el producto TeamSync en el lan</td>
         <td>
             Como visitante, quiero que el landing page me muestre una sección que da a conocer el producto.
         </td>
         <td>
-          Escenario 1: 
+          Escenario 1: Seccion de onformación sobre el producto
+          Dado que el visitante quiere visualizar la información sobre el producto
+          Cuando cliquee en el link de nuestra Web
+          Entonces, se le mostrará la información en la pantalla principal
+        </td>
+        <td>
+          EP01
+        </td>
+      </tr>
+      <tr>
+        <td><strong>EP01/US24</strong></td>
+        <td>Sección sobre las membresías de TeamSync </td>
+        <td>
+            Como visitante, quiero que el landing page me muestre una sección sobre las membresias de TeamSync
+        </td>
+        <td>
+          Escenario 1: Sección de membresías 
+          Dado que el visitante quiere visualizar las membresías que contamos en TeamSync
+          Cuando se encuentre en la pantalla principal de la web
+          Y cliquee en "Membresías"
+          Entonces, podrá ver los diferentes planes que tenemos a su disposición
         </td>
         <td>
           EP01
@@ -450,19 +470,6 @@
       </tr>
       <tr>
         <td><strong>EP01/US25</strong></td>
-        <td>Sección sobre las membresías de TeamSync </td>
-        <td>
-            Como visitante, quiero que el landing page me muestre una sección
-        </td>
-        <td>
-          Escenario 1: 
-        </td>
-        <td>
-          EP01
-        </td>
-      </tr>
-      <tr>
-        <td><strong>EP01/US26</strong></td>
         <td>Sección sobre el segmento objetivo de TeamSync  </td>
         <td>
             Como visitante, quiero que el landing page me muestre una sección a quien esta dirigido la aplicación
@@ -475,13 +482,36 @@
         </td>
       </tr>
       <tr>
-        <td><strong>EP01/US27</strong></td>
+        <td><strong>EP01/US26</strong></td>
         <td>Sección sobre nosotros de TeamSync </td>
         <td>
             Como visitante, quiero que el landing page me muestre una sección sobre los desarrolladores del producto.
         </td>
         <td>
-          Escenario 1: 
+          Escenario 1: Seccion de informacion sobre TeamSync
+          Dado que el visitante quiere leer sobre los desarrolladores de TeamSync
+          Cuando se encuentre en la pantalla principal de la web
+          Y cliquee en "Nosotros"
+          Entonces, le mostrará información sobre los desarrolladores, creadores y miembros del
+          equipo DevOps
+        </td>
+        <td>
+          EP01
+        </td>
+      </tr>
+      <tr>
+        <td><strong>EP01/US27</strong></td>
+        <td>Sección de contacto de TeamSync  </td>
+        <td>
+            Como visitante, quiero que el landing page me muestre una sección que me ponga en contacto con el startup.
+        </td>
+        <td>
+          Escenario 1: Contacto con el Startup
+          Dado que el visitante quiere comuncarse con nosotros
+          Cuando se encuentre en la pantalla principal de la web
+          Y cliquee en "Contacto"
+          Entonces, se abrirá un formulario para llenar sus datos y al lado
+          nuestros medios de contacto
         </td>
         <td>
           EP01
@@ -489,38 +519,23 @@
       </tr>
       <tr>
         <td><strong>EP01/US28</strong></td>
-        <td>Sección de contacto de TeamSync  </td>
-        <td>
-            Como visitante, quiero que el landing page me muestre una sección que me ponga en contacto con el startup.
-        </td>
-        <td>
-          Escenario 1: 
-        </td>
-        <td>
-          EP01
-        </td>
-      </tr>
-      <tr>
-        <td><strong>EP01/US29</strong></td>
         <td>Subir fotos de perfil </td>
         <td>
             Como usuario, quiero subir una imagen a mi perfil para poder personalizarlo a mi comodidad
         </td>
         <td>
-          Escenario 1: 
-        </td>
-        <td>
-          EP01
-        </td>
-      </tr>
-      <tr>
-        <td><strong>EP01/US30</strong></td>
-        <td>Crear Proyectos Académicos </td>
-        <td>
-            Como estudiante, quiero crear proyectos, invitar a compañeros y asignar tareas para colaborar eficientemente en trabajos grupales académicos.
-        </td>
-        <td>
-          <p>Escenario 1: Creación de proyectos.</p><p>Dado que el estudiante se encuentra en la página principal de TeamSync.</p><p>Cuando el estudiante de clic en “Crear Proyecto”</p><p>E invite a sus compañeros</p><p>Y asigne diferentes tareas</p><p>Entonces, sus trabajos grupales serán eficientes.</p>
+          Escenario 1: Cambio de imagen
+          Dado que el estudiante quiere cambiar su foto de perfil
+          Cuando este en su perfil
+          Y le de clic a "Cambiar su foto"
+          Y seleccione la foto y le de "Confirmar cambio"
+          Entonces, su foto será actualizada.
+          Escenario 2: Cambio rechazado
+          Dado que el estudiante quiere cambiar su foto de perfil
+          Cuando este en su perfil
+          Y le de clic a "Cambiar su foto"
+          Y seleccione la foto y le de "Confirmar cambio"
+          Entonces, se mostrará el error "Foto inapropiada, elija otra foto".
         </td>
         <td>
           EP01
