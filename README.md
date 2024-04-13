@@ -78,13 +78,16 @@
   <tbody>
   <tr>
       <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto en ingeniería</strong></td>
-      <td><h6>Brayan Smith Morales Quispe</h6><br>TB1:<p>Comunique al equipo por discord con la creacion de un grupo para poder coordinar nuestras actividades</p></td>
-      <td>TB1: En conclucion el avanze de la tb1 nos da una vision temprana de nuestra aplicacion. Ademas de darnos a conocer entre los mienbros del equipo. <p></p></td>
+      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Comunique al equipo por discord con la creacion de un grupo para poder coordinar nuestras actividades</p>      
+      <h6>Randel Russell Ventura Allasi</h6>TB1:<p>Realicé el registro de las User Stories, el Impact Mapping, parte de la landing page, la organización del informe, el KeyNote y todo el capítulo V de la entrega.</p>
+      </td>      
+      <td>TB1: El avance de la tb1 nos da una vision amplia de nuestra aplicacion. Ademas, nos da a conocer entre los miembros del equipo. Se logró realizar un trabajo sobresaliente, cumplimos con todos los objetivos de la entrega. El documento redactado muestra todos los procesos de elaboración de nuestro producto siendo explicado en cada capítulo la Introducción, sonsacamiento y análisis de requisitos, especificación de requisitos, el diseño del producto y la implementación, validación y despegue del producto.   <p></p></td>
   </tr>
    <tr>
       <td><strong>Comunicaoralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería </strong></td>
-      <td><h6>Brayan Smith Morales Quispe</h6><br>TB1:<p>Lo avanzado por mi parte fue todo el capitulo 4, lo que considero a mejorar es la velocidad y comunicacion del equipo</p></td>
-      <td></td>
+      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Lo avanzado por mi parte fue todo el capitulo 4, lo que considero a mejorar es la velocidad y comunicacion del equipo</p>
+      <h6>Randel Russell Ventura Allasi</h6>TB1:<p>Se tuvo que mantener un constant econtacto con nuestros segmento objetivo para poder delimitar correctamente nuestra solución, como también mantener una buena comunicación y organización mediante reuniones en el equipo.</p></td>
+      <td>Como equipo de desarrollo pudimos establecer medio sde comunicación para poder entregar un trabajo a tiempo y completo. De la misma manera, se contactaron a representantes nuestro segmento objetivo, quienes através de una serie de entrevistas demostraron su satisfacción con la innovación de nuestro producto.</td>
   </tr>
 	  
   </tbody>
