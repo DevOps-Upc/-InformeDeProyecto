@@ -377,7 +377,16 @@
             Como alumno, quiero aceptar o rechazar solicitudes de unirse a un grupo
         </td>
         <td>
-          Escenario 1: 
+          Escenario 1: Aceptar integrantes
+          Dado que el alumno quiere tomar control de las personas que se unen a su proyecto
+          Cuando el alumno reciba una solicitud de ingreso
+          Y le de clic a "Aceptar miembro"
+          Entonces, la persona que solicitó unirse será parte del proyecto
+          Escenario 2: Rechazar integrantes
+          Dado que el alumno quiere tomar control de las personas que se unen a su proyecto
+          Cuando el alumno reciba una solicitud de ingreso
+          Y le de clic a "Rechzar miembro"
+          Entonces, la persona que solicitó unirse NO será parte del proyecto
         </td>
         <td>
           EP01
@@ -390,7 +399,11 @@
             Como alumno,quiero buscar trabajos en la biblioteca con una cierta etiqueta.
         </td>
         <td>
-          Escenario 1
+          Escenario 1: Buscar trabajos por etiqueta
+          Dado que el usuario quiere filtrar los documentos de la biblioteca
+          Cuando se encuentre en la biblioteca de documentos
+          Y cliquee en "Filtrar"
+          Entonces, podrá filtrar su búsqueda no solo por etiquetas, sino por muchos factores más.
         </td>
         <td>
           EP01
@@ -403,7 +416,13 @@
             Como alumno, quiero descargar el documento de la biblioteca para verlo sin conexión.
         </td>
         <td>
-          Escenario 1: 
+          Escenario 1: Descargar documentos de la biblioteca
+          Dado que el alumno quiere visualizar documentos de la biblioteca cuando no tenga conexióm
+          Cuando se encuentre en la biblioteca
+          Y seleccione el documento requerido
+          Y cliquee en "Descargar"
+          Entonces, el documento será descargado y el alumno podrás verlo sin necesidad de una conexión
+          a internet
         </td>
         <td>
           EP01
@@ -416,7 +435,10 @@
             Como visitante, quiero interactuar en una landing page responsive, para que se adapte a la resolución de mi dispositivo.
         </td>
         <td>
-          Escenario 1:
+          Escenario 1: Implementar un landin page Responsive
+          Dado que el visitante quiere revisar nuestra página desde otros dispositivos
+          Cuando ingrese a un dispositivo diferente de un sitio web de escritorio
+          Entonces, podrá interactuar con nuetra web sin ningún problema
         </td>
         <td>
           EP01
@@ -429,7 +451,8 @@
             Como visitante, quiero poder cambiar de idioma para poder comprender el mensaje del landing page.
         </td>
         <td>
-          Escenario 1: 
+          Escenario 1: Sitio traducido
+        
         </td>
         <td>
           EP01
