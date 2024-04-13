@@ -252,12 +252,3 @@ URL Project Report (Github):https://github.com/DevOps-Upc/TeamSync-InformeDeProy
 ## [Concluciones](/Docs)
 ## [Referencia Bibliografica](/Docs)
 -----
-
-## Student Outcome
-
-| **Criterio Especifico**| **Acciones Realizadas** | **Conclusiones** | 
-|------------------------|-------------------------|------------------|
-| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.** | __Morales Quispe Brayan  Smith__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br><br/> __Nombre__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br>| 
-| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.**    | __Morales Quispe Brayan  Smith__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br><br/> __Nombre__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br> | <br/>__TB1__<br/>....<br/>__TP__<br/>....... <br/>__TB2__<br/>.....| 
-
------
