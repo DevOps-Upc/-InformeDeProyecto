@@ -49,6 +49,7 @@
           <li>Morales Quispe, Brayan Smith</li>
           <li>Ventura Allasi, Randel Russell</li>
           <li>Martel Zevallos, Gabriel</li>
+	  <li>Reyes Trujillano, Fabian</li>	
         </ul>
       </td>
       <td>
