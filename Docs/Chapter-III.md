@@ -289,7 +289,12 @@
             Como alumno, quiero compartir archivos y videos de forma segura.
         </td>
         <td>
-          Escenario 1: 
+          Escenario 1: Compartir Archivos
+          Dado que el alumno quiere compartir archivos con su grupo
+          Cuando el alumno se encuentre en la página de su proyecto
+          Y cliquee en "subir archivos"
+          Entonces, podrá elegir la ubicación de estos y subirlos de 
+          manera segura.
         </td>
         <td>
           EP01
