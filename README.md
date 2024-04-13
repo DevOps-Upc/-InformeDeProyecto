@@ -22,9 +22,10 @@
 | :----------------------------: | :--------: |
 | Morales Quispe, Brayan Smith   | U20211F984 |
 | Ventura Allasi, Randel Russell | U201910669 |
-|                                | U |
-|                                | U |
-|                                | U |
+|Sebastian Alonso Bustinza Muñoz | U202123362 |
+| Gonzalo Andre Zavala Quedena | U |
+| Gabriel Aristóteles Martel Zevallos | U |
+|Fabian Alonso Reyes Trujillano||
 
 #### Abril 2024
 </div>
