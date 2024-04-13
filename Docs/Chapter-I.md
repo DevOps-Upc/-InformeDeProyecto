@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="" alt="Foto de Gabriel Martel" width="60" height="50" style="border-radius: 25%;">
+      <img src="../Assets/Img/Chapter I/Gabriel Martel.jpeg" alt="Foto de Gabriel Martel" width="auto" height="auto" style="border-radius: 25%;">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Martel Zevallos, Gabriel</td>
     <td style="border: 1px solid #dddddd; padding: 8px;">Soy estudiante de 5º ciclo de la carrera de ingenieria de software. Soy una persona empatica y responsable con habilidades para aprender. Aporto a mi equipo con conocientos de programacion en distintos lenguajes y entornos. Puedo trabajar en equipo y soy un poco perfeccionista.	</td>
