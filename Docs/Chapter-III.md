@@ -1132,6 +1132,89 @@
   </tbody>
 </table>
 
+### Technical Stories
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Technical Story ID</th>
+      <th>Titulo</th>
+      <th>Descripción</th>
+      <th>Relacionado con(Epic ID)</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td align="center"> T01</td>
+      <td>Diseño de la arquitectura de la aplicación</td>
+      <td>Como desarrollador quiero definir la estructura de la aplicación web, incluyendo la base de datos, los servidores y la lógica de negocio, para garantizar un funcionamiento eficiente y escalable.</td>
+      <td>Todas</td>
+    </tr>
+    <tr>
+      <td align="center"> T02</td>
+      <td>Desarrollo del módulo de autenticación</td>
+      <td>Como desarrollador quiero implementar un sistema de autenticación seguro que permita a los usuarios registrarse, iniciar sesión y gestionar sus cuentas de forma segura.</td>
+      <td>EP01, EP02</td>
+    </tr>
+    <tr>
+      <td align="center"> T03</td>
+      <td>Creación del módulo de gestión de grupos</td>
+      <td>Como desarrollador quiero desarrollar un sistema que permita a los usuarios crear, unirse y gestionar grupos de trabajo, incluyendo funciones de invitación y aceptación de miembros. </td>
+      <td>EP02, EP03, EP04</td>
+    </tr>
+    <tr>
+      <td align="center"> T04</td>
+      <td>Implementación del sistema de roles y permisos</td>
+      <td>Como desarrollador quiero establecer un sistema de roles y permisos que permita asignar diferentes niveles de acceso y acciones a los usuarios dentro de un grupo.</td>
+      <td>EP03, EP04</td>
+    </tr>
+    <tr>
+      <td align="center"> T05</td>
+      <td>Desarrollo del módulo de gestión de proyectos</td>
+      <td>Como desarrollador quiero crear un sistema que permita a los usuarios crear, editar y gestionar proyectos académicos, incluyendo funciones para añadir descripciones, fechas límite y seguimiento del progreso</td>
+      <td>EP04, EP05</td>
+    </tr>
+    <tr>
+      <td align="center"> T06</td>
+      <td>Implementación del sistema de asignación de tareas</td>
+      <td>Como desarrollador quiero desarrollar un sistema que permita a los usuarios asignar tareas dentro de un proyecto, especificando responsables, fechas límite y detalles adicionales.</td>
+      <td>EP02, EP03, EP04, EP05</td>
+    </tr>
+    <tr>
+      <td align="center"> T07</td>
+      <td>Integración de herramientas de comunicación</td>
+      <td>Como desarrollador quiero integrar herramientas de comunicación en tiempo real, como chat o mensajes instantáneos, para facilitar la colaboración entre los miembros del grupo y con los profesores.</td>
+      <td>EP02, EP05</td>
+    </tr>
+    <tr>
+      <td align="center"> T08</td>
+      <td>Desarrollo del sistema de seguimiento de progreso</td>
+      <td>Como desarrollador quiero implementar un sistema que permita hacer un seguimiento del progreso de los proyectos y tareas, mostrando estadísticas y gráficos visuales.</td>
+      <td>EP04, EP05</td>
+    </tr>
+    <tr>
+      <td align="center"> T09</td>
+      <td>Implementación de herramientas de análisis</td>
+      <td>Como desarrollador quiero desarrollar herramientas de análisis que permitan a los usuarios generar informes y resúmenes de proyectos para evaluar el rendimiento y la eficacia de los equipos de trabajo.</td>
+      <td>EP03, EP04, EP05</td>
+    </tr>    
+    <tr>
+      <td align="center">T10</td>
+      <td>Crear una API REST para la aplicación</td>
+      <td> Como desarrollador quiero crear una API RESTful para permitir la conexión del backend y el frontend de la aplicación.</td>      
+      <td>Todas</td>
+    </tr>
+    <tr>
+      <td align="center"> T11</td>
+      <td>Optimizar la interfaz de usuario</td>
+      <td>Como desarrollador quiero optimizar la interfaz de usuario para que sea intuitiva y fácil de usar, mejorar así la experiencia del usuario.</td>
+      <td>Todas</td>
+    </tr>    
+  </tbody>
+</table>
+</div>
+
 ## 3.3. Impact Mapping
 
 ### Impact Map User Estudiante
