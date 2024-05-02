@@ -133,44 +133,89 @@ Para desplegar la landing page de TeamSync resultó necesario cumplir una serie 
 
 ### 5.2.1 Sprint 1
 
-#### 5.2.1.1. Sprint Planning 1
-En el Sprint Planning, el equipo se reúne para planificar y definir la meta del Sprint, así como para discutir el backlog del producto y seleccionar los elementos de trabajo que se abordarán en el próximo Sprint. 
-| Sprint #| Sprint 1|
-|---------|---------|
-|Sprint Planing Background||
-|Date| 2024-04-01|
-|Time | 23:19|
-|Location| Reunion Virtual(Plataforme Discord)|
-|Prepared By|  Brayan Morales|
-|Attendees (to planning meeting)|Sebastian Alonso Bustinza Muñoz,Ventura Allasi Randel Russell, Gonzalo Andre Zavala Quedena, Martel Zevallo Gabriel,Fabian Alonso Reyes Trujillano |
-|Sprint 0 Review Summary| Dado que es nuestro primer Sprint, se cuenta con los avances y finalización de los puntos de la documentación de este entregable.|
-|Sprint 0 Retrospective Summary|Como retroalimentacion al equipo de trabajo se noto los siguientes puntos a mejorar: velocidad de trabajo, mejora en la comunicacion en el equipo y mejoramiento en la responsabilidad en el cumplimiento de tareas. |
-|Sprint Goals & User Stories||
-|Sprint 1 Goal| Como Startup el Goal de este pirmer Sprint es completar con la implementación y diseño de la landing page.
-|Sprint 1 Velocity| Creación del Landing Page|
-|Sprints of Story Points| x Story points|
+#### 5.2.1.1 Sprint Planning 1
 
-#### 5.2.1.2. Sprint Backlog 1
-En el contexto de las aplicaciones web, el Sprint Backlog puede contener tareas como desarrollar nuevas funcionalidades, corregir errores o mejorar el rendimiento del sitio web. El equipo de desarrollo trabaja en el Sprint Backlog durante el Sprint para completar las tareas y lograr los objetivos del Sprint. Es importante que el equipo tenga en cuenta la prioridad y el valor de las tareas para asegurar que se estén abordando las más importantes para el éxito del proyecto.
-|Sprint #| Sprint 1 | | | |      | | |
-|--------|----------|-----|---|----|----|----|----|
-|User Story| Work-Item/Task|
-|Id| Title|Id|Title|Description|Estimation|Asigned To|Status (To-do/In-Process/To-Review/Done)|
-|US22|Implementar un landing Page Responsive|6|Información de la aplicación web en el landing page|Como visitante, quiero interactuar en una landing page responsive, para que se adapte a la resolución de mi dispositivo.|2 horas||Done|
-|US23|Implementar un cambio de idioma en el Landing Page|6|Información de la aplicación web en el landing page|Como visitante, quiero poder cambiar de idioma para poder comprender el mensaje del landing page.|2 horas||Done|
-|US24|Sección sobre el producto TeamSync en el lan|6|Información de la aplicación web en el landing page|Como visitante, quiero que el landing page me muestre una sección que da a conocer el producto.|2 horas||Done|
-|US25|Sección sobre las membresías de TeamSync |6|Información de la aplicación web en el landing page|Como visitante, quiero que el landing page me muestre una sección|2 horas||Done|
-|US26|Sección sobre el segmento objetivo de TeamSync |Información de la aplicación web en el landing page|Como visitante, quiero que el landing page me muestre una sección a quien esta dirigido la aplicación|6|2 horas||Done|
-|US27|Sección sobre nosotros de TeamSync |6|Información de la aplicación web en el landing page|Como visitante, quiero que el landing page me muestre una sección sobre los desarrolladores del producto.|2 horas||Done|
-|US28|Sección de contacto de TeamSync|6|Información de la aplicación web en el landing page|Como visitante, quiero que el landing page me muestre una sección que me ponga en contacto con el startup.|2 horas||Done|
+<table>
+  <caption>Sprint #1</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>12/04/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>17:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Ventura Allasi, Randel</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de DevOps-Upc</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creará la organización de DevOps-Upc en Github y el repositorio de la organización. Además, se implementará el single page landing page.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación para el landing se ha realizado mediante html y css.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 1 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
 
 
-#### 5.2.1.3. Development Evidence for Sprint Review
-| Repository                         | Branch | Commit Id | Commit Message         | Commit Message Body | Commited on (Date) |
-|------------------------------------|--------|-----------|------------------------|---------------------|--------------------|
-| ArtSoftt/EasyInventory-LandingPage | main   | 325b178   | refactor(Landing Page) | Fix Landing Page    | 18/09/2023         |
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
-No tenemos pruebas de testing debido a que el desarrollo del landing page no lo amerita.
+#### 5.2.1.2 Sprint Backlog 1
+
+#### 5.2.1.3 Development Evidence for Sprint Review
+
+A continuación se presentan informacion de los commits de la Landing page de TeamSync, con el uso de HTML, CSS y JavaScript.
+
+<p align="center">
+  <img src="../Assets/Img/Chapter V/gitflowLandingPage.png">
+</p>
+
+#### 5.2.1.4 Testing Suite Evidence for Sprint Review
+
+<p align="justify">En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 A continuacion mostrare pruebas ejecucion del landing page.
 ![](/Assets/Img/Chapter%20V/ecidencia%20landigpage2.png)
@@ -184,6 +229,285 @@ El deploymento del landing page se realizó mediante GithubPages.
 Como se puede evidenciar nuestro despliege fue realizado en GitHubPages por su facilidad.
 **Link:** [https://devops-upc.github.io/TeamSync-LandingPage/](https://devops-upc.github.io/TeamSync-LandingPage/)
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
-![Collaboration-1](/Assets/Img/Chapter%20V/ramas%20landingpage.png)
-![Collaboration-1](/Assets/Img/Chapter%20V/contibucion%20landingpage.png)
+
+A continuación se presentan capturas de los insights del repositorio del landing page en Github
+
+<p align="center">
+  <img src="../Assets/Img/Chapter V/CapturaSprintReview1.png">
+
+  <img src="../Assets/Img/Chapter V/gitflowLandingPage.png">
+  
+</p>
+
+### 5.2.2 Sprint 2
+
+#### 5.2.2.1 Sprint Planning 1
+
+
+<table>
+  <caption>Sprint #2</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>18/04/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>18:00 horas (GMT-5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Morales Quispe, Brayan</td>
+    </tr>
+    <tr>
+      <td>Asistentes a la reunión de planificación</td>
+      <td>Todos los miembros de Dev-Ops</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 2 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creará el repositorio del Web Application, se asignarán secciones y tareas individuales a realizar para su desarrollo y el trabajo continuo para las correcciones del informe.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 2 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación del Web Application se desarrolló con html, css, JavaScript y como framework: Vue.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 2 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.2.2 Sprint Backlog 2
+
+En el segundo Sprint, se implementará la Web Application de Dev-Ops. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+
+<img src="../Assets/Img/Chapter V/sprintBacklog02.png" alt="Trello Sprint planning 02" width="100%">
+
+Evidencia del Trello: 
+https://trello.com/invite/b/RC9DLAsT/ATTIdcd2feef1cb600e47c6b08fd06407c8f3B139A41/dev-ops-sprint-02 
+
+<div align ="center">
+<table>
+  <tr>
+    <th>US Id</th>
+    <th>Title</th>
+    <th>WorkItem Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation(Hours)</th>
+    <th>Assigned To</th>
+    <th>Status(Todo/InProcess/ToReview/Done)</th>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Gestion de Cuenta</td>
+    <td>TK01</td>
+    <td>Creación de opciones para la gestión de la cuenta del usuario</td>
+    <td>Implementar todas las opciones a desarrollar sobre la gestión de la cuenta del usuario</td>
+    <td>6</td>
+    <td>Sebastian</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>Gestion de Perfil</td>
+    <td>TK02</td>
+    <td>Implementación de las opciones sobre el perfil del usuario</td>
+    <td>Crear las opciones a desarrollar sobre la gestión del perfil del usuario</td>
+    <td>6</td>
+    <td>Gonzalo Andre</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Gestion de Bibliotecas</td>
+    <td>TK03</td>
+    <td>Creación de opciones para la gestión de las bibliotecas guardadas por usuario</td>
+    <td>Implementar todas las opciones a desarrollar sobre la gestión de las bibliotecas del usuario</td>
+    <td>4</td>
+    <td>Fabian</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Revision de desarolllo</td>
+    <td>TK04</td>
+    <td>Revisión de la documentación y del avance de las implementacion</td>
+    <td>Documentar e implementar todas las us desarrolladas sobre el usuario estudiante</td>
+    <td>6</td>
+    <td>Randel Ventura</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Gestion de Solicitudes</td>
+    <td>TK05</td>
+    <td>Creación de opciones para la gestión de las solicitudes del usuario</td>
+    <td>Todas las opciones a crear sobre la gestión de las solicitudes del usuario estudiante</td>
+    <td>6</td>
+    <td>Gabriel Martel</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Gestion de Proyectos</td>
+    <td>TK05</td>
+    <td>Creación de opciones para la gestión de los proyectos del usuario</td>
+    <td>Desarrollar todas las opciones a crear sobre la gestión de los proyectos del usuario estudiante</td>
+    <td>8</td>
+    <td>Brayan Smith</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+</div>
+
+#### 5.2.2.3 Development Evidence for Sprint Review
+
+
+<p align="justify">A continuación se presenta  la tabla con la informacion de los commits dados para la Web Application de TeamSync, con el uso de HTML, CSS y JavaScript y Vue</p>
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>TeamSync - Frontend</td>
+    <td>develop</td>
+    <td>1c23922a980579e72d882443b3c4d49823bbcbac</td>
+    <td>feat: navbar</td>
+    <td>23/04/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>feat/experts</td>
+    <td>da69f4f555e422402b0aecb71d5044b304bf6373</td>
+    <td>feat(proyects): fix style toolbar and home commponent</td>
+    <td>24/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feat/experts</td>
+    <td>3ed58ac70fba5ac93635032ee181856f107ccb33</td>
+    <td>feat(footer): added subscribe section in footer</td>
+    <td>25/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feature/register-form:</td>
+    <td>3062460a3a6bad39837b35f59ea14064b5f30d5a</td>
+    <td>feat(register-form): added Register Form</td>
+    <td>25/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feature/register-form:</td>
+    <td>a42dea04f4bf6571f0409c65d9e337a4231e02f6</td>
+    <td>feat(form-login): added form login</td>
+    <td>26/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feature/especialists</td>
+    <td>a6b9c0f3ec45231e74a78db230eb48c555b32229</td>
+    <td>feat(specialists): added specialists adding function</td>
+    <td>26/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feature/especialists</td>
+    <td>511e1349ec64547faf9ec058b36b84a438a59398</td>
+    <td>feat: index de los services</td>
+    <td>26/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feature/especialists</td>
+    <td>5e8cfa0e61ca39da6d150a304ac2c50f20dfe9e5</td>
+    <td>feat: css de services</td>
+    <td>26/04/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>feature/especialists</td>
+    <td>95d0e5d69e162c6805163ba5cbc179ee5c7d1a42</td>
+    <td>feat(footer): added hover in icons</td>
+    <td>26/04/2024</td>
+  </tr>
+  </table>
+
+
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review
+
+<p align="justify">En el transcurso del segundo sprint, no se realizaron pruebas de testing en la Web Application ya que nuestro enfoque se dirigió exclusivamente a la construcción de la Aplicación Web.</p>
+
+#### 5.2.2.5 Execution Evidence for Sprint Review
+
+<p align="justify">A continuación se presentan capturas de la aplicacion web en Vue</p>
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+<p>
+Para el segundo sprint, se decidió enfocarse exclusivamente en la creación de la página de inicio y el desarrollo del front-end. Para evitar limitaciones en las pruebas debido a la falta de un back-end, se utilizó una API falsa (fake-api). Inicialmente, se trabajó con un servidor JSON local y luego se cambió a My JSON Server, el cual se emplea en la aplicación web front-end desplegada.
+</p>
+
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
+
+<p align="justify">Se hizo uso de Firebase Hosting, un servicio publico de Google, dado que nos permitirá hospedar y desplegar nuestro sitio web de manera ágil y sencilla. Además, porque se podrá vincular con nuestro repositorio Git. </p>
+
+<img src="../Assets/Img/Chapter V/firebase_Logo.png" alt="Logo Firebase" width="100%">
+
+
+#### 5.2.2.8 Team Collaboration Insights during Sprint
+
+<p align = "justify">A continuación se presentan capturas de los Insights del repositorio Github del Informe de documentación: </p>
+
+
+
+
+<p> Link del repositorio del Informe del proyecto: 
+<a> https://github.com/DevOps-Upc/TeamSync-InformeDeProyecto</a>
+</p>
+
+<p align = "justify">De la mimsma manera se presentan capturas de los Insights del repositorio Github del Frontend: </p>
+
+<p> Link del repositorio del Frontend de la Web Application: <a> https://github.com/DevOps-Upc/teamsync-frontend </a> </p>
+
