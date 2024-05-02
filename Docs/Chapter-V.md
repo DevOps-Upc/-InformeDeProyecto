@@ -321,6 +321,82 @@ En el segundo Sprint, se implementará la Web Application de Dev-Ops. La herrami
 Evidencia del Trello: 
 https://trello.com/invite/b/RC9DLAsT/ATTIdcd2feef1cb600e47c6b08fd06407c8f3B139A41/dev-ops-sprint-02 
 
+<div align ="center">
+<table>
+  <tr>
+    <th>US Id</th>
+    <th>Title</th>
+    <th>WorkItem Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation(Hours)</th>
+    <th>Assigned To</th>
+    <th>Status(Todo/InProcess/ToReview/Done)</th>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Gestion de Cuenta</td>
+    <td>TK01</td>
+    <td>Creación de opciones para la gestión de la cuenta del usuario</td>
+    <td>Implementar todas las opciones a desarrollar sobre la gestión de la cuenta del usuario</td>
+    <td>6</td>
+    <td>Sebastian</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>Gestion de Perfil</td>
+    <td>TK02</td>
+    <td>Implementación de las opciones sobre el perfil del usuario</td>
+    <td>Crear las opciones a desarrollar sobre la gestión del perfil del usuario</td>
+    <td>6</td>
+    <td>Gonzalo Andre</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Gestion de Bibliotecas</td>
+    <td>TK03</td>
+    <td>Creación de opciones para la gestión de las bibliotecas guardadas por usuario</td>
+    <td>Implementar todas las opciones a desarrollar sobre la gestión de las bibliotecas del usuario</td>
+    <td>4</td>
+    <td>Fabian</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Revision de desarolllo</td>
+    <td>TK04</td>
+    <td>Revisión de la documentación y del avance de las implementacion</td>
+    <td>Documentar e implementar todas las us desarrolladas sobre el usuario estudiante</td>
+    <td>6</td>
+    <td>Randel Ventura</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Gestion de Solicitudes</td>
+    <td>TK05</td>
+    <td>Creación de opciones para la gestión de las solicitudes del usuario</td>
+    <td>Todas las opciones a crear sobre la gestión de las solicitudes del usuario estudiante</td>
+    <td>6</td>
+    <td>Gabriel Martel</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Gestion de Proyectos</td>
+    <td>TK05</td>
+    <td>Creación de opciones para la gestión de los proyectos del usuario</td>
+    <td>Desarrollar todas las opciones a crear sobre la gestión de los proyectos del usuario estudiante</td>
+    <td>8</td>
+    <td>Brayan Smith</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+</div>
+
 #### 5.2.2.3 Development Evidence for Sprint Review
 
 
@@ -404,17 +480,23 @@ https://trello.com/invite/b/RC9DLAsT/ATTIdcd2feef1cb600e47c6b08fd06407c8f3B139A4
 
 <p align="justify">En el transcurso del segundo sprint, no se realizaron pruebas de testing en la Web Application ya que nuestro enfoque se dirigió exclusivamente a la construcción de la Aplicación Web.</p>
 
-#### 5.2.1.5 Execution Evidence for Sprint Review
+#### 5.2.2.5 Execution Evidence for Sprint Review
 
 <p align="justify">A continuación se presentan capturas de la aplicacion web en Vue</p>
 
-#### 5.2.1.6 Services Documentation Evidence for Sprint Review
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+<p>
+Para el segundo sprint, se decidió enfocarse exclusivamente en la creación de la página de inicio y el desarrollo del front-end. Para evitar limitaciones en las pruebas debido a la falta de un back-end, se utilizó una API falsa (fake-api). Inicialmente, se trabajó con un servidor JSON local y luego se cambió a My JSON Server, el cual se emplea en la aplicación web front-end desplegada.
+</p>
+
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
 <p align="justify">Se hizo uso de Firebase Hosting, un servicio publico de Google, dado que nos permitirá hospedar y desplegar nuestro sitio web de manera ágil y sencilla. Además, porque se podrá vincular con nuestro repositorio Git. </p>
 
 <img src="../Assets/Img/Chapter V/firebase_Logo.png" alt="Logo Firebase" width="100%">
 
-#### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint
 
