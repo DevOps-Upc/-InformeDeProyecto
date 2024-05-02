@@ -81,7 +81,8 @@
   <tbody>
   <tr>
       <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto en ingeniería</strong></td>
-      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Comunique al equipo por discord con la creacion de un grupo para poder coordinar nuestras actividades</p>      
+      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Comunique al equipo por discord con la creacion de un grupo para poder coordinar nuestras actividades</p>
+      TB2:<p>Realize una reunion y distribucion de los errores del informe al equipo de trabajo</p>      
       <h6>Randel Russell Ventura Allasi</h6>TB1:<p>Realicé el registro de las User Stories, el Impact Mapping, parte de la landing page, la organización del informe, el KeyNote y todo el capítulo V de la entrega.</p>
       <h6>Bustinza Muñoz Sebastian Alonso</h6>TB1:<p>Cuando estamos desarrollando un proyecto en ingeniería, es crucial comenzar con el Needfinding. En esta etapa, describimos en detalle quiénes son nuestros usuarios y qué problemas enfrentan, así como la solución que proponemos para mejorar la gestión de proyectos. El Solution Profile complementa esto al explicar la visión y misión de nuestro proyecto. En esta entrega considero que comunique de manera clara y objetiva mis ideas y resultados a personas de diferentes áreas y niveles dentro de la organización.</p>
       <h6>Gabriel Martel Zevallos</h6>TB1:<p>Plasme de forma escrita la primera parte del trabajo, en donde se detalla todo lo referente a nuestra idea de negocio aun en su etapa mas abstracta. Tambien comunique a mi equipo sobre mis avances.</p>
@@ -93,6 +94,7 @@
    <tr>
       <td><strong>Comunica oralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería </strong></td>
       <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Lo avanzado por mi parte fue todo el capitulo 4, lo que considero a mejorar es la velocidad y comunicacion del equipo</p>
+      TB2:<p>lo avanzado por mi parte fue el arreglo de las entrevistas, desarrollo del frontEnd y LandingPage y actualizacion del diagrama de clases</p>
       <h6>Randel Russell Ventura Allasi</h6>TB1:<p>Se tuvo que mantener un constant econtacto con nuestros segmento objetivo para poder delimitar correctamente nuestra solución, como también mantener una buena comunicación y organización mediante reuniones en el equipo.</p>
       <h6>Bustinza Muñoz Sebastian Alonso</h6>TB1:<p>Durante el desarrollo de un proyecto en ingeniería, la implementación del Needfinding es la rama más esencial, además a través de videollamada entrevisté a nuestro segmentos objetivo, pude hacer cambios en nuestro landing page y ayudé en la elaboración de nuestra presentación. En este proceso, considero que comunique mis ideas ideas y resultados con objetividad a públicos de diferentes especialidades y niveles jerárquicos. Detallamos nuestro análisis acerca de los segmentos objetivos y presentamos la solución propuesta para mejorar la gestión de proyectos. Además, el Solution Profile va de la mano con el Needfinding, ya que en él explicamos la visión y misión de nuestro proyecto.</p>
       <h6>Gabriel Martel Zevallos</h6>TB1:<p>Participe en la toma de decision sobre que proyecto desarrollariamos y el core  aplicando diferentes tacticas de generacion de ideas.</p>
