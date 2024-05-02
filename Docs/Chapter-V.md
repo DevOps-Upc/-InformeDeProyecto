@@ -314,14 +314,120 @@ A continuación se presentan capturas de los insights del repositorio del landin
 
 #### 5.2.2.2 Sprint Backlog 2
 
+En el segundo Sprint, se implementará la Web Application de Dev-Ops. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+
+<img src="../Assets/Img/Chapter V/sprintBacklog02.png" alt="Trello Sprint planning 02" width="100%">
+
+Evidencia del Trello: 
+https://trello.com/invite/b/RC9DLAsT/ATTIdcd2feef1cb600e47c6b08fd06407c8f3B139A41/dev-ops-sprint-02 
+
 #### 5.2.2.3 Development Evidence for Sprint Review
+
+
+<p align="justify">A continuación se presenta  la tabla con la informacion de los commits dados para la Web Application de TeamSync, con el uso de HTML, CSS y JavaScript y Vue</p>
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>TeamSync - Frontend</td>
+    <td>develop</td>
+    <td>1c23922a980579e72d882443b3c4d49823bbcbac</td>
+    <td>feat: navbar</td>
+    <td>23/04/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>feat/experts</td>
+    <td>da69f4f555e422402b0aecb71d5044b304bf6373</td>
+    <td>feat(proyects): fix style toolbar and home commponent</td>
+    <td>24/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feat/experts</td>
+    <td>3ed58ac70fba5ac93635032ee181856f107ccb33</td>
+    <td>feat(footer): added subscribe section in footer</td>
+    <td>25/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feature/register-form:</td>
+    <td>3062460a3a6bad39837b35f59ea14064b5f30d5a</td>
+    <td>feat(register-form): added Register Form</td>
+    <td>25/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feature/register-form:</td>
+    <td>a42dea04f4bf6571f0409c65d9e337a4231e02f6</td>
+    <td>feat(form-login): added form login</td>
+    <td>26/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feature/especialists</td>
+    <td>a6b9c0f3ec45231e74a78db230eb48c555b32229</td>
+    <td>feat(specialists): added specialists adding function</td>
+    <td>26/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feature/especialists</td>
+    <td>511e1349ec64547faf9ec058b36b84a438a59398</td>
+    <td>feat: index de los services</td>
+    <td>26/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feature/especialists</td>
+    <td>5e8cfa0e61ca39da6d150a304ac2c50f20dfe9e5</td>
+    <td>feat: css de services</td>
+    <td>26/04/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>feature/especialists</td>
+    <td>95d0e5d69e162c6805163ba5cbc179ee5c7d1a42</td>
+    <td>feat(footer): added hover in icons</td>
+    <td>26/04/2024</td>
+  </tr>
+  </table>
+
 
 #### 5.2.2.4 Testing Suite Evidence for Sprint Review
 
+<p align="justify">En el transcurso del segundo sprint, no se realizaron pruebas de testing en la Web Application ya que nuestro enfoque se dirigió exclusivamente a la construcción de la Aplicación Web.</p>
+
 #### 5.2.1.5 Execution Evidence for Sprint Review
 
+<p align="justify">A continuación se presentan capturas de la aplicacion web en Vue</p>
+
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+<p align="justify">Se hizo uso de Firebase Hosting, un servicio publico de Google, dado que nos permitirá hospedar y desplegar nuestro sitio web de manera ágil y sencilla. Además, porque se podrá vincular con nuestro repositorio Git. </p>
+
+<img src="../Assets/Img/Chapter V/firebase_Logo.png" alt="Logo Firebase" width="100%">
 
 #### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint
+
+<p align = "justify">A continuación se presentan capturas de los Insights del repositorio Github del Informe de documentación: </p>
+
+
+
+
+<p> Link del repositorio del Informe del proyecto: 
+<a> https://github.com/DevOps-Upc/TeamSync-InformeDeProyecto</a>
+</p>
+
+<p align = "justify">De la mimsma manera se presentan capturas de los Insights del repositorio Github del Frontend: </p>
+
+<p> Link del repositorio del Frontend de la Web Application: <a> https://github.com/DevOps-Upc/teamsync-frontend </a> </p>
+
