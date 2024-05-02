@@ -1148,9 +1148,244 @@
 
 ## 3.4. Product Backlog
 
-Imagen de Product Backlog en Pivotal Tracker:
+Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product Backlog se encarga de generar un orden de importancia entre todas las historias de usuarios, mientras más Story Points contenga, más relevante será para la plataforma. Por esta razón, se antepondrá el desarrollo de las US que tengan más puntos
+</br>
 
-![texto_alternativo](/assets/img/chapter-III/ProductBackLogPT.png)
+<table>
+    <thead>
+        <tr>
+            <th>Orden</th>
+            <th>User Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Story Points</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>11</td>
+            <td>HU11</td>
+            <td>Crear Calendario para la Asignación de Tareas</td>
+            <td>Como alumno, quiero poder marcar un calendario para limitar las fechas de las tareas.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>HU12</td>
+            <td>Visualizar las Tareas del Grupo</td>
+            <td>Como usuario, quiero visualizar las tareas que se crearon para poder asignarlas.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>HU13</td>
+            <td>Compartir Archivos y Videos</td>
+            <td>Como alumno, quiero compartir archivos y videos de forma segura.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>HU14</td>
+            <td>Creación de Proyecto</td>
+            <td>Como alumno, quiero poder crear proyectos para mi equipo de trabajo.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>HU15</td>
+            <td>Crear Comentarios sobre un Proyecto de Alumnos</td>
+            <td>Como profesor, quiero poder comentar sobre el avance del proyecto.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>HU16</td>
+            <td>Actualizar Estado del Avance del Proyecto del Equipo</td>
+            <td>Como profesor, quiero actualizar el estado de la ayuda y avance del proyecto.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>HU17</td>
+            <td>Crear Solicitud de Ayuda a un Docente</td>
+            <td>Como alumno, quiero crear una solicitud de ayuda para mi proyecto.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>HU18</td>
+            <td>Aceptar o Rechazar Solicitud de Grupo</td>
+            <td>Como alumno, quiero aceptar o rechazar solicitudes de unirse a un grupo.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>HU19</td>
+            <td>Buscar Trabajos por Etiqueta o Tema Relacionado</td>
+            <td>Como alumno, quiero buscar trabajos en la biblioteca con una cierta etiqueta.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>HU20</td>
+            <td>Descargar Trabajo de la Biblioteca</td>
+            <td>Como alumno, quiero descargar el documento de la biblioteca para verlo sin conexión.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>HU21</td>
+            <td>Implementar un Landing Page Responsive</td>
+            <td>Como visitante, quiero interactuar en una landing page responsive, para que se adapte a la resolución de mi dispositivo.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>HU22</td>
+            <td>Implementar un Cambio de Idioma en el Landing Page</td>
+            <td>Como visitante, quiero poder cambiar de idioma para poder comprender el mensaje del landing page.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>HU23</td>
+            <td>Sección Sobre el Producto TeamSync en el Landing Page</td>
+            <td>Como visitante, quiero que el landing page me muestre una sección que da a conocer el producto.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>HU24</td>
+            <td>Sección Sobre las Membresías de TeamSync</td>
+            <td>Como visitante, quiero que el landing page me muestre una sección sobre las membresías de TeamSync.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>HU25</td>
+            <td>Sección Sobre Nosotros de TeamSync</td>
+            <td>Como visitante, quiero que el landing page me muestre una sección sobre los desarrolladores del producto.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>HU26</td>
+            <td>Sección de Contacto de TeamSync</td>
+            <td>Como visitante, quiero que el landing page me muestre una sección que me ponga en contacto con el startup.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>HU27</td>
+            <td>Subir Fotos de Perfil</td>
+            <td>Como usuario, quiero subir una imagen a mi perfil para poder personalizarlo a mi comodidad.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>HU28</td>
+            <td>Notificaciones de Progreso</td>
+            <td>Como estudiante, necesito notificaciones de progreso y actualizaciones de equipo para estar informado y ajustar el proyecto según sea necesario.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>HU29</td>
+            <td>Revisión y Evaluación de Proyectos</td>
+            <td>Como profesor, deseo revisar, calificar y dar retroalimentación a proyectos estudiantiles para guiar y evaluar eficientemente.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>HU30</td>
+            <td>Lista de Tareas Pendientes</td>
+            <td>Como estudiante, quiero una lista de tareas pendientes clara y organizada para priorizar y gestionar eficazmente mis responsabilidades.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <td>HU31</td>
+            <td>Historial de Versiones de Archivos</td>
+            <td>Como usuario, necesito acceder a un historial de versiones de archivos para rastrear cambios y recuperar versiones anteriores según sea necesario.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>32</td>
+            <td>HU32</td>
+            <td>Integración de Herramientas de Productividad</td>
+            <td>Como usuario, quiero integraciones de herramientas de productividad para mejorar la eficiencia y la colaboración en el desarrollo del proyecto.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>33</td>
+            <td>HU33</td>
+            <td>Función de Búsqueda Mejorada</td>
+            <td>Como usuario, necesito una función de búsqueda mejorada para encontrar rápidamente los archivos y mensajes relevantes dentro del equipo.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>34</td>
+            <td>HU34</td>
+            <td>Seguimiento del Tiempo</td>
+            <td>Como usuario, necesito una función de seguimiento del tiempo para registrar y gestionar el tiempo dedicado a tareas específicas.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>35</td>
+            <td>HU35</td>
+            <td>Creación de Reuniones</td>
+            <td>Como usuario, quiero poder crear y programar reuniones con mi equipo directamente desde la plataforma.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>36</td>
+            <td>HU36</td>
+            <td>Visualización de Estadísticas de Proyecto</td>
+            <td>Como usuario, quiero ver estadísticas visuales que resuman el progreso y la salud general del proyecto.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>37</td>
+            <td>HU37</td>
+            <td>Función de Chat en Tiempo Real</td>
+            <td>Como usuario, quiero una función de chat en tiempo real para facilitar la comunicación y la colaboración dentro del equipo.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>38</td>
+            <td>HU38</td>
+            <td>Creación de Encuestas y Formularios</td>
+            <td>Como usuario, quiero crear encuestas y formularios personalizables para recopilar información y retroalimentación del equipo.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>39</td>
+            <td>HU39</td>
+            <td>Funcionalidad de Arrastrar y Soltar Archivos</td>
+            <td>Como usuario, quiero la capacidad de arrastrar y soltar archivos para una carga rápida y sencilla dentro del equipo.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>40</td>
+            <td>HU40</td>
+            <td>Integración de Notas y Documentos Externos</td>
+            <td>Como usuario, quiero integrar notas y documentos externos para tener una visión completa del proyecto en un solo lugar.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>41</td>
+            <td>HU41</td>
+            <td>Función de Recordatorios y Alertas</td>
+            <td>Como usuario, quiero recibir recordatorios y alertas para mantenerme al tanto de los plazos y eventos importantes del proyecto.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>42</td>
+            <td>HU42</td>
+            <td>Función de Compartir Pantalla</td>
+            <td>Como usuario, quiero una función de compartir pantalla para facilitar la colaboración y la resolución de problemas en tiempo real.</td>
+            <td>5</td>
+        </tr>
+    </tbody>
+</table>
 
-
-[Link del Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2677710)
