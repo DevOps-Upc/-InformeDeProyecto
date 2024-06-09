@@ -723,3 +723,46 @@ En nuestro tercer sprint, nos enfocamos en desarrollar una versión inicial de n
 </table>
 
 </div>
+
+<h3>5.2.3.3. Development Evidence for Sprint Review</h3>
+En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. La implementación de la segunda version del Web Application Front End  y BackEnd. Se implementaron ramas a partir de la rama develop para que cada integrante. <br><br>
+
+
+<h3>5.2.3.4. Testing Suite Evidence for Sprint Review</h3>
+
+Hemos desarrollado un conjunto de pruebas automatizadas que cubren los Endpoints relacionados con los User Stories definidos para este Sprint. Estas pruebas incluyen Unit Tests, Integration Tests y Acceptance Tests para garantizar la calidad y la funcionalidad de nuestros Web Services.
+
+<h3>5.2.3.5. Execution Evidence for Sprint Review</h3>
+Vistas implementadas para este sprint se realizaron para los segmentos:
+
+<h3>5.2.3.6. Services Documentation Evidence for Sprint Review</h3>
+
+Hemos desarrollado una serie de endpoints para la gestión de roles y usuarios en nuestra aplicación. A continuación, se detallan estos endpoints y cómo interactuar con ellos:
+<h3>5.2.3.7. Development Evidence for Sprint Review</h3>
+<br>
+A continuación procederemos a mostrar los pasos del deployment de la aplicación web Frontend.
+
+<h3>5.2.2.8. Team Collaboration Insights durante el Sprint</h3><br>
+Se creó una organización en GitHub con un dominio público para que el profesor pueda visualizar el proyecto.<br>.
+
+Cabe destacar la participación activa de todo el equipo en el desarrollo del proyecto, abarcando desde el Landing Page hasta las capas técnicas del Frontend y Backend, como se evidencia en las imágenes que muestran sus commits. *Team Collaboration Insights* se erige como un recurso fundamental, no solo para comprender la eficacia del equipo desde una perspectiva técnica, sino también para apreciar el esfuerzo conjunto que ha llevado al éxito del proyecto.
+
+
+<strong></strong>
+<br><br>
+FrontEnd Web Application
+Se muestra la cantidad de merge pull request y los autores que participaron en el FrontEnd
+
+
+
+<br><br>
+
+
+BackEnd Web Application
+<br><br>
+
+<p align ="center">
+Se muestra la cantidad de merge pull request y los autores que participaron en el BackEnd
+<br><br>
+<br><br>
+
