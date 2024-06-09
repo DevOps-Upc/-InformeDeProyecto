@@ -766,3 +766,187 @@ Se muestra la cantidad de merge pull request y los autores que participaron en e
 <br><br>
 <br><br>
 
+<h3>5.3. Validation Interviews</a></h3><br>
+<h3>5.3.1 Diseño de Entrevistas. </a></h3><br>
+<h4>PREGUNTAS INTRODUCTORIAS:</h4>
+<p>¿Cuál es su nombre completo?<br>
+¿Qué edad tiene?<br>
+¿En qué distrito reside actualmente?<br>
+¿Cuál es su ocupación?</p>
+
+<h4>PREGUNTAS PRINCIPALES:</h4>
+<h5>ESTUDIANTES Y PROFESORES:</h5>
+<ul>
+  <li>¿Crees que siempre está claro en qué parte de la aplicación te encuentras? (Visibilidad del estado del sistema)</li>
+  <li>¿La aplicación sigue un flujo lógico y natural para realizar tareas específicas? (Coincidencia entre el sistema y el mundo real)</li>
+  <li>¿La aplicación te permite moverte libremente y realizar acciones sin restricciones innecesarias? (Control y libertad del usuario)</li>
+  <li>¿Encuentras que los elementos de la interfaz son consistentes en toda la aplicación? (Consistencia y estándares)</li>
+  <li>¿Te resulta sencillo corregir un error si lo cometes durante el uso de la aplicación?(Prevención de errores)</li>
+  <li>¿Encuentras que las opciones y funciones son fáciles de reconocer sin necesidad de recordar su ubicación? (Reconocimiento en lugar de recuerdo)</li>
+  <li>¿Te sientes limitado en cuanto a la forma en que puedes interactuar con la aplicación? (Flexibilidad y eficiencia de uso)</li>
+  <li>¿Existen aspectos del diseño que podrían mejorarse para una mejor comprensión y atractivo visual? (Diseño estético y minimalista)</li>
+</ul>
+<h3>5.3.2 Registro de entrevistas. </a></h3><br>
+
+<div align ="center">
+
+### **Usuario estudiante**
+
+<h4>Entrevista 1</h4>
+
+| Nombre  | Apellido | Edad |
+| :------ | :------- | :--: |
+| a| a  |  1  |
+
+<img src="" >
+
+
+
+<p align="justify">Resumen entrevista: 
+<br><br>
+<h4>Entrevista 2</h4>
+
+| Nombre  | Apellido | Edad |
+| :------ | :------- | :--: |
+| a  | a  |  1  |
+
+<img src="" >
+
+
+
+<p align="justify">Resumen entrevista
+
+<br><br>
+<h4>Entrevista 3</h4>
+
+| Nombre  | Apellido | Edad | Ubicacion |
+| :------ | :------- | :--: | :---: |
+| a | a  |  a  | La Victoria |
+
+<img src="" >
+
+
+
+<p align="justify">Resumen entrevista: 
+<br><br>
+
+### **Usuario profesor**
+
+<div align ="center">
+
+
+<br>
+<h4>Entrevista 1</h4>
+
+| Nombre  | Apellido | Edad |
+| :------ | :------- | :--: |
+|  A |  A  | 1  |
+
+<img src="" >
+<p align="justify">
+<br><br>
+<h4>Entrevista 2</h4>
+
+| Nombre  | Apellido | Edad |
+| :------ | :------- | :--: |
+|  A |  A  | 1  | 
+
+<img src="" >
+<p align="justify">Aca va la descripcion
+<br><br>
+<h4>Entrevista 3</h4>
+
+| Nombre  | Apellido | Edad |
+| :------ | :------- | :--: |
+| A  | A  | A   |
+
+<img src="" >
+<p align="justify">Aca va la descripcion y en el link los videos
+</div>
+</br>
+<a href="">Link Validation Interviews </a>
+
+<br><br><br><br>
+
+</div>
+
+<h3>5.3.3 Evaluaciones segun heuristicas. </a></h3><br>
+
+**SITE o APP A EVALUAR**
+
+<a name="_hlk149810676"></a>**TeamSync**
+
+**Meta:** El propósito general de la evaluación es encontrar problemas existentes en la aplicación web TeamSync.
+
+**Cómo:** Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+
+**TAREAS A EVALUAR:**
+
+1. **Desktop landing page**
+- Información y descripción de la aplicación y sus funcionalidades.
+- Visualización de planes de pago de la aplicación
+- Header y footer apropiado para la landing page
+- Interacción del landing page con la aplicación
+- Redes sociales asociadas al startup
+- Videos de about the product y about the team
+
+
+1. **Web Application** 
+- I
+- Visualización de los planes para el registro del cliente 
+- Indicadores claros de progreso o estado del proceso
+- Iconografía comprensible y consistente con el mundo real
+- Mensajes de error que reflejen el registro de datos incorrectos
+- Acciones de retroceso dentro de la aplicación
+- Evaluar existencia de patrones de diseño o navegación
+- Elementos de la interfaz de usuario consistentes
+- Pestañas de navegación dentro de la aplicación
+- Botones interactivos y de uso intuitivo
+- Navegación y orientación dentro de la aplicación
+- Visualización de perfil del estudiante 
+- Visualización del perfil del profesor 
+- Visualización del 
+- Visualización del 
+- Visualización de
+- Estética general de la interfaz atractiva y agradable visualmente
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas:**
+
+1. **Desktop landing page**
+- Precio de los planes 
+- Política de privacidad y condiciones de uso
+1. **Web Application** 
+- Registro de un nuevo usuario 
+- Recuperación de contraseña 
+- Comprar de los planes 
+- Solicitar cita a un nutricionista 
+- Acceso a recursos de ayuda dentro de la aplicación
+- Actualizar la información del cliente y nutricionista 
+- Plan de clientes en la aplicación del nutricionista 
+- Plan de alimentación en la aplicación de nutricionista 
+- Política de privacidad y condiciones de uso
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad 
+
+|Nivel|Descripción |
+| :- | :- |
+|1|<p>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco </p><p>frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p>|
+|2|<p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de </p><p>superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente </p><p>reléase</p>|
+|3|<p>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es </p><p>importante que sean corregidos y se les debe asignar una prioridad alta.</p>|
+|4|<p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de </p><p>la herramienta. Es imperativo que sea corregido antes del lanzamiento.</p>|
+
+
+
+Falta guiarse del github que pase al grupo
+
+<h3>5.4. Video About the Product</a></h3>
+
+TeamSync es una plataforma en línea diseñada para facilitar la gestión eficiente de proyectos en equipos de trabajo en entornos educativos. Ofrece una experiencia colaborativa centrada en la formación de grupos, asignación de tareas, seguimiento de proyectos y comunicación fluida entre estudiantes y docentes.
+<br><br>
+ <p align ="center">
+            <img src="">
+         </p>
+<br><br>
+<a href="">Link del Video About the Product </a>
