@@ -516,3 +516,210 @@ Para el segundo sprint, se decidió enfocarse exclusivamente en la creación de 
 
 <p> Link del repositorio del Frontend de la Web Application: <a> https://github.com/DevOps-Upc/teamsync-frontend </a> </p>
 
+### 5.2.3 Sprint 3
+
+#### 5.2.3.1 Sprint Planning 3
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 3</td>
+  </tr>
+  <table>
+  <caption>Sprint #2</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>18:00 horas (GMT-5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Morales Quispe, Brayan</td>
+    </tr>
+    <tr>
+      <td>Asistentes a la reunión de planificación</td>
+      <td>Todos los miembros de Dev-Ops</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 2 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        En el Sprint anterior, la meta fue el desarrollo del FrontEnd Web Application. En este FrontEnd se mostro la interfaz del cliente con sus datos y  ahora se puede manejar diferentes projectos.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 2 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación del Web Application se desarrolló con html, css, JavaScript y como framework: Vue.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        	La meta de este Sprint es la mejora del FrontEnd Web Application y tambien el desarrollo de la primera versión del Web Services
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 2 Velocity</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>18</td>
+    </tr>
+  </tbody>
+</table>
+<h3>5.2.3.2. Sprint Backlog 3</h3>
+
+En nuestro tercer sprint, nos enfocamos en desarrollar una versión inicial de nuestro backend, estableciendo la estructura que emplearemos para el proyecto. Asimismo, incorporamos más funcionalidades en el frontend y optimizamos tanto el proceso de registro como el de inicio de sesión en la aplicación. Además, logramos completar la mayoría de las tareas que nos propusimos para este sprint.
+
+<div align ="center">
+<table border="1">
+  <tr>
+    <th>Sprint #</th>
+    <th>User Story</th>
+    <th>Work-item/Task</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Sprint 3</td>
+    <td rowspan="3">Registro de usuario en la base de datos</td>
+    <td>TA01</td>
+    <td>Modelado de datos del usuario</td>
+    <td>Definir un modelo de datos para el usuario en el sistema de gestión de bases de dato.</td>
+    <td>2</td>
+    <td>Brayan Morales</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA02</td>
+    <td>Creación de la API de registro</td>
+    <td>Implementación de un endpoint en la API que acepte solicitudes POST para crear un nuevo usuario.</td>
+    <td>4</td>
+    <td>Brayan Morales</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA03</td>
+    <td>Validación de datos</td>
+    <td>Implementación de validación de los datos enviados a la API de registro.</td>
+    <td>4</td>
+    <td>Brayan Morales</td>
+    <td>Done</td>
+  </tr>
+  
+  <tr>
+    <td rowspan="2">Sprint 3</td>
+    <td rowspan="2">Obtención de los datos personales del usuario</td>
+    <td>TA01</td>
+    <td>API de perfil de usuario</td>
+    <td>Implementar un endpoint en la API que acepte solicitudes GET para obtener los datos del perfil del usuario.</td>
+    <td>4</td>
+    <td>Gabriel Martel </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA02</td>
+    <td>Recuperación de datos del usuario</td>
+    <td>Cuando se recibe una solicitud en el endpoint de perfil de usuario, buscar al usuario en la base de datos.</td>
+    <td>4</td>
+    <td>Gabriel Martel</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Sprint 3</td>
+    <td rowspan="3">Obtención de las credenciales del usuario</td>
+    <td>TA01</td>
+    <td>API de inicio de sesión</td>
+    <td>Implementación de un endpoint en la API que acepte solicitudes POST para iniciar sesión.</td>
+    <td>4</td>
+    <td>Sebastian Bustinza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA02</td>
+    <td>Validación de credenciales</td>
+    <td>Verificar que las credenciales proporcionadas por el usuario coincidan con las almacenadas en la base de datos.</td>
+    <td>4</td>
+    <td>Sebastian Bustinza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA03</td>
+    <td>Generación de tokens</td>
+    <td>Generar un token con JWT, json web token, que permita al usuario autenticarse en futuras solicitudes.</td>
+    <td>3</td>
+    <td>Gabriel Martel</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Sprint 3</td>
+    <td rowspan="2">Almacenamiento de la foto de perfil</td>
+    <td>TA01</td>
+    <td>API de carga de imagen</td>
+    <td>Implementa un endpoint en la API que acepte solicitudes POST para cargar la imagen de perfil del usuario.</td>
+    <td>3</td>
+    <td>Brayan Morales</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA02</td>
+    <td>Almacenamiento de la imagen</td>
+    <td>Cuando se recibe una solicitud en el endpoint de carga de imagen esta se almacena en la base de datos</td>
+    <td>3</td>
+    <td>Fabian</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td rowspan="1">Sprint 3</td>
+    <td rowspan="1">Creacion bounded Context de los grupos</td>
+    <td>TA01</td>
+    <td>API de grupos</td>
+    <td>Definir los límites claros y específicos dentro del sistema donde los grupos operan, estableciendo sus responsabilidades, interacciones y reglas de negocio</td>
+    <td>4</td>
+    <td>Gonzalo Quedena </td>
+    <td>Done</td>
+    <tr>
+    <td rowspan="1">Sprint 3</td>
+    <td rowspan="1">Creacion bounded Context de los Proyectos</td>
+    <td>TA01</td>
+    <td>API de proyectos</td>
+    <td>Establecer límites claros entre las responsabilidades y funcionalidades de cada equipo.</td>
+    <td>4</td>
+    <td>Randel Ventura </td>
+    <td>Done</td>
+  
+</table>
+
+</div>
