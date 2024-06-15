@@ -359,7 +359,7 @@ Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nu
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1. Class Diagrams.
 
-![imagen](/Assets//Img/Chapter%20IV/TeamSync%20DC.png)
+![imagen](/Assets/Img/Chapter%20V/sprint%203/TeamSync%20(4).png)
 <center>
 
 [Link de lucid del diagrama de clases](https://lucid.app/lucidchart/dc007a16-aa5c-4021-b62d-92ba990639bc/edit?viewport_loc=-2552%2C-1219%2C10995%2C4927%2C0_0&invitationId=inv_c8e96848-f51c-4152-a127-7e2cf786ecb7)

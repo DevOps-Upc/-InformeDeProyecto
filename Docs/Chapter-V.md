@@ -524,7 +524,7 @@ Para el segundo sprint, se decidió enfocarse exclusivamente en la creación de 
     <td>Sprint 3</td>
   </tr>
   <table>
-  <caption>Sprint #2</caption>
+  <caption>Sprint #3</caption>
   <thead>
     <tr>
       <th colspan="2">Sprint Planning Backlog</th>
@@ -726,31 +726,48 @@ En nuestro tercer sprint, nos enfocamos en desarrollar una versión inicial de n
 En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. La implementación de la segunda version del Web Application Front End  y BackEnd. Se implementaron ramas a partir de la rama develop para que cada integrante. <br><br>
 
 
+
+
 <h3>5.2.3.4. Testing Suite Evidence for Sprint Review</h3>
 
 Hemos desarrollado un conjunto de pruebas automatizadas que cubren los Endpoints relacionados con los User Stories definidos para este Sprint. Estas pruebas incluyen Unit Tests, Integration Tests y Acceptance Tests para garantizar la calidad y la funcionalidad de nuestros Web Services.
 
 <h3>5.2.3.5. Execution Evidence for Sprint Review</h3>
+
 Vistas implementadas para este sprint se realizaron para los segmentos:
 
+![deployBackEnd](/Assets/Img/Chapter%20V/sprint%203/backEnd-Captura%201.png)
+Como se puede apreciar para esta entrega se desarrollaron los siguientes endPoints FileAsset y Project.
+
+[Link Para El BackEnd](https://teamsync-wa.azurewebsites.net/swagger/index.html)
+
 <h3>5.2.3.6. Services Documentation Evidence for Sprint Review</h3>
+
+|EndPoint|Http Verb|Action|
+|---|---|---|
+|https://teamsync-wa.azurewebsites.net/api/v1/file-asset| Post|Agregar un FILE a un projecto determinado|
+|https://teamsync-wa.azurewebsites.net/api/v1/file-asset/project/{projectId}|Get|Obtener todos los archivos relacionados con un projecto.|
+|https://teamsync-wa.azurewebsites.net/api/v1/project|Post|Crear un projecto nuevo |
+|https://teamsync-wa.azurewebsites.net/api/v1/project/profile/{profileId}|Get|Obtener los projectos teniendo en cuenta el id del perfil|
+|https://teamsync-wa.azurewebsites.net/api/v1/project{ProjectId}|Get|Obtener projecto por id|
+|https://teamsync-wa.azurewebsites.net/api/v1/project/{ProjectId}/{ProfileId}|Delete|borrar projecto con id del projecto y perfil id.|
 
 Hemos desarrollado una serie de endpoints para la gestión de roles y usuarios en nuestra aplicación. A continuación, se detallan estos endpoints y cómo interactuar con ellos:
 <h3>5.2.3.7. Development Evidence for Sprint Review</h3>
 <br>
-A continuación procederemos a mostrar los pasos del deployment de la aplicación web Frontend.
+A continuación procederemos a mostrar los pasos del deployment de la aplicación backEnd.
+
+![Imagen de la base de datos](/Assets//Img/Chapter%20V/sprint%203/prueba%20de%20despliege%201.jpg)
+
+aqui se muestra la configuracion de nuestra base de datos desplegada en azure con su configuracion establecida.
+
+![Imagen de la backEnd](/Assets/Img/Chapter%20V/sprint%203/prueba%20de%20despliege%202.jpg)
+Se muestra el despliege y configuracion de la backend en azure.
 
 <h3>5.2.2.8. Team Collaboration Insights durante el Sprint</h3><br>
 Se creó una organización en GitHub con un dominio público para que el profesor pueda visualizar el proyecto.<br>.
 
 Cabe destacar la participación activa de todo el equipo en el desarrollo del proyecto, abarcando desde el Landing Page hasta las capas técnicas del Frontend y Backend, como se evidencia en las imágenes que muestran sus commits. *Team Collaboration Insights* se erige como un recurso fundamental, no solo para comprender la eficacia del equipo desde una perspectiva técnica, sino también para apreciar el esfuerzo conjunto que ha llevado al éxito del proyecto.
-
-
-<strong></strong>
-<br><br>
-FrontEnd Web Application
-Se muestra la cantidad de merge pull request y los autores que participaron en el FrontEnd
-
 
 
 <br><br>
@@ -759,10 +776,15 @@ Se muestra la cantidad de merge pull request y los autores que participaron en e
 BackEnd Web Application
 <br><br>
 
-<p align ="center">
-Se muestra la cantidad de merge pull request y los autores que participaron en el BackEnd
-<br><br>
-<br><br>
+![](/Assets/Img/Chapter%20V/sprint%203/Commits%20barras.png)
+La cantidad de commits realizados por el integrante Brayan Smith en la backend
+
+![](/Assets/Img/Chapter%20V/sprint%203/linea%20de%20tiempo.png)
+Linea de tiempo de los commits realizados antes de la fecha de entrega aplicando gitflow.
+
+
+
+
 
 <h3>5.3. Validation Interviews</a></h3><br>
 <h3>5.3.1 Diseño de Entrevistas. </a></h3><br>
@@ -786,87 +808,9 @@ Se muestra la cantidad de merge pull request y los autores que participaron en e
 </ul>
 <h3>5.3.2 Registro de entrevistas. </a></h3><br>
 
-<div align ="center">
-
-### **Usuario estudiante**
-
-<h4>Entrevista 1</h4>
-
-| Nombre  | Apellido | Edad |
-| :------ | :------- | :--: |
-| a| a  |  1  |
-
-<img src="" >
 
 
 
-<p align="justify">Resumen entrevista: 
-<br><br>
-<h4>Entrevista 2</h4>
-
-| Nombre  | Apellido | Edad |
-| :------ | :------- | :--: |
-| a  | a  |  1  |
-
-<img src="" >
-
-
-
-<p align="justify">Resumen entrevista
-
-<br><br>
-<h4>Entrevista 3</h4>
-
-| Nombre  | Apellido | Edad | Ubicacion |
-| :------ | :------- | :--: | :---: |
-| a | a  |  a  | La Victoria |
-
-<img src="" >
-
-
-
-<p align="justify">Resumen entrevista: 
-<br><br>
-
-### **Usuario profesor**
-
-<div align ="center">
-
-
-<br>
-<h4>Entrevista 1</h4>
-
-| Nombre  | Apellido | Edad |
-| :------ | :------- | :--: |
-|  A |  A  | 1  |
-
-<img src="" >
-<p align="justify">
-<br><br>
-<h4>Entrevista 2</h4>
-
-| Nombre  | Apellido | Edad |
-| :------ | :------- | :--: |
-|  A |  A  | 1  | 
-
-<img src="" >
-<p align="justify">Aca va la descripcion
-<br><br>
-<h4>Entrevista 3</h4>
-
-| Nombre  | Apellido | Edad |
-| :------ | :------- | :--: |
-| A  | A  | A   |
-
-<img src="" >
-<p align="justify">Aca va la descripcion y en el link los videos
-</div>
-</br>
-<a href="">Link Validation Interviews </a>
-
-<br><br><br><br>
-
-</div>
 
 <h3>5.3.3 Evaluaciones segun heuristicas. </a></h3><br>
 
@@ -890,7 +834,7 @@ Se muestra la cantidad de merge pull request y los autores que participaron en e
 
 
 1. **Web Application** 
-- I
+
 - Visualización de los planes para el registro del cliente 
 - Indicadores claros de progreso o estado del proceso
 - Iconografía comprensible y consistente con el mundo real
