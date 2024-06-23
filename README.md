@@ -247,8 +247,8 @@ URL Project Report (Github):https://github.com/DevOps-Upc/TeamSync-InformeDeProy
     * ##### [5.2.3.8. Team Collaboration Insights during Sprint](/Docs/chapter-V.md#5238-team-collaboration-insights-during-sprint)
 
 * #### [5.2.4 Sprint 4](/Docs/chapter-V.md#524-sprint-4)
-    * ##### [5.2.4.1. Sprint Planning 3](/Docs/chapter-V.md#5241-sprint-planning-4)
-    * ##### [5.2.4.2. Sprint Backlog 3](/Docs/chapter-V.md#5242-sprint-backlog-4)
+    * ##### [5.2.4.1. Sprint Planning 46](/Docs/chapter-V.md#5241-sprint-planning-4)
+    * ##### [5.2.4.2. Sprint Backlog 4](/Docs/chapter-V.md#5242-sprint-backlog-4)
     * ##### [5.2.4.3. Development Evidence for Sprint Review](/Docs/chapter-V.md#5243-development-evidence-for-sprint-review)
     * ##### [5.2.4.4. Testing Suite Evidence for Sprint Review](/Docs/chapter-V.md#5244-testing-suite-evidence-for-sprint-review)
     * ##### [5.2.4.5. Execution Evidence for Sprint view](Docs/chapter-V.md#5245-execution-evidence-for-sprint-review)
