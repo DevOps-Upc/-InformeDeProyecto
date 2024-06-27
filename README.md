@@ -1,7 +1,7 @@
 <div align="center">
 
 # Universidad Peruana De Ciencias Aplicadas
-## Carrera de Ingeniería de Software
+## Ingeniería de Software
 ## Desarrollo de Aplicaciones Web 
 
 
@@ -11,11 +11,10 @@
 
 <div align="center">
 
-# Informe TB1
+# Informe TF
 ### **Profesor: Efraín Ricardo Bautista Ubillús**
 #### **Startup: DevOps**
 #### **Producto: TeamSync**
-#### **Grupo:**
 #### Sección: SW56
 
 |          Integrantes           |   Código   |
@@ -23,11 +22,10 @@
 | Morales Quispe, Brayan Smith   | U20211F984 |
 | Ventura Allasi, Randel Russell | U201910669 |
 |Sebastian Alonso Bustinza Muñoz | U202123362 |
-| Gonzalo Andre Zavala Quedena | U202113656 |
 | Martel Zevallo, Gabriel        | U202121584 |
 |Fabian Alonso Reyes Trujillano||
 
-#### Abril 2024
+#### Junio 2024
 </div>
 
 # **Registro de Versiones Del Informe**
@@ -49,7 +47,8 @@
           <li>Morales Quispe, Brayan Smith</li>
           <li>Ventura Allasi, Randel Russell</li>
           <li>Martel Zevallos, Gabriel</li>
-	  <li>Reyes Trujillano, Fabian</li>	
+	        <li>Reyes Trujillano, Fabian</li>
+          <li>Sebatian</li>	
         </ul>
       </td>
       <td>
@@ -61,6 +60,56 @@
           <li>Capítulo IV: Product Design</li>
           <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
           <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+
+      
+  </tr>
+
+  <tr>
+      <td><strong>TP</strong></td>
+      <td>07 de Mayo</td>
+      <td>
+        <ul>
+          <li>Morales Quispe, Brayan Smith</li>	
+        </ul>
+      </td>
+      <td>
+        Se incluyeron los siguientes capítulos:
+        <ul>
+          <li>Sprint 2</li>
+        </ul>
+      </td>
+  </tr>
+
+  <tr>
+      <td><strong>TB2</strong></td>
+      <td>9 de Junio</td>
+      <td>
+        <ul>
+          <li>Sebatian</li>	
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Sprint 3</li>
+          <li>Correcciones del sprint anterior</li>
+        </ul>
+      </td>
+  </tr>
+
+  <tr>
+      <td><strong>TF</strong></td>
+      <td>9 de Junio</td>
+      <td>
+        <ul>
+          <li>Sebatian</li>	
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Sprint 4</li>
+          <li>Correcciones del sprint anterior</li>
         </ul>
       </td>
   </tr>
@@ -82,7 +131,8 @@
   <tr>
       <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto en ingeniería</strong></td>
       <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Comunique al equipo por discord con la creacion de un grupo para poder coordinar nuestras actividades</p>
-      TP:<p>Realize una reunion y distribucion de los errores del informe al equipo de trabajo</p>      
+      TP:<p>Realize una reunion y distribucion de los errores del informe al equipo de trabajo</p>
+      TB2:<p>Realize una reunion y comunique amis compañeros las partes que toca realiar a cada uno</p>TF:<p>Realize la distribucion de cada parte del documento aparte de realizar mis tareas como lider tecnico</p>      
       <h6>Randel Russell Ventura Allasi</h6>TB1:<p>Realicé el registro de las User Stories, el Impact Mapping, parte de la landing page, la organización del informe, el KeyNote y todo el capítulo V de la entrega.</p>
       TP:<p>Realicé el regisrto de las Technical Stories, correcciones de la landing page, la organización del informe, el KeyNote y la documentación para el Sprint 2 de la entrega.</p>
       <h6>Bustinza Muñoz Sebastian Alonso</h6>TB1:<p>Cuando estamos desarrollando un proyecto en ingeniería, es crucial comenzar con el Needfinding. En esta etapa, describimos en detalle quiénes son nuestros usuarios y qué problemas enfrentan, así como la solución que proponemos para mejorar la gestión de proyectos. El Solution Profile complementa esto al explicar la visión y misión de nuestro proyecto. En esta entrega considero que comunique de manera clara y objetiva mis ideas y resultados a personas de diferentes áreas y niveles dentro de la organización.</p>TP:<p>Demuestro mi habilidad para comunicar ideas y resultados de manera objetiva a diversos públicos en el contexto del desarrollo de proyectos de ingeniería. Facilita una comunicación más efectiva y personalizada dentro del equipo, promoviendo una colaboración fluida y una comprensión clara entre los miembros con roles y especialidades diversas.</p>TB2:<p>Demuestro mi habilidad para comunicar ideas y resultados de manera objetiva a diversos públicos en el contexto del desarrollo de proyectos de ingeniería. Facilita una comunicación más efectiva y personalizada dentro del equipo, promoviendo una colaboración fluida y una comprensión clara entre los miembros con roles y especialidades diversas. Asimismo para la creación de bounded context donde debo explicar funcionalidades, avances y desafíos junto a mi equipo y partes interesadas, para esta entrega, arregle una vista, avance la implementacion del bounded context de grupos y elabore el informe</p>
@@ -95,7 +145,8 @@
    <tr>
       <td><strong>Comunica oralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería </strong></td>
       <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Lo avanzado por mi parte fue todo el capitulo 4, lo que considero a mejorar es la velocidad y comunicacion del equipo</p>
-      TP:<p>lo avanzado por mi parte fue el arreglo de las entrevistas, desarrollo del frontEnd y LandingPage y actualizacion del diagrama de clases</p>
+      TP:<p>lo avanzado por mi parte fue el arreglo de las entrevistas, desarrollo del frontEnd y LandingPage y actualizacion del diagrama de clases</p>TB2:<p>lo avanzado por mi parte fue el arreglo de los diagrams y dearrollar en el front end todo la seccion de projectos</p>
+      TF:<p>lo avanzado por mi parte fue el arreglo deL backend ademas de arreglar algunos puntos en el informe.</p>
       <h6>Randel Russell Ventura Allasi</h6>TB1:<p>Se tuvo que mantener un constant econtacto con nuestros segmento objetivo para poder delimitar correctamente nuestra solución, como también mantener una buena comunicación y organización mediante reuniones en el equipo.</p>
       TP:<p>La creación de nuestro proyecto nos permite acceder a aprender habilidades previamente aprendidas y plasmarlos junto a nuestros conocimientos de ingeniería aprendidos durante la carrera. Dentro del  ámbito de la ingeniería, me dedico a comunicar de forma clara y objetiva mis ideas y los resultados obtenidos a audiencias variadas, que abarcan desde nuestros segmentos objetivos hasta líderes de diferentes niveles organizacionales.</p>
       <h6>Bustinza Muñoz Sebastian Alonso</h6>TB1:<p>Durante el desarrollo de un proyecto en ingeniería, la implementación del Needfinding es la rama más esencial, además a través de videollamada entrevisté a nuestro segmentos objetivo, pude hacer cambios en nuestro landing page y ayudé en la elaboración de nuestra presentación. En este proceso, considero que comunique mis ideas ideas y resultados con objetividad a públicos de diferentes especialidades y niveles jerárquicos. Detallamos nuestro análisis acerca de los segmentos objetivos y presentamos la solución propuesta para mejorar la gestión de proyectos. Además, el Solution Profile va de la mano con el Needfinding, ya que en él explicamos la visión y misión de nuestro proyecto.</p>TP:<p>En el desarrollo de proyectos de ingeniería, comunico mis ideas y resultados de manera objetiva a audiencias diversas, incluyendo especialistas y líderes de diferentes niveles jerárquicos. Esto es crucial en la gestión del backlog y cuentas, donde debo explicar funcionalidades, avances y desafíos a mi equipo y partes interesadas, manteniendo transparencia y claridad en la comunicación.</p>TB2:<p>En el desarrollo de proyectos de ingeniería, comunico mis ideas y resultados de manera objetiva a audiencias diversas, incluyendo especialistas y líderes de diferentes niveles jerárquicos. Esto es crucial en la gestión del backlog y cuentas, asimismo para la creación de bounded context donde debo explicar funcionalidades, avances y desafíos junto a mi equipo y partes interesadas, manteniendo transparencia y claridad en la comunicación. Para esta entrega, arregle una vista, avance la implementacion del bounded context de grupos y elabore el informe</p>
