@@ -19,6 +19,6 @@ Se mostrara los link a nuestros videos y aplicacion.
 
 [Link del Video de Entrevistas de Validación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EYdYe6GIEt9Opp76FhCBYVEBPTr1LOe6ZfMi_n397oldxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aItow9)
 
-[Link del Video About-The-Team]()
+[Link del Video About-The-Team](https://youtu.be/M0OYjbMEpAI)
 
-[Link del Video About-The-Product]()
+[Link del Video About-The-Product](https://youtu.be/6R3ylIP1pGg)
