@@ -217,19 +217,17 @@ A continuación se presentan informacion de los commits de la Landing page de Te
 <p align="justify">En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+A continuacion mostrare pruebas ejecucion del landing page.
+![](/Assets/Img/Chapter%20V/ecidencia%20landigpage2.png)
+Como se puede evidenciar el despliege fue correcto y con un funcionamiento al 100%
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
-
+No contamos pruebas de documentacion debido a la razon mencionada anteriormente.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
-Hasta ahora, no hemos utilizado servicios web en el proceso de desarrollo de la página de inicio. Esto significa que no hemos realizado actividades como la creación de cuentas, la configuración de recursos en proveedores de servicios en la nube, la creación de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras acciones relacionadas.
-
-En cuanto al despliegue de la página de inicio, lo hemos realizado en la plataforma de Github Pages.
-
-Se puede acceder a la página de inicio a través del siguiente enlace: https://DevOps-Upc.github.io/LandingPage/
-
+El deploymento del landing page se realizó mediante GithubPages.
+![](/Assets/Img/Chapter%20V/evidencia%20landingpage.png)
+Como se puede evidenciar nuestro despliege fue realizado en GitHubPages por su facilidad.
+**Link:** [https://devops-upc.github.io/TeamSync-LandingPage/](https://devops-upc.github.io/TeamSync-LandingPage/)
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 A continuación se presentan capturas de los insights del repositorio del landing page en Github
