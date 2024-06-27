@@ -725,12 +725,19 @@ En nuestro tercer sprint, nos enfocamos en desarrollar una versión inicial de n
 <h3>5.2.3.3. Development Evidence for Sprint Review</h3>
 En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. La implementación de la segunda version del Web Application Front End  y BackEnd. Se implementaron ramas a partir de la rama develop para que cada integrante. <br><br>
 
+![capture](/Assets/Img/Chapter%20V/sprint%203/sprint3capture.PNG)
+
+
+
 
 
 
 <h3>5.2.3.4. Testing Suite Evidence for Sprint Review</h3>
 
 Hemos desarrollado un conjunto de pruebas automatizadas que cubren los Endpoints relacionados con los User Stories definidos para este Sprint. Estas pruebas incluyen Unit Tests, Integration Tests y Acceptance Tests para garantizar la calidad y la funcionalidad de nuestros Web Services.
+
+![test1](/Assets/Img/Chapter%20V/sprint%203/testlogin.png)
+![test2](/Assets/Img/Chapter%20V/sprint%203/testsignup.png)
 
 <h3>5.2.3.5. Execution Evidence for Sprint Review</h3>
 
