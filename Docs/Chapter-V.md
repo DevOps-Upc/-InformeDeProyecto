@@ -936,9 +936,10 @@ Cabe destacar la participación activa de todo el equipo en el desarrollo del pr
   <li>¿Existen aspectos del diseño que podrían mejorarse para una mejor comprensión y atractivo visual? (Diseño estético y minimalista)</li>
 </ul>
 <h3>5.3.2 Registro de entrevistas. </a></h3>
+
 ### **Usuario Estudiante**
 
-**Tiempo de duración de la entrevista:**  2:34 minutos
+**Tiempo de duración de la entrevista:**  5:40 minutos
 
 **Plataforma utilizada:** Zoom
 
@@ -966,7 +967,7 @@ Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_
 
 ### **Usuario Profesor**
 
-**Tiempo de duración de la entrevista:**  6:47 minutos
+**Tiempo de duración de la entrevista:**  4:08 minutos
 
 **Plataforma utilizada:** Zoom
 
