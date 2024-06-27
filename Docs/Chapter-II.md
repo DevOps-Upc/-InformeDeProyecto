@@ -89,7 +89,7 @@ Este proceso de comparación es especialmente valioso para obtener información 
 
 #### Entrevista de usuario
 
-
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EX-xeKlhmkxAlRzXa2nLt9UBZHsYaloNrIkuszsGQN6y1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=e6mlo9">Link de entrevistas en conjunto</a>
 
 ### **Usuario Estudiante**
 
@@ -188,11 +188,9 @@ Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_
 </div>
 </br>
 
-#### Preguntas principales:
-
-
 ### 2.2.3. Análisis de entrevistas
 
+En resumen, tanto los profesores como el estudiante requieren de una aplicación Web para la mejora de gestión de proyectos a pequeña y grande escala, el estudiante quiere que le resulte menos tedioso la elaboración de los proyectos y lso profesores quieren un canal de comunicación más directo con los alumnos para poder asesorarlos bien.
 
 ## 2.3. Needfinding
 Para los que no saben que es <em>Needfinding</em>, es una fragmento crucial y a su vez fundamental, el cual consiste en la búsqueda de ciertas necesidades; de las cuales, por medio del proceso de investigación, podamos identificar las necesidades del mercado para llegar a una determina solución.
