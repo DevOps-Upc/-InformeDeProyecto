@@ -784,9 +784,11 @@ BackEnd Web Application
 <br><br>
 
 ![](/Assets/Img/Chapter%20V/sprint%203/Commits%20barras.png)
+<br>
 La cantidad de commits realizados por el integrante Brayan Smith en la backend
 
 ![](/Assets/Img/Chapter%20V/sprint%203/linea%20de%20tiempo.png)
+<br>
 Linea de tiempo de los commits realizados antes de la fecha de entrega aplicando gitflow.
 
 
