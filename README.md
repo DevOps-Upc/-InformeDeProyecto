@@ -164,6 +164,14 @@
 
 URL Project Report (Github):https://github.com/DevOps-Upc/TeamSync-InformeDeProyecto
 
+![barras](/Assets/Img/Colaboration/barras.png)
+En este grafico de barras se puede ver la cantidad de commits realizados por cada miembro del equipo respecto a las contribuciones en el informe.
+![contribuciones](/Assets/Img/Colaboration/contribuciones.png)
+En este grafico se pude mostrar un grafico que muestra la actividad de cada integrante del equipo a lo largo de un intervalo de tiempo. Este grafico nos muestra la actividad de los integrantes en el tiempo de desarrollo.
+![linea de tiempo](/Assets/Img/Colaboration/linea%20de%20tiempo.png)
+En este grafico nos muestra las ramas trabajadas por los integrantes del equipo.
+
+
 # **Tabla de Contenido**
 ## Capitulo I: Introducción
 ### [1.1. Startup Profile](/Docs//chapter-I.md/#11-startup-profile)
@@ -298,7 +306,7 @@ URL Project Report (Github):https://github.com/DevOps-Upc/TeamSync-InformeDeProy
     * ##### [5.2.3.8. Team Collaboration Insights during Sprint](/Docs/chapter-V.md#5238-team-collaboration-insights-during-sprint)
 
 * #### [5.2.4 Sprint 4](/Docs/chapter-V.md#524-sprint-4)
-    * ##### [5.2.4.1. Sprint Planning 46](/Docs/chapter-V.md#5241-sprint-planning-4)
+    * ##### [5.2.4.1. Sprint Planning 4](/Docs/chapter-V.md#5241-sprint-planning-4)
     * ##### [5.2.4.2. Sprint Backlog 4](/Docs/chapter-V.md#5242-sprint-backlog-4)
     * ##### [5.2.4.3. Development Evidence for Sprint Review](/Docs/chapter-V.md#5243-development-evidence-for-sprint-review)
     * ##### [5.2.4.4. Testing Suite Evidence for Sprint Review](/Docs/chapter-V.md#5244-testing-suite-evidence-for-sprint-review)
