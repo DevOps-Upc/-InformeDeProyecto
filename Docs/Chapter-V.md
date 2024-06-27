@@ -740,12 +740,120 @@ Vistas implementadas para este sprint se realizaron para los segmentos:
 Hemos desarrollado una serie de endpoints para la gestión de roles y usuarios en nuestra aplicación. A continuación, se detallan estos endpoints y cómo interactuar con ellos:
 <h3>5.2.3.7. Development Evidence for Sprint Review</h3>
 <br>
-A continuación procederemos a mostrar los pasos del deployment de la aplicación web Frontend.
+A continuación procederemos a mostrar las evidencias de lo trabajado en este Sprint.
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>TeamSync - Frontend</td>
+    <td>develop</td>
+    <td>9611c8fbd82de24425f6d1b599982a6899c28629</td>
+    <td>feat(project): fix home and sidebar student</td>
+    <td>09/06/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>main</td>
+    <td>94ca2c79e3e3ebc5e0b45ec01ad7703f6cf726bf</td>
+    <td>Update(main):Update Url of ApiFake</td>
+    <td>04/05/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>main</td>
+    <td>77e5b3ba1a685e2f313aca55a4da16ba512b19e0</td>
+    <td>feat(proyects): fix create task in dialog</td>
+    <td>04/05/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feat/experts</td>
+    <td>c5b5b140855047b6736e15d6fce928f39e15183f</td>
+    <td>feat(experts): added fully functional vies of experts</td>
+    <td>02/05/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feat/experts</td>
+    <td>791530b87c312ec545921428c31d8fab861a62ce</td>
+    <td>feat(experts): added dialog</td>
+    <td>19/05/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feat/library-web</td>
+    <td>7ecec968478ef1d78508df241874eb46e8fbe4a3</td>
+    <td>feature/library-web</td>
+    <td>26/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feature/projects</td>
+    <td>30993663694e2e70c65e865ea3b10e9ca372e73f</td>
+    <td>feat(project): add page public home and fix toolbar</td>
+    <td>13/05/2024</td>
+  </tr>
+  <tr>
+    <td>TeamSync-Backend</td>
+    <td>Develop</td>
+    <td>7471eb41026afafa257959fd8d35a34513b2b8a2</td>
+    <td>feat(project): Add file</td>
+    <td>09/06/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>Develop</td>
+    <td>e76167291b4fb02133df82487fb3363772e572c0</td>
+    <td>feat(project): add api.dll api.exe</td>
+    <td>09/06/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feat/project</td>
+    <td>0117449ff9e3a39861cde5713ed14a1bed90a909</td>
+    <td>chore(main): initial commit</td>
+    <td>22/05/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feat/project</td>
+    <td>dd2bcefa97edfa7fd5d346a9cc8902883ec39978</td>
+    <td>chore(develop): added shared kernel</td>
+    <td>06/06/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>feat/project</td>
+    <td>0b8ae870d082b9412db0f44acbd861481051492f</td>
+    <td>feat(project): commit of avance</td>
+    <td>09/06/2024</td>
+  </tr>
+
+  </table>
 
 <h3>5.2.2.8. Team Collaboration Insights durante el Sprint</h3><br>
-Se creó una organización en GitHub con un dominio público para que el profesor pueda visualizar el proyecto.<br>.
+Se creó una organización en GitHub con un dominio público para que el profesor pueda visualizar el proyecto.<br>
 
 Cabe destacar la participación activa de todo el equipo en el desarrollo del proyecto, abarcando desde el Landing Page hasta las capas técnicas del Frontend y Backend, como se evidencia en las imágenes que muestran sus commits. *Team Collaboration Insights* se erige como un recurso fundamental, no solo para comprender la eficacia del equipo desde una perspectiva técnica, sino también para apreciar el esfuerzo conjunto que ha llevado al éxito del proyecto.
+
+Project Report
+
+<p align="center">
+  <img src="../Assets/Img/Chapter V/CapturaPulseSprint.png">
+
+  <img src="../Assets/Img/Chapter V/Insights_sprint3.1.png">
+
+<br>
+  <img src="../Assets/Img/Chapter V/Insights_sprint3.2.png">
+  
+</p>
+
 
 
 <strong></strong>
@@ -753,10 +861,16 @@ Cabe destacar la participación activa de todo el equipo en el desarrollo del pr
 FrontEnd Web Application
 Se muestra la cantidad de merge pull request y los autores que participaron en el FrontEnd
 
+<p align="center">
 
 
-<br><br>
+  <img src="../Assets/Img/Chapter V/Insights_sprint3.4.png">
 
+  
+</p>
+
+
+<br>
 
 BackEnd Web Application
 <br><br>
@@ -764,6 +878,10 @@ BackEnd Web Application
 <p align ="center">
 Se muestra la cantidad de merge pull request y los autores que participaron en el BackEnd
 <br><br>
+<img src="../Assets/Img/Chapter V/CapturaPulseBackendSprint.png">
+
+<img src="../Assets/Img/Chapter V/Insights_sprint3.3.png">
+</p>
 <br><br>
 
 <h3>5.3. Validation Interviews</a></h3><br>
