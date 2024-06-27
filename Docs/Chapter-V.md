@@ -770,16 +770,16 @@ aqui se muestra la configuracion de nuestra base de datos desplegada en azure co
 Se muestra el despliege y configuracion de la backend en azure.
 
 <h3>5.2.2.8. Team Collaboration Insights durante el Sprint</h3><br>
-Se creó una organización en GitHub con un dominio público para que el profesor pueda visualizar el proyecto.<br>.
+Se creó una organización en GitHub con un dominio público para que el profesor pueda visualizar el proyecto.<br>
 
 Cabe destacar la participación activa de todo el equipo en el desarrollo del proyecto, abarcando desde el Landing Page hasta las capas técnicas del Frontend y Backend, como se evidencia en las imágenes que muestran sus commits. *Team Collaboration Insights* se erige como un recurso fundamental, no solo para comprender la eficacia del equipo desde una perspectiva técnica, sino también para apreciar el esfuerzo conjunto que ha llevado al éxito del proyecto.
 
 
-<br><br>
+<br>
 
 
 BackEnd Web Application
-<br><br>
+<br>
 
 ![](/Assets/Img/Chapter%20V/sprint%203/Commits%20barras.png)
 <br>
