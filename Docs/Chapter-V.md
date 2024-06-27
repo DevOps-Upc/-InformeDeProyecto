@@ -936,7 +936,77 @@ Cabe destacar la participación activa de todo el equipo en el desarrollo del pr
   <li>¿Existen aspectos del diseño que podrían mejorarse para una mejor comprensión y atractivo visual? (Diseño estético y minimalista)</li>
 </ul>
 <h3>5.3.2 Registro de entrevistas. </a></h3>
+### **Usuario Estudiante**
 
+**Tiempo de duración de la entrevista:**  2:34 minutos
+
+**Plataforma utilizada:** Zoom
+
+<h4>Entrevista 1</h4>
+
+<div align ="center">
+
+
+| Nombre  | Apellido |  Edad   |
+| :------ | :------- | :-----: |
+| Luis | Alejo    | Edad 17 |
+
+</br>
+<img src="../Assets/Img/Chapter V/EntrevistaAlejo.PNG" >
+
+</br>
+
+
+<p align="justify">Mencionó que es crucial que una aplicacion ofrezaca visibilidad clara del estado del sistema en todo momento y que nuestra aplicacion era facil de usar, que sigue un flujo logico y natural y que se puede mover libremente por la página web.
+
+</br>
+Cree que nuestra apliación le ayudará a que mejore sus proyectos. </br>
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EYdYe6GIEt9Opp76FhCBYVEBPTr1LOe6ZfMi_n397oldxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xjgBpE">Entrevista Estudiante 1</a> <br>En el video total de entrevistas: 0:10-6:03
+
+
+### **Usuario Profesor**
+
+**Tiempo de duración de la entrevista:**  6:47 minutos
+
+**Plataforma utilizada:** Zoom
+
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+
+| Nombre  | Apellido |  Edad   |
+| :------ | :------- | :-----: |
+| Carol | Bernuy    | Edad 27 |
+
+</br>
+<img src="../Assets/Img/Chapter V/CapturaDePantallaEntrevistaUserProfesor2.PNG">
+</br>
+
+<p align="justify">Resumen entrevista: Carol Bernuy tiene 27 años, es profesora de secundaria.</br>
+Menciona que le gustaría una función de notificación para dar feedback, le gusta que están las funciones básicas necesarias para supervisar los proyectos, se puede mover libremente y no se pierde, sabe en donde está en cada momento.</br>
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EYdYe6GIEt9Opp76FhCBYVEBPTr1LOe6ZfMi_n397oldxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xjgBpE">Entrevista Profesor 1</a>
+<br>En el video total de entrevistas: 6:08-10:16
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+
+| Nombre  | Apellido |  Edad   |
+| :------ | :------- | :-----: |
+| Maria | Aguilar    | Edad 35 |
+
+</br>
+<img src="../Assets/Img/Chapter V/CapturaDePantallaEntrevistaUserProfesor3.PNG">
+</br>
+
+<p align="justify">Resumen entrevista: María Aguilar tiene 35 años, es profesora de secundaria.</br>
+Nos comentó que le gustó la aplicación, pudo observar cómo sus alumnos estaban desarrollando su proyecto y le gustó la función de asignación de tareas y que se apreció bien sus comentarios.
+Se puede mover libremente, menciona que los íconos no le ayudan mucho porque no está muy familiarizada con la tecnología, le gustaría que tuviera texto. Podría mejorar en cuanto a que tenga más información de los participantes del proyecto.</br>
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EYdYe6GIEt9Opp76FhCBYVEBPTr1LOe6ZfMi_n397oldxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xjgBpE">Entrevista Profesor 2</a>
+<br>En el video total de entrevistas: 10:16-14:09
 
 
 <h3>5.3.3 Evaluaciones segun heuristicas. </a></h3>
@@ -951,33 +1021,122 @@ Cabe destacar la participación activa de todo el equipo en el desarrollo del pr
 
 **TAREAS A EVALUAR:**
 
-1. **Desktop landing page**
-- Información y descripción de la aplicación y sus funcionalidades.
-- Visualización de planes de pago de la aplicación
-- Header y footer apropiado para la landing page
-- Interacción del landing page con la aplicación
-- Redes sociales asociadas al startup
-- Videos de about the product y about the team
+1. Visualización de los planes para el registro del cliente
+
+    Observación:
+        La aplicación muestra una sección clara y detallada sobre los diferentes planes de registro, destacando los beneficios de cada uno y los precios asociados.
+    Cumplimiento:
+        Esta funcionalidad está adecuadamente implementada, facilitando a los usuarios la comprensión de las opciones de registro disponibles.
+
+2. Indicadores claros de progreso o estado del proceso
+
+    Observación:
+        La aplicación incluye barras de progreso e indicadores visuales que guían a los usuarios a través de los diferentes pasos del registro y otros procesos.
+    Cumplimiento:
+        Los usuarios pueden seguir fácilmente el progreso de sus acciones, mejorando la experiencia de usuario y reduciendo la incertidumbre.
+
+3. Iconografía comprensible y consistente con el mundo real
+
+    Observación:
+        La iconografía utilizada es adecuada y clara, con símbolos fácilmente reconocibles y consistentes en toda la aplicación.
+    Cumplimiento:
+        Los iconos ayudan a los usuarios a entender rápidamente las funciones y acciones disponibles.
+
+4. Mensajes de error que reflejen el registro de datos incorrectos
+
+    Observación:
+        La aplicación proporciona mensajes de error claros y específicos que indican al usuario exactamente qué datos necesitan corrección y por qué.
+    Cumplimiento:
+        Los mensajes de error son informativos y ayudan a los usuarios a corregir sus errores sin frustración.
+
+5. Acciones de retroceso dentro de la aplicación
+
+    Observación:
+        La aplicación incluye botones de retroceso en todas las secciones donde los usuarios puedan necesitar regresar a una página anterior.
+    Cumplimiento:
+        Los usuarios pueden navegar hacia atrás fácilmente, lo que mejora la navegación y la experiencia general.
+
+6. Evaluar existencia de patrones de diseño o navegación
+
+    Observación:
+        La aplicación sigue un patrón de diseño coherente, con un diseño limpio y elementos bien organizados.
+    Cumplimiento:
+        La consistencia en el diseño facilita a los usuarios la familiarización y navegación por la aplicación.
+
+7. Elementos de la interfaz de usuario consistentes
+
+    Observación:
+        La interfaz mantiene una estética uniforme y consistente en todos los elementos, incluyendo botones, tipografía, colores y espacios.
+    Cumplimiento:
+        La consistencia en la interfaz mejora la experiencia de usuario al proporcionar un entorno predecible y agradable.
+
+8. Pestañas de navegación dentro de la aplicación
+
+    Observación:
+        Las pestañas de navegación son visibles y claras, permitiendo a los usuarios moverse fácilmente entre secciones.
+    Cumplimiento:
+        La navegación es intuitiva y accesible, mejorando la usabilidad de la aplicación.
+
+9. Botones interactivos y de uso intuitivo
+
+    Observación:
+        Los botones son claros, interactivos e intuitivos, proporcionando retroalimentación visual al ser presionados.
+    Cumplimiento:
+        Los usuarios pueden interactuar fácilmente con los botones, lo que mejora la eficiencia y efectividad de la aplicación.
+
+10. Navegación y orientación dentro de la aplicación
+
+    Observación:
+        La estructura de navegación es lógica y fácil de seguir, con un menú lateral que facilita el acceso a diferentes secciones.
+    Cumplimiento:
+        Los usuarios pueden orientarse fácilmente y encontrar la información o funcionalidad que necesitan sin dificultad.
+
+11. Visualización de perfil del estudiante
+
+    Observación:
+        La sección de perfil del estudiante permite ver y editar información personal y académica de manera intuitiva.
+    Cumplimiento:
+        Los estudiantes pueden gestionar su información de manera eficiente y segura.
+
+12. Visualización del perfil del profesor
+
+    Observación:
+        La visualización del perfil del profesor es clara y completa, mostrando información relevante como experiencia, especialidades y disponibilidad.
+    Cumplimiento:
+        Los perfiles de los profesores están bien diseñados y proporcionan toda la información necesaria para los estudiantes.
+
+13. Visualización de la vista solicitar profesor
+
+    Observación:
+        La funcionalidad para solicitar un profesor es clara y accesible, indicando disponibilidad y especialidades.
+    Cumplimiento:
+        Los estudiantes pueden solicitar profesores de manera fácil y rápida, mejorando la interacción y el aprendizaje.
+
+14. Visualización de los comentarios al trabajo
+
+    Observación:
+        La aplicación incluye una sección donde los estudiantes pueden recibir y ver comentarios sobre su trabajo.
+    Cumplimiento:
+        La retroalimentación es fácil de acceder y comprender, facilitando la mejora continua del desempeño del estudiante.
+
+15. Visualización de los proyectos en los que está asociado el profesor
+
+    Observación:
+        Los proyectos en los que está asociado el profesor son claramente visibles, con detalles sobre su rol y contribuciones.
+    Cumplimiento:
+        La información sobre los proyectos está bien organizada y es accesible para los usuarios interesados.
+
+16. Estética general de la interfaz atractiva y agradable visualmente
+
+    Observación:
+        La interfaz es atractiva y bien diseñada, con una estética moderna y limpia.
+    Cumplimiento:
+        La estética visual es agradable, lo que contribuye a una experiencia de usuario positiva y atractiva.
+
+En resumen, la aplicación web cumple con las heurísticas de usabilidad propuestas, ofreciendo una experiencia de usuario coherente, intuitiva y agradable. La información es clara y accesible, y la navegación está bien estructurada, facilitando a los usuarios la realización de tareas dentro de la aplicación.
 
 
-1. **Web Application** 
 
-- Visualización de los planes para el registro del cliente 
-- Indicadores claros de progreso o estado del proceso
-- Iconografía comprensible y consistente con el mundo real
-- Mensajes de error que reflejen el registro de datos incorrectos
-- Acciones de retroceso dentro de la aplicación
-- Evaluar existencia de patrones de diseño o navegación
-- Elementos de la interfaz de usuario consistentes
-- Pestañas de navegación dentro de la aplicación
-- Botones interactivos y de uso intuitivo
-- Navegación y orientación dentro de la aplicación
-- Visualización de perfil del estudiante 
-- Visualización del perfil del profesor 
-- Visualización de la vista solicitar profesor
-- Visualización de los comentarios al trabajo
-- Visualización de los proyectos en los que está asociado el profesor.
-- Estética general de la interfaz atractiva y agradable visualmente
 
 **No están incluidas en esta versión de la evaluación las siguientes tareas:**
 
