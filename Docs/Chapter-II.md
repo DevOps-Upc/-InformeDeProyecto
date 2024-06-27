@@ -154,7 +154,7 @@ Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_
 | Carol | Bernuy    | Edad 27 |
 
 </br>
-<img src="../Assets/Img/Chapter II/CapturaDePantallaEntrevistaUserProfesor2.png">
+<img src="../Assets/Img/Chapter II/CapturaDePantallaEntrevistaUserProfesor2.PNG">
 </br>
 
 <p align="justify">Resumen entrevista: CarolBernuy tiene 27 años, es profesora de secundaria.</br>
@@ -170,15 +170,15 @@ Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_
 
 | Nombre  | Apellido |  Edad   |
 | :------ | :------- | :-----: |
-| Elvira | Peña    | Edad 36 |
+| Maria | Aguilar    | Edad 35 |
 
 </br>
-<img src="../Assets/Img/Chapter II/CapturaDePantallaEntrevistaUserProfesor3.png">
+<img src="../Assets/Img/Chapter II/CapturaDePantallaEntrevistaUserProfesor3.PNG">
 </br>
 
-<p align="justify">Resumen entrevista: Elvira Peña tiene 36 años, es profesora universitaria.</br>
-Actualmente presenta problemas al no poder verificar bien los avances de sus alumnos al momento de la realización de sus proyectos.</br>
-A la vez se muestra muy interesada por el producto porque le gustaría dar mentorías personalizadas por organización de su misma profesión dedicada a la investigación en la psicología.</br>
+<p align="justify">Resumen entrevista: Maria Aguilar tiene 35 años, es profesora de primaria en Tumbes.</br>
+Actualmente presenta problemas manejando la tecnología por lo que le gustaría que la página web sea sencilla de usar.</br>
+A la vez se muestra muy interesada por el producto porque le gustaría dar asesorías más personalizadas a sus alumnos y poder manejar mejor los grupos de sus alumnos.</br>
 Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EX-xeKlhmkxAlRzXa2nLt9UBZHsYaloNrIkuszsGQN6y1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=e6mlo9">Entrevista Profesor 3</a>
 <br>En el video total de entrevistas:13:28-17:00
 
