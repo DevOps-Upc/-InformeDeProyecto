@@ -936,7 +936,77 @@ Cabe destacar la participación activa de todo el equipo en el desarrollo del pr
   <li>¿Existen aspectos del diseño que podrían mejorarse para una mejor comprensión y atractivo visual? (Diseño estético y minimalista)</li>
 </ul>
 <h3>5.3.2 Registro de entrevistas. </a></h3>
+### **Usuario Estudiante**
 
+**Tiempo de duración de la entrevista:**  2:34 minutos
+
+**Plataforma utilizada:** Zoom
+
+<h4>Entrevista 1</h4>
+
+<div align ="center">
+
+
+| Nombre  | Apellido |  Edad   |
+| :------ | :------- | :-----: |
+| Luis | Alejo    | Edad 17 |
+
+</br>
+<img src="../Assets/Img/Chapter V/EntrevistaAlejo.PNG" >
+
+</br>
+
+
+<p align="justify">Mencionó que es crucial que una aplicacion ofrezaca visibilidad clara del estado del sistema en todo momento y que nuestra aplicacion era facil de usar, que sigue un flujo logico y natural y que se puede mover libremente por la página web.
+
+</br>
+Cree que nuestra apliación le ayudará a que mejore sus proyectos. </br>
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EYdYe6GIEt9Opp76FhCBYVEBPTr1LOe6ZfMi_n397oldxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xjgBpE">Entrevista Estudiante 1</a> <br>En el video total de entrevistas: 0:10-6:03
+
+
+### **Usuario Profesor**
+
+**Tiempo de duración de la entrevista:**  6:47 minutos
+
+**Plataforma utilizada:** Zoom
+
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+
+| Nombre  | Apellido |  Edad   |
+| :------ | :------- | :-----: |
+| Carol | Bernuy    | Edad 27 |
+
+</br>
+<img src="../Assets/Img/Chapter V/CapturaDePantallaEntrevistaUserProfesor2.PNG">
+</br>
+
+<p align="justify">Resumen entrevista: Carol Bernuy tiene 27 años, es profesora de secundaria.</br>
+Menciona que le gustaría una función de notificación para dar feedback, le gusta que están las funciones básicas necesarias para supervisar los proyectos, se puede mover libremente y no se pierde, sabe en donde está en cada momento.</br>
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EYdYe6GIEt9Opp76FhCBYVEBPTr1LOe6ZfMi_n397oldxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xjgBpE">Entrevista Profesor 1</a>
+<br>En el video total de entrevistas: 6:08-10:16
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+
+| Nombre  | Apellido |  Edad   |
+| :------ | :------- | :-----: |
+| Maria | Aguilar    | Edad 35 |
+
+</br>
+<img src="../Assets/Img/Chapter V/CapturaDePantallaEntrevistaUserProfesor3.PNG">
+</br>
+
+<p align="justify">Resumen entrevista: María Aguilar tiene 35 años, es profesora de secundaria.</br>
+Nos comentó que le gustó la aplicación, pudo observar cómo sus alumnos estaban desarrollando su proyecto y le gustó la función de asignación de tareas y que se apreció bien sus comentarios.
+Se puede mover libremente, menciona que los íconos no le ayudan mucho porque no está muy familiarizada con la tecnología, le gustaría que tuviera texto. Podría mejorar en cuanto a que tenga más información de los participantes del proyecto.</br>
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EYdYe6GIEt9Opp76FhCBYVEBPTr1LOe6ZfMi_n397oldxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xjgBpE">Entrevista Profesor 2</a>
+<br>En el video total de entrevistas: 10:16-14:09
 
 
 <h3>5.3.3 Evaluaciones segun heuristicas. </a></h3>
