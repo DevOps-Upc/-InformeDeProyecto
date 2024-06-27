@@ -89,7 +89,7 @@ Este proceso de comparación es especialmente valioso para obtener información 
 
 #### Entrevista de usuario
 
-<div style="text-align: center;">
+
 
 ### **Usuario Estudiante**
 
@@ -105,7 +105,7 @@ Este proceso de comparación es especialmente valioso para obtener información 
 | Nombre  | Apellido |  Edad   |
 | :------ | :------- | :-----: |
 | Luis | Alejo    | Edad 17 |
-
+</div>
 </br>
 <img src="../Assets/Img/Chapter II/EntrevistaAlejo.PNG" >
 
