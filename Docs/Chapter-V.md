@@ -526,7 +526,7 @@ Para el segundo sprint, se decidió enfocarse exclusivamente en la creación de 
     <td>Sprint 3</td>
   </tr>
   <table>
-  <caption>Sprint #2</caption>
+  <caption>Sprint #3</caption>
   <thead>
     <tr>
       <th colspan="2">Sprint Planning Backlog</th>
@@ -727,162 +727,71 @@ En nuestro tercer sprint, nos enfocamos en desarrollar una versión inicial de n
 <h3>5.2.3.3. Development Evidence for Sprint Review</h3>
 En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. La implementación de la segunda version del Web Application Front End  y BackEnd. Se implementaron ramas a partir de la rama develop para que cada integrante. <br><br>
 
+![capture](/Assets/Img/Chapter%20V/sprint%203/sprint3capture.PNG)
+
+
+
 
 <h3>5.2.3.4. Testing Suite Evidence for Sprint Review</h3>
 
 Hemos desarrollado un conjunto de pruebas automatizadas que cubren los Endpoints relacionados con los User Stories definidos para este Sprint. Estas pruebas incluyen Unit Tests, Integration Tests y Acceptance Tests para garantizar la calidad y la funcionalidad de nuestros Web Services.
 
+![test1](/Assets/Img/Chapter%20V/sprint%203/testlogin.png)
+![test2](/Assets/Img/Chapter%20V/sprint%203/testsignup.png)
+
 <h3>5.2.3.5. Execution Evidence for Sprint Review</h3>
+
 Vistas implementadas para este sprint se realizaron para los segmentos:
 
+![deployBackEnd](/Assets/Img/Chapter%20V/sprint%203/backEnd-Captura%201.png)
+Como se puede apreciar para esta entrega se desarrollaron los siguientes endPoints FileAsset y Project.
+
+[Link Para El BackEnd](https://teamsync-wa.azurewebsites.net/swagger/index.html)
+
 <h3>5.2.3.6. Services Documentation Evidence for Sprint Review</h3>
+
+|EndPoint|Http Verb|Action|
+|---|---|---|
+|https://teamsync-wa.azurewebsites.net/api/v1/file-asset| Post|Agregar un FILE a un projecto determinado|
+|https://teamsync-wa.azurewebsites.net/api/v1/file-asset/project/{projectId}|Get|Obtener todos los archivos relacionados con un projecto.|
+|https://teamsync-wa.azurewebsites.net/api/v1/project|Post|Crear un projecto nuevo |
+|https://teamsync-wa.azurewebsites.net/api/v1/project/profile/{profileId}|Get|Obtener los projectos teniendo en cuenta el id del perfil|
+|https://teamsync-wa.azurewebsites.net/api/v1/project{ProjectId}|Get|Obtener projecto por id|
+|https://teamsync-wa.azurewebsites.net/api/v1/project/{ProjectId}/{ProfileId}|Delete|borrar projecto con id del projecto y perfil id.|
 
 Hemos desarrollado una serie de endpoints para la gestión de roles y usuarios en nuestra aplicación. A continuación, se detallan estos endpoints y cómo interactuar con ellos:
 <h3>5.2.3.7. Development Evidence for Sprint Review</h3>
 <br>
-A continuación procederemos a mostrar las evidencias de lo trabajado en este Sprint.
+A continuación procederemos a mostrar los pasos del deployment de la aplicación backEnd.
 
-<table border="0" width="100%" height="100%">
-  <tr>
-    <th>Repository</th>
-    <th>Branch</th>
-    <th>Commit Id</th>
-    <th>Commit Message</th>
-    <th>Commited on</th>
-  </tr>
-  <tr>
-    <td>TeamSync - Frontend</td>
-    <td>develop</td>
-    <td>9611c8fbd82de24425f6d1b599982a6899c28629</td>
-    <td>feat(project): fix home and sidebar student</td>
-    <td>09/06/2024</td>
-  </tr>
-   <tr>
-    <td></td>
-    <td>main</td>
-    <td>94ca2c79e3e3ebc5e0b45ec01ad7703f6cf726bf</td>
-    <td>Update(main):Update Url of ApiFake</td>
-    <td>04/05/2024</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>main</td>
-    <td>77e5b3ba1a685e2f313aca55a4da16ba512b19e0</td>
-    <td>feat(proyects): fix create task in dialog</td>
-    <td>04/05/2024</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>feat/experts</td>
-    <td>c5b5b140855047b6736e15d6fce928f39e15183f</td>
-    <td>feat(experts): added fully functional vies of experts</td>
-    <td>02/05/2024</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>feat/experts</td>
-    <td>791530b87c312ec545921428c31d8fab861a62ce</td>
-    <td>feat(experts): added dialog</td>
-    <td>19/05/2024</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>feat/library-web</td>
-    <td>7ecec968478ef1d78508df241874eb46e8fbe4a3</td>
-    <td>feature/library-web</td>
-    <td>26/04/2024</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>feature/projects</td>
-    <td>30993663694e2e70c65e865ea3b10e9ca372e73f</td>
-    <td>feat(project): add page public home and fix toolbar</td>
-    <td>13/05/2024</td>
-  </tr>
-  <tr>
-    <td>TeamSync-Backend</td>
-    <td>Develop</td>
-    <td>7471eb41026afafa257959fd8d35a34513b2b8a2</td>
-    <td>feat(project): Add file</td>
-    <td>09/06/2024</td>
-  </tr>
-   <tr>
-    <td></td>
-    <td>Develop</td>
-    <td>e76167291b4fb02133df82487fb3363772e572c0</td>
-    <td>feat(project): add api.dll api.exe</td>
-    <td>09/06/2024</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>feat/project</td>
-    <td>0117449ff9e3a39861cde5713ed14a1bed90a909</td>
-    <td>chore(main): initial commit</td>
-    <td>22/05/2024</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>feat/project</td>
-    <td>dd2bcefa97edfa7fd5d346a9cc8902883ec39978</td>
-    <td>chore(develop): added shared kernel</td>
-    <td>06/06/2024</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>feat/project</td>
-    <td>0b8ae870d082b9412db0f44acbd861481051492f</td>
-    <td>feat(project): commit of avance</td>
-    <td>09/06/2024</td>
-  </tr>
+![Imagen de la base de datos](/Assets//Img/Chapter%20V/sprint%203/prueba%20de%20despliege%201.jpg)
 
-  </table>
+aqui se muestra la configuracion de nuestra base de datos desplegada en azure con su configuracion establecida.
+
+![Imagen de la backEnd](/Assets/Img/Chapter%20V/sprint%203/prueba%20de%20despliege%202.jpg)
+Se muestra el despliege y configuracion de la backend en azure.
 
 <h3>5.2.2.8. Team Collaboration Insights durante el Sprint</h3><br>
-Se creó una organización en GitHub con un dominio público para que el profesor pueda visualizar el proyecto.<br>
+Se creó una organización en GitHub con un dominio público para que el profesor pueda visualizar el proyecto.<br>.
 
 Cabe destacar la participación activa de todo el equipo en el desarrollo del proyecto, abarcando desde el Landing Page hasta las capas técnicas del Frontend y Backend, como se evidencia en las imágenes que muestran sus commits. *Team Collaboration Insights* se erige como un recurso fundamental, no solo para comprender la eficacia del equipo desde una perspectiva técnica, sino también para apreciar el esfuerzo conjunto que ha llevado al éxito del proyecto.
 
-Project Report
 
-<p align="center">
-  <img src="../Assets/Img/Chapter V/CapturaPulseSprint.png">
-
-  <img src="../Assets/Img/Chapter V/Insights_sprint3.1.png">
-
-<br>
-  <img src="../Assets/Img/Chapter V/Insights_sprint3.2.png">
-  
-</p>
-
-
-
-<strong></strong>
 <br><br>
-FrontEnd Web Application
-Se muestra la cantidad de merge pull request y los autores que participaron en el FrontEnd
 
-<p align="center">
-
-
-  <img src="../Assets/Img/Chapter V/Insights_sprint3.4.png">
-
-  
-</p>
-
-
-<br>
 
 BackEnd Web Application
 <br><br>
 
-<p align ="center">
-Se muestra la cantidad de merge pull request y los autores que participaron en el BackEnd
-<br><br>
-<img src="../Assets/Img/Chapter V/CapturaPulseBackendSprint.png">
+![](/Assets/Img/Chapter%20V/sprint%203/Commits%20barras.png)
+La cantidad de commits realizados por el integrante Brayan Smith en la backend
 
-<img src="../Assets/Img/Chapter V/Insights_sprint3.3.png">
-</p>
-<br><br>
+![](/Assets/Img/Chapter%20V/sprint%203/linea%20de%20tiempo.png)
+Linea de tiempo de los commits realizados antes de la fecha de entrega aplicando gitflow.
+
+
+
+
 
 <h3>5.3. Validation Interviews</a></h3><br>
 <h3>5.3.1 Diseño de Entrevistas. </a></h3><br>
@@ -906,87 +815,9 @@ Se muestra la cantidad de merge pull request y los autores que participaron en e
 </ul>
 <h3>5.3.2 Registro de entrevistas. </a></h3><br>
 
-<div align ="center">
-
-### **Usuario estudiante**
-
-<h4>Entrevista 1</h4>
-
-| Nombre  | Apellido | Edad |
-| :------ | :------- | :--: |
-| a| a  |  1  |
-
-<img src="" >
 
 
 
-<p align="justify">Resumen entrevista: 
-<br><br>
-<h4>Entrevista 2</h4>
-
-| Nombre  | Apellido | Edad |
-| :------ | :------- | :--: |
-| a  | a  |  1  |
-
-<img src="" >
-
-
-
-<p align="justify">Resumen entrevista
-
-<br><br>
-<h4>Entrevista 3</h4>
-
-| Nombre  | Apellido | Edad | Ubicacion |
-| :------ | :------- | :--: | :---: |
-| a | a  |  a  | La Victoria |
-
-<img src="" >
-
-
-
-<p align="justify">Resumen entrevista: 
-<br><br>
-
-### **Usuario profesor**
-
-<div align ="center">
-
-
-<br>
-<h4>Entrevista 1</h4>
-
-| Nombre  | Apellido | Edad |
-| :------ | :------- | :--: |
-|  A |  A  | 1  |
-
-<img src="" >
-<p align="justify">
-<br><br>
-<h4>Entrevista 2</h4>
-
-| Nombre  | Apellido | Edad |
-| :------ | :------- | :--: |
-|  A |  A  | 1  | 
-
-<img src="" >
-<p align="justify">Aca va la descripcion
-<br><br>
-<h4>Entrevista 3</h4>
-
-| Nombre  | Apellido | Edad |
-| :------ | :------- | :--: |
-| A  | A  | A   |
-
-<img src="" >
-<p align="justify">Aca va la descripcion y en el link los videos
-</div>
-</br>
-<a href="">Link Validation Interviews </a>
-
-<br><br><br><br>
-
-</div>
 
 <h3>5.3.3 Evaluaciones segun heuristicas. </a></h3><br>
 
@@ -1010,7 +841,7 @@ Se muestra la cantidad de merge pull request y los autores que participaron en e
 
 
 1. **Web Application** 
-- I
+
 - Visualización de los planes para el registro del cliente 
 - Indicadores claros de progreso o estado del proceso
 - Iconografía comprensible y consistente con el mundo real
