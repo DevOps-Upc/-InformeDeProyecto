@@ -521,7 +521,7 @@ Para el segundo sprint, se decidió enfocarse exclusivamente en la creación de 
 <table>
   <tr>
     <th>Sprint #</th>
-    <td>Sprint 3</td>
+    <td>3</td>
   </tr>
   <table>
   <caption>Sprint #3</caption>
@@ -759,7 +759,7 @@ Como se puede apreciar para esta entrega se desarrollaron los siguientes endPoin
 |https://teamsync-wa.azurewebsites.net/api/v1/project{ProjectId}|Get|Obtener projecto por id|
 |https://teamsync-wa.azurewebsites.net/api/v1/project/{ProjectId}/{ProfileId}|Delete|borrar projecto con id del projecto y perfil id.|
 
-Hemos desarrollado una serie de endpoints para la gestión de roles y usuarios en nuestra aplicación. A continuación, se detallan estos endpoints y cómo interactuar con ellos:
+Hemos desarrollado una serie de endpoints para la gestión de roles y usuarios en nuestra aplicación. 
 <h3>5.2.3.7. Development Evidence for Sprint Review</h3>
 <br>
 A continuación procederemos a mostrar los pasos del deployment de la aplicación backEnd.
@@ -772,16 +772,16 @@ aqui se muestra la configuracion de nuestra base de datos desplegada en azure co
 Se muestra el despliege y configuracion de la backend en azure.
 
 <h3>5.2.2.8. Team Collaboration Insights durante el Sprint</h3><br>
-Se creó una organización en GitHub con un dominio público para que el profesor pueda visualizar el proyecto.<br>.
+Se creó una organización en GitHub con un dominio público para que el profesor pueda visualizar el proyecto.<br>
 
 Cabe destacar la participación activa de todo el equipo en el desarrollo del proyecto, abarcando desde el Landing Page hasta las capas técnicas del Frontend y Backend, como se evidencia en las imágenes que muestran sus commits. *Team Collaboration Insights* se erige como un recurso fundamental, no solo para comprender la eficacia del equipo desde una perspectiva técnica, sino también para apreciar el esfuerzo conjunto que ha llevado al éxito del proyecto.
 
 
-<br><br>
+<br>
 
 
 BackEnd Web Application
-<br><br>
+<br>
 
 ![](/Assets/Img/Chapter%20V/sprint%203/Commits%20barras.png)
 <br>
@@ -790,6 +790,126 @@ La cantidad de commits realizados por el integrante Brayan Smith en la backend
 ![](/Assets/Img/Chapter%20V/sprint%203/linea%20de%20tiempo.png)
 <br>
 Linea de tiempo de los commits realizados antes de la fecha de entrega aplicando gitflow.
+
+### 5.2.3 Sprint 4
+
+#### 5.2.3.1 Sprint Planning 4
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>4</td>
+  </tr>
+  <table>
+  <caption>Sprint #4</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>15/06/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>18:00 horas (GMT-5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Morales Quispe, Brayan</td>
+    </tr>
+    <tr>
+      <td>Asistentes a la reunión de planificación</td>
+      <td>Todos los miembros de Dev-Ops</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 3 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        En el Sprint anterior, la meta fue el desarrollo del FrontEnd Web Application.La creación del Backend. En este FrontEnd se mostro la interfaz del cliente con sus datos y  ahora se puede manejar diferentes projectos. Adicionalmente, añadimos 2 endpoints y nos dimos cuenta que necesitábamos más comunicación en el equipo.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 3 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación del Web Application se desarrolló con html, css, JavaScript y como framework: Vue. Adicional para el Backend utilizamos Rider como IDE, se desarrolló en C#, como framework ASP.NET Core.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        	La meta de este Sprint es la mejora del FrontEnd Web Application, del Web Services, del informe y la integración de ambos, asimismo la mejora continua.
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Velocity</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>21</td>
+    </tr>
+  </tbody>
+</table>
+<h3>5.2.3.2. Sprint Backlog 4</h3>
+
+En nuestro cuarto sprint, nos enfocamos en desarrollar la versión final de nuestro backend, estableciendo las tareas que implementaremos para el proyecto. Asimismo, incorporamos más funcionalidades en el frontend, para tener las vistas de los segmentos completos y optimizamos tanto el proceso asignación de tareas como añadir y modificar comentarios. Además, logramos completar la mayoría de las tareas que nos propusimos para este sprint junto con la mejora continua, levantando así las observaciones señaladas en las entregas pasadas.
+
+
+
+<h3>5.2.3.3. Development Evidence for Sprint Review</h3>
+En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. La implementación de la segunda version del Web Application Front End  y BackEnd. Se implementaron ramas a partir de la rama develop para que cada integrante. <br><br>
+
+
+
+
+
+
+<h3>5.2.3.4. Testing Suite Evidence for Sprint Review</h3>
+
+Hemos desarrollado un conjunto de pruebas automatizadas que cubren los Endpoints relacionados con los User Stories definidos para este Sprint. Estas pruebas incluyen Unit Tests, Integration Tests y Acceptance Tests para garantizar la calidad y la funcionalidad de nuestros Web Services.
+
+
+<h3>5.2.3.5. Execution Evidence for Sprint Review</h3>
+
+Vistas implementadas para este sprint se realizaron para los segmentos:
+
+<h3>5.2.3.6. Services Documentation Evidence for Sprint Review</h3>
+
+<h3>5.2.3.7. Development Evidence for Sprint Review</h3>
+<br>
+
+
+<h3>5.2.2.8. Team Collaboration Insights durante el Sprint</h3><br>
+Se creó una organización en GitHub con un dominio público para que el profesor pueda visualizar el proyecto.<br>
+
+Cabe destacar la participación activa de todo el equipo en el desarrollo del proyecto, abarcando desde el Landing Page hasta las capas técnicas del Frontend y Backend, como se evidencia en las imágenes que muestran sus commits. *Team Collaboration Insights* se erige como un recurso fundamental, no solo para comprender la eficacia del equipo desde una perspectiva técnica, sino también para apreciar el esfuerzo conjunto que ha llevado al éxito del proyecto.
+
+
+<br>
+
+
+
 
 
 
@@ -815,13 +935,11 @@ Linea de tiempo de los commits realizados antes de la fecha de entrega aplicando
   <li>¿Te sientes limitado en cuanto a la forma en que puedes interactuar con la aplicación? (Flexibilidad y eficiencia de uso)</li>
   <li>¿Existen aspectos del diseño que podrían mejorarse para una mejor comprensión y atractivo visual? (Diseño estético y minimalista)</li>
 </ul>
-<h3>5.3.2 Registro de entrevistas. </a></h3><br>
+<h3>5.3.2 Registro de entrevistas. </a></h3>
 
 
 
-
-
-<h3>5.3.3 Evaluaciones segun heuristicas. </a></h3><br>
+<h3>5.3.3 Evaluaciones segun heuristicas. </a></h3>
 
 **SITE o APP A EVALUAR**
 
@@ -856,9 +974,9 @@ Linea de tiempo de los commits realizados antes de la fecha de entrega aplicando
 - Navegación y orientación dentro de la aplicación
 - Visualización de perfil del estudiante 
 - Visualización del perfil del profesor 
-- Visualización del 
-- Visualización del 
-- Visualización de
+- Visualización de la vista solicitar profesor
+- Visualización de los comentarios al trabajo
+- Visualización de los proyectos en los que está asociado el profesor.
 - Estética general de la interfaz atractiva y agradable visualmente
 
 **No están incluidas en esta versión de la evaluación las siguientes tareas:**
@@ -870,11 +988,10 @@ Linea de tiempo de los commits realizados antes de la fecha de entrega aplicando
 - Registro de un nuevo usuario 
 - Recuperación de contraseña 
 - Comprar de los planes 
-- Solicitar cita a un nutricionista 
+- Solicitar apoyo a un profesor.
 - Acceso a recursos de ayuda dentro de la aplicación
-- Actualizar la información del cliente y nutricionista 
-- Plan de clientes en la aplicación del nutricionista 
-- Plan de alimentación en la aplicación de nutricionista 
+- Actualizar la información del usuario.
+- Información del alumno en la vista del profesor.
 - Política de privacidad y condiciones de uso
 
 **ESCALA DE SEVERIDAD:**
@@ -889,8 +1006,6 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |4|<p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de </p><p>la herramienta. Es imperativo que sea corregido antes del lanzamiento.</p>|
 
 
-
-Falta guiarse del github que pase al grupo
 
 <h3>5.4. Video About the Product</a></h3>
 
