@@ -89,7 +89,7 @@ Este proceso de comparación es especialmente valioso para obtener información 
 
 #### Entrevista de usuario
 
-<div style="text-align: center;">
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EX-xeKlhmkxAlRzXa2nLt9UBZHsYaloNrIkuszsGQN6y1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=e6mlo9">Link de entrevistas en conjunto</a>
 
 ### **Usuario Estudiante**
 
@@ -105,7 +105,7 @@ Este proceso de comparación es especialmente valioso para obtener información 
 | Nombre  | Apellido |  Edad   |
 | :------ | :------- | :-----: |
 | Luis | Alejo    | Edad 17 |
-
+</div>
 </br>
 <img src="../Assets/Img/Chapter II/EntrevistaAlejo.PNG" >
 
@@ -116,7 +116,7 @@ Quiere realizar proyectos para todas sus materias de secundaria, utiliza un smar
 Utilizó antes herramientas para gestionar los proyectos pero no le gustó, desea que una aplicación de este tipo seas fácil de usar y sea amigable. Desea que se pueda asignar tareas, reuniones por llamada y videollamada y que pueda estar en constante contacto con los profesores.</br>
 Cree que nuestra apliación le ayudará a que realice un proyecto de forma eficaz, en un tiempo aceptable y que permita una buena gestión y organización de tareas, que nos ayude a optimizar nuestra forma de desarrollar un proyecto.
 Le animaría que tenga un diseño que llame la atencion, que sea simple e intuitivo de usar y que las suscripciones no estén a un elevado precio.</br>
-Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EeL2EztsmJxKk2lXeNx5YvMB5Utf34bdhCORjcI4JZGj9w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eNaZru">Entrevista Estudiante 1</a>
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EeL2EztsmJxKk2lXeNx5YvMB5Utf34bdhCORjcI4JZGj9w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eNaZru">Entrevista Estudiante 1</a> <br>En el video total de entrevistas: 0:10-2:44
 
 
 ### **Usuario Profesor**
@@ -125,7 +125,7 @@ Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_
 
 **Plataforma utilizada:** Meet
 
-<h4>Entrevista 2</h4>
+<h4>Entrevista 1</h4>
 
 <div align ="center">
 
@@ -142,17 +142,55 @@ Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_
 Actualmente presenta problemas al no poder verificar bien los avances de sus alumnos al momento de la realización de sus proyectos.</br>
 A la vez se muestra muy interesada por el producto porque le gustaría dar mentorías personalizadas por organización de su misma profesión dedicada a la investigación en la psicología.</br>
 Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/Ed2juBrBqwBEl-K8OrS28moBpt5VmZ5felHXZegeqnR95Q?e=cI7cgw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista Profesor 1</a>
+<br>En el video total de entrevistas: 2:50-9:21
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+
+| Nombre  | Apellido |  Edad   |
+| :------ | :------- | :-----: |
+| Carol | Bernuy    | Edad 27 |
+
+</br>
+<img src="../Assets/Img/Chapter II/CapturaDePantallaEntrevistaUserProfesor2.PNG">
+</br>
+
+<p align="justify">Resumen entrevista: CarolBernuy tiene 27 años, es profesora de secundaria.</br>
+Actualmente presenta problemas al no poder tener una buena colaboración con los estudiantes y hacerle el seguimiento, no sabe como observar los archivos que suban sus alumnos.</br>
+A la vez se muestra muy interesada por el producto porque le gustaría dar clases más comunicativas con sus alumnos y tener un rol administrativo para controlar el avance de los proyectos de sus alumnos.</br>
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EX-xeKlhmkxAlRzXa2nLt9UBZHsYaloNrIkuszsGQN6y1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=e6mlo9">Entrevista Profesor 2</a>
+<br>En el video total de entrevistas:9:21-13:21
+
+<h4>Entrevista 3</h4>
+
+<div align ="center">
+
+
+| Nombre  | Apellido |  Edad   |
+| :------ | :------- | :-----: |
+| Maria | Aguilar    | Edad 35 |
+
+</br>
+<img src="../Assets/Img/Chapter II/CapturaDePantallaEntrevistaUserProfesor3.PNG">
+</br>
+
+<p align="justify">Resumen entrevista: Maria Aguilar tiene 35 años, es profesora de primaria en Tumbes.</br>
+Actualmente presenta problemas manejando la tecnología por lo que le gustaría que la página web sea sencilla de usar.</br>
+A la vez se muestra muy interesada por el producto porque le gustaría dar asesorías más personalizadas a sus alumnos y poder manejar mejor los grupos de sus alumnos.</br>
+Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123362_upc_edu_pe/EX-xeKlhmkxAlRzXa2nLt9UBZHsYaloNrIkuszsGQN6y1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=e6mlo9">Entrevista Profesor 3</a>
+<br>En el video total de entrevistas:13:28-17:00
+
 
 </p>
 
 </div>
 </br>
 
-#### Preguntas principales:
-
-
 ### 2.2.3. Análisis de entrevistas
 
+En resumen, tanto los profesores como el estudiante requieren de una aplicación Web para la mejora de gestión de proyectos a pequeña y grande escala, el estudiante quiere que le resulte menos tedioso la elaboración de los proyectos y lso profesores quieren un canal de comunicación más directo con los alumnos para poder asesorarlos bien.
 
 ## 2.3. Needfinding
 Para los que no saben que es <em>Needfinding</em>, es una fragmento crucial y a su vez fundamental, el cual consiste en la búsqueda de ciertas necesidades; de las cuales, por medio del proceso de investigación, podamos identificar las necesidades del mercado para llegar a una determina solución.
